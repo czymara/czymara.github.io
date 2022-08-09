@@ -1,0 +1,24 @@
+---
+title: "My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany"
+permalink: /research/langenkamp_etal_2022_fsoc
+---
+Alexander Langenkamp, Tomás Cano & Christian S. Czymara
+
+Published in *Frontiers in Sociology* 6
+
+URL: [doi.org/10.3389/fsoc.2021.785201](https://doi.org/10.3389/fsoc.2021.785201)
+
+Download: [PDF](https://czymara.github.io/files/Langenkamp_2022_My Home is my Castle.pdf)
+
+Replication material: [GitHub](https://github.com/czymara/perceiving-COVID19-in-Germany), data registered at [GESIS](https://doi.org/10.7802/2034)
+
+APA citation: Langenkamp, A., Cano, T., & Czymara, C. S. (2022). My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany. Frontiers in sociology, 227.
+
+Abstract
+------
+During the early months of the COVID-19 pandemic in Germany, social restrictions and social distancing policies forced large parts of social life to take place within the household. However, comparatively little is known about how private living situations shaped individuals experiences of this crisis. To investigate this issue, we analyze how experiences and concerns vary across living arrangements along two dimensions that may be associated with social disadvantage: loneliness and care. In doing so, we employ quantitative text analysis on open-ended questions from survey data on a sample of 1,073 individuals living in Germany. We focus our analyses on four different household structures: living alone, shared living without children, living with a partner and children, and single parents. We find that single parents (who are primarily single mothers) are at high risk of experiencing care-related worries, particularly regarding their financial situation, while individuals living alone are most likely to report feelings of loneliness. Those individuals living in shared houses, with or without children, had the lowest risk of experiencing both loneliness and care-related worries. These findings illustrate that the living situation at home substantially impacts how individuals experienced and coped with the pandemic situation during the first wave of the pandemic.
+
+Outreach
+------
+- In the top 25% of all research outputs scored by [Altmetric](https://frontiers.altmetric.com/details/120653508)
+

@@ -1,0 +1,24 @@
+---
+title: "Mass Media and Concerns about Immigration in Germany in the 21st Century: Individual-Level Evidence over 15 Years"
+permalink: /research/czymara_dochow_2018_esr
+---
+Christian S. Czymara & Stephan Dochow
+
+Published in *European Sociological Review* 34 (4): 381 – 401.
+
+URL: [doi.org/10.1093/esr/jcy019](https://doi.org/10.1093/esr/jcy019)
+
+Download: [PDF](https://czymara.github.io/files/Czymara_2018_Mass-Media-and-Concerns-about-Immigration-in-Germany.pdf)
+
+Replication material: [OSF](https://osf.io/w8uz9/)
+
+APA citation: Czymara, C. S., & Dochow, S. (2018). Mass media and concerns about immigration in Germany in the 21st century: individual-level evidence over 15 years. European Sociological Review, 34(4), 381-401.
+
+Abstract
+------
+  Mass media has long been discussed as an essential determinant of the threat perceptions leading to anti-immigration attitudes. The field of empirical research on such media effects is still comparatively young, however, and lacks studies examining precise measures of the media environment an individual is likely to be actually exposed to. We employ a nuanced research design which analyses individual differences in the yearly levels of both media salience and attitudes in panel data of 25,000 persons, who were at least interviewed twice, and a time span over 15 years, from 2001 to 2015. We find a substantive and stable positive effect: comparing periods of vivid discussions with times where the issue was hardly discussed in the German media results in an increase in the predicted probability of being very concerned by about 13 percentage points. Deeper investigations reveal that the media effect is most potent for individuals living in areas with lower share of ethnic minorities and for those with lower education or conservative ideology, stressing the importance of individual receptiveness. In sum, our findings strengthen the line of reasoning stressing the importance of discursive influences on public opinion and cast doubt on the argument that threat perceptions stem primarily from the size of ethnic out-groups.
+
+Outreach
+------
+- In the top 5% of all research outputs scored by [Altmetric](https://oxfordjournals.altmetric.com/details/44470307)
+

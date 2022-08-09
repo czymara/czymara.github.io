@@ -1,0 +1,24 @@
+---
+title: "Propagated Preferences? Political Elite Discourses and Europeans' Openness toward Muslim Immigrants"
+permalink: /research/czymara_2020_imr
+---
+Christian S. Czymara
+
+Published in *International Migration Review* 54 (4): 1212-1237.
+
+URL: [doi.org/10.1177/0197918319890270](https://doi.org/10.1177/0197918319890270)
+
+Download: [PDF](https://czymara.github.io/files/Czymara_2020_Propagated-Preferences.pdf)
+
+Replication material: [OSF](https://osf.io/ew6aj/)
+
+APA citation: Czymara, C. S. (2020). Propagated preferences? Political elite discourses and Europeans’ openness toward Muslim immigrants. International Migration Review, 54(4), 1212-1237.
+
+Abstract
+------
+Immigration is among the most vividly discussed topics in Europe’s national parliaments in recent years, often with a particular emphasis on the inflow of Muslims. This article examines the link between articulations of national political parties (political elite discourses) and natives’ attitudes toward immigrants in Europe. It provides a nuanced view of this relationship by (i) distinguishing more (inclusionary) from less (exclusionary) immigration-friendly political elites and (ii) isolating natives’ openness toward two specific groups: Muslim immigrants and ethnically similar immigrants. Combining the European Social Survey with party manifesto data and other sources, the analysis reveals that political elite discourses perform better in explaining natives’ attitudes compared to national demographic or economic aspects. Native Europeans’ attitudes toward Muslim immigrants are more hostile in countries where political elites are more exclusionary and more welcoming where political elites are more inclusionary. In contrast, Europeans’ views on ethnically similar immigrants seem largely unaffected by exclusionary political elites. These findings suggest that political elites can play an important role in fostering or impeding immigrant integration by shaping public opinion, particularly toward more marginalized immigrant groups.
+
+Outreach
+------
+- In the top 5% of all research outputs scored by [Altmetric](https://sage.altmetric.com/details/73310099)
+

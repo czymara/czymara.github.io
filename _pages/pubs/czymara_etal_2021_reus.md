@@ -1,0 +1,34 @@
+---
+title: "Cause for Concerns: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany"
+permalink: /research/czymara_etal_2021_REUS
+---
+Christian S. Czymara, Alexander Langenkamp & Tomás Cano
+
+Published in *European Societies* 23 (S1): 68-81.
+
+URL: [doi.org/10.1080/14616696.2020.1808692](https://doi.org/10.1080/14616696.2020.1808692)
+
+Download: [PDF](https://czymara.github.io/files/Czymara_2021_Cause-for-concerns.pdf)
+Replication material: [GitHub](https://github.com/czymara/perceiving-COVID19-in-Germany), data registered at [GESIS](https://doi.org/10.7802/2034)
+
+
+APA citation: Czymara, C. S., Langenkamp, A., & Cano, T. (2021). Cause for concerns: gender inequality in experiencing the COVID-19 lockdown in Germany. European societies, 23(sup1), S68-S81.
+
+Abstract
+------
+COVID-19 is having a tremendous impact on gender relations, as care needs have been magnified due to schools and day-care closures. Using topic modeling on over 1,100 open reports from a survey fielded during the first four weeks of the lockdown in Germany, we shed light on how personal experiences of the lockdown differ between women and men. Our results show that, in general, people were most concerned about social contacts and childcare. However, we find clear differences among genders: women worried more about childcare while men were more concerned about paid work and the economy. We argue that the COVID-19 pandemic is affecting women more heavily than men not only at the physical level of work (e.g. women are reducing more paid work hours than men), but also through increasing the division regarding the cognitive level of work (e.g. women are more worried about childcare work while men are about paid work). These developments can potentially contribute to a future widening of the gender wage gap during the recovery process.
+
+
+Media coverage
+------
+- "Frauen sorgen sich um Kinder, Männer um das Geld" ([faz.net](https://www.faz.net/aktuell/rhein-main/soziologen-der-uni-frankfurt-corona-krise-bestaetigt-traditionelle-rollenmuster-16948955.html))
+- "Soziologen: Frauen sind die Corona-Verlierer" (Frankfurter Neue Presse Sep 2020)
+- "Sorgen und Ängste: studie Auswirkungen der Pandemie-Verordnung auf Männer und Frauen" (Hochheimer Zeitung Sep 2020)
+
+Outreach
+------
+- In the top 5% of all research outputs scored by [Altmetric](https://routledge.altmetric.com/details/88965599)
+- Policy documents: [European Commission 2020](https://op.europa.eu/en/publication-detail/-/publication/a1016d77-2562-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-174747154)
+- [European Parliament 2020](https://op.europa.eu/en/publication-detail/-/publication/ecfe8a54-4f04-11eb-b59f-01aa75ed71a1/language-en/format-PDF/source-183317381)
+- [International Labour Organization 2021](https://www.ilo.org/ilc/ILCSessions/109/reports/reports-to-the-conference/WCMS_792123/lang--en/index.htm)
+

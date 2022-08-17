@@ -8,7 +8,7 @@ Published in *Ethnic and Racial Studies*
 
 URL: [doi.org/10.1080/01419870.2022.2060711](https://doi.org/10.1080/01419870.2022.2060711)
 
-Download: [PDF](https://czymara.github.io/files/Czymara_2022_All cops are trusted.pdf)
+Download: [PDF](https://czymara.github.io/files/Czymara_2022_All-cops-are-trusted.pdf)
 Replication material: [OSF](https://doi.org/10.17605/OSF.IO/BWXEA)
 
 APA citation: Czymara, C. S., & Mitchell, J. (2022). All cops are trusted? How context and time shape immigrants’ trust in the police in Europe. Ethnic and Racial Studies, 1-25.

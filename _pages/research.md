@@ -3,8 +3,11 @@ title: "Research"
 permalink: /research/
 ---
 
-<img src="/images/materials_highQuality.png" width="150" height="150" align="left"> My studies are freely available either as open access or linked to free preprints. Adhering to the idea of transparent and replicable research, I always upload the [code of my published studies (usually R or Stata) to the Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching or other purposes, but please cite the source :) If you can't access something, please [write me](mailto:cc@soz.uni-frankfurt.de).
+<img src="/images/materials_highQuality.png" width="150" height="150" align="left"> My studies are freely available either as open access or free preprints (see links below). Adhering to the idea of transparent and replicable research, I always upload the [code of my published studies (usually R or Stata) to the Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching or other purposes, but please cite the source :) If you can't access something, please [write me](mailto:cc@soz.uni-frankfurt.de).
 
+Presentation
+------
+[ECPR General Conference 2022](https://htmlpreview.github.io/?https://github.com/czymara.github.io/pres/presentation_ecpr22.html#/title-slide)
 
 Doctoral dissertation
 ------
@@ -15,9 +18,9 @@ Peer-reviewed journal articles
 ------
 
 1. Breznau, N. & 100+ co-authors (forthcoming): [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://osf.io/preprints/metaarxiv/cd5j9/). *Proceedings of the National Academy of Sciences*.
-1. Czymara, C. S., Dochow, S, Drouhot, L. G., Simsek, M. & Spörlein, C. (forthcoming): [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017.](czymara_etal_2022_jems). *Journal of Ethnic and Migration Studies*.
+1. Czymara, C. S., Dochow, S, Drouhot, L. G., Simsek, M. & Spörlein, C. (2022): [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017.](czymara_etal_2022_jems). *Journal of Ethnic and Migration Studies* (Special issue: Computational Approaches to Migration and Integration Research). [PDF](https://czymara.github.io/files/Czymara_2022_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 1. Hoogeveen, S. & 100+ co-authors (2022): [A many-analysts approach to the relation between religiosity and well-being](https://doi.org/10.1080/2153599X.2022.2070255). *Religion, Brain and Behavior*.
-1. Czymara, C. S. & Mitchell, J. (2022). [All Cops are Trusted? How Context and Time Shape Immigrants' Trust in the Police in Europe](czymara_mitchell_2022_ers). *Ethnic and Racial Studies*. [PDF](https://czymara.github.io/files/Czymara_2022_All cops are trusted.pdf)
+1. Czymara, C. S. & Mitchell, J. (2022). [All Cops are Trusted? How Context and Time Shape Immigrants' Trust in the Police in Europe](czymara_mitchell_2022_ers). *Ethnic and Racial Studies*. [PDF](https://czymara.github.io/files/Czymara_2022_All-cops-are-trusted.pdf)
 1. Langenkamp, A., Cano, T. & Czymara, C. S. (2022). [My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany](langenkamp_etal_2022_fsoc). *Frontiers in Sociology* 6: 1-14. [PDF](https://czymara.github.io/files/Langenkamp_2022_My Home is my Castle.pdf)
 1. Czymara, C. S. & van Klingeren, M. (2022): [New perspective? Comparing Frame Occurrence in Online and Traditional News Media Reporting on Europe's "Migration Crisis"](czymara_klingeren_2022_comm). *Communications: The European Journal of Communication Research* 47 (1): 136-162. [PDF](https://czymara.github.io/files/Czymara_2021_New-perspective.pdf)
 1. Czymara, C. S. & Eisentraut, M. (2020): ['A threat to the Occident'? Comparing human values of Muslim immigrants, Christian and non-religious natives in Western Europe](czymara_eisentraut_2020_fsoc). *Frontiers in Sociology* 5: 1-15. [PDF](https://czymara.github.io/files/Czymara_2020_A-Threat-to-the-Occident.pdf)
@@ -33,11 +36,11 @@ Peer-reviewed journal articles
 Working papers
 ------
 
-- May, A. & Czymara, C. S. (work in progress). [Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting](https://ecpr.eu/Events/Event/PaperDetails/59285).
+- May, A. & Czymara, C. S. (under review). [Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting](https://ecpr.eu/Events/Event/PaperDetails/59285).
 - Breznau, N. et al. (under review): [How Many Replicators Does It Take to Achieve Reliability? Investigating Researcher Variability in a Crowdsourced Replication](https://osf.io/s9hp7/).
 
 
-Research notes, and other publications
+Research notes and other publications
 ------
 
 -  Nägel, C., Nivette A. & Czymara, C. S. (2022): [The impact of terrorist attacks on trust in institutions: a multi-site natural experiment](https://osf.io/z8cgu/). Preregistration.

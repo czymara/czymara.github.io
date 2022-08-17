@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christian S. Czymara"
+  name             : "Dr. Christian S. Czymara"
   avatar           : "moi.jpg"
-  bio              : "Postdoctoral researcher at Goethe University Frankfurt"
+  bio              : "Social scientist"
   location         : "Frankfurt, DE"
   employer         : # "https://www.fb03.uni-frankfurt.de/74691200/Dr__Christian_Czymara"
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://https://orcid.org/0000-0002-9535-3559"
+  orcid            : "https://orcid.org/0000-0002-9535-3559"
   pinterest        :
   soundcloud       :
   stackoverflow    :

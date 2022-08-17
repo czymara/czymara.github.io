@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.7) (preloaded format=xelatex 2022.7.25)  28 JUL 2022 15:00
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.8) (preloaded format=xelatex 2022.8.17)  17 AUG 2022 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./cczymara_cv.tex
 (cczymara_cv.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-07-04> (C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls
+L3 programming layer <2022-08-05> (C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX 2.9\tex/latex/base\size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -230,10 +230,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 (C:\Program Files\MiKTeX 2.9\tex/latex/fontawesome5\fontawesome5.sty
 (C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-07-04 L3 programming layer (loader) 
+Package: expl3 2022-08-05 L3 programming layer (loader) 
 
 (C:\Users\czymara.local\AppData\Roaming\MiKTeX\2.9\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2022-07-01 L3 backend support: XeTeX
+File: l3backend-xetex.def 2022-08-05 L3 backend support: XeTeX
 \g__graphics_track_int=\count274
 \l__pdf_internal_box=\box55
 \g__pdf_backend_object_int=\count275
@@ -459,10 +459,10 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11174 strings out of 410622
- 173400 string characters out of 2818836
- 508921 words of memory out of 3000000
- 32115 multiletter control sequences out of 15000+600000
+ 11174 strings out of 410612
+ 173400 string characters out of 2818538
+ 508997 words of memory out of 3000000
+ 32125 multiletter control sequences out of 15000+600000
  473532 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,8n,78p,551b,433s stack positions out of 10000i,1000n,20000p,200000b,80000s

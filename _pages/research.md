@@ -7,7 +7,7 @@ permalink: /research/
 
 Presentation
 ------
-[ECPR General Conference 2022](https://htmlpreview.github.io/?https://github.com/czymara.github.io/pres/presentation_ecpr22.html#/title-slide)
+[ECPR General Conference 2022](https://htmlpreview.github.io/?https://github.com/czymara/czymara.github.io/blob/master/pres/presentation_ecpr22.html#/title-slide)
 
 Doctoral dissertation
 ------

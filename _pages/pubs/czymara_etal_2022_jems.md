@@ -11,7 +11,7 @@ URL: [doi.org/10.1080/1369183X.2022.2100552](https://doi.org/10.1080/1369183X.20
 Download: [PDF](https://czymara.github.io/files/Czymara_2022_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 Replication material: [OSF](https://osf.io/mxncq/)
 
-APA citation: coming soon
+APA citation: Czymara, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Simsek, M., & Spörlein, C. (2022). Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017. Journal of Ethnic and Migration Studies, 1-19.
 
 Abstract
 ------
@@ -19,5 +19,5 @@ In the last 20 years, several major terror attacks conducted in the name of poli
 
 Outreach
 ------
-- In the top XX% of all research outputs scored by [Altmetric](https://routledge.altmetric.com/details/134134587)
+- In the top 25% of all research outputs scored by [Altmetric](https://routledge.altmetric.com/details/134134587)
 

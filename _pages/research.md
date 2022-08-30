@@ -5,10 +5,6 @@ permalink: /research/
 
 <img src="/images/materials_highQuality.png" width="150" height="150" align="left"> My studies are freely available either as open access or free preprints (see links below). Adhering to the idea of transparent and replicable research, I always upload the [code of my published studies (usually R or Stata) to the Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching or other purposes, but please cite the source :) If you can't access something, please [write me](mailto:cc@soz.uni-frankfurt.de).
 
-Presentation
-------
-[ECPR General Conference 2022](https://htmlpreview.github.io/?https://github.com/czymara/czymara.github.io/blob/master/pres/presentation_ecpr22.html#/title-slide)
-
 Doctoral dissertation
 ------
 

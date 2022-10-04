@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Download](cv/cczymara_cv.pdf)
+[Download](cczymara_cv.pdf)
 

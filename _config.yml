@@ -9,7 +9,7 @@
 locale                   : "il"
 title                    : "Dr. Christian S. Czymara"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Dr. Christian S. Czymara"
 description              : &description "Attitudes, immigration, political communication, quantitative methods, text-as-data"
 url                      : https://www.czymara.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Christian S. Czymara"
+  name             : ""
   avatar           : "moi.jpg"
-  bio              : "Social scientist"
+  bio              : "Attitudes, immigration, political communication, quantitative methods, text-as-datat"
   location         : "Tel Aviv, IL"
   employer         : # "https://www.fb03.uni-frankfurt.de/74691200/Dr__Christian_Czymara"
   pubmed           : 

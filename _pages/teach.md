@@ -3,23 +3,11 @@ title: "Teaching"
 permalink: /teach/
 ---
 
-Sommersemester 2022
-------
-Forschungspraktikum I und II: Längsschnittdatenanalyse in R (4 hours per week): Course material is available on [GitHub](https://github.com/czymara/longanalysisSS22)
-
-Wintersemester 2021/22
-------
-Forschungspraktikum I und II: Vergleichende Sozialforschung mit Mehrebenenmodellen in R (4 hours per week): Course material is available on [GitHub](https://github.com/czymara/CompSocResearchWS21)
-
-
 Experience
 ------
 <img src="/images/evalovertime.png" width="350" height="350" align="left">
 
-I started teaching as a tutor for econometric lectures beginning in summer 2016 at the University of Cologne, while working on my PhD. Two years later, I changed to a full time position at Goethe University Frankfurt, where I am teaching courses on applying quantitative methods for social research. I've also given a course on multilevel modelling at the Frankfurt Summer School, which was open for PhD students. I teach in English and German, online and in-person, from BA to PhD.
-
-I'm happy to share that students' evaluation of my courses have, by and large, been very positive.
-
+I started teaching as a tutor during my PhD in the summer term of 2016. I was a tutor for exercises accompanying econometric lectures at the University of Cologne. Two years later, I took a full-time position at the Goethe University Frankfurt, where I was teaching courses on applying advanced quantitative methods for social scientists. I've also given a course on multilevel modeling at the Frankfurt Summer School, which was open for PhD students. I teach in English and German, online and in-person, from BA to PhD. As the figures on this page show, students' evaluations of my courses have been positive throughout this time. In addition, I've supervised various Bachelor's and Master's theses during my time in Frankfurt.
 
 Past courses and evaluations
 ------

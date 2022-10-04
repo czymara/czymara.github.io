@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "de"
-title                    : "Christian S. Czymara"
+title                    : "Dr. Christian S. Czymara"
 title_separator          : "-"
-name                     : &name "Dr. Christian S. Czymara"
-description              : &description "Social scientist"
+name                     : &name ""
+description              : &description "Attitudes, immigration, political communication, quantitative methods, text-as-data"
 url                      : https://www.czymara.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "czymara/czymara.github.io"

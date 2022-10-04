@@ -1,8 +1,8 @@
 ---
 title: "'Did you read about Berlin?' Terrorist attacks, online media reporting and support for refugees in Germany"
-permalink: /research/czymara_schmidt-catran_2020_sw
+permalink: /research/schmidt-catran_czymara_2020_sw
 ---
-Christian S. Czymara & Alexander W. Schmidt-Catran
+Alexander W. Schmidt-Catran & Christian S. Czymara
 
 Published in *Soziale Welt* 71 (2–3): 305–337.
 

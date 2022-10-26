@@ -8,9 +8,9 @@ Published in *Journal of Ethnic and Migration Studies*
 
 URL: [doi.org/10.1080/1369183X.2022.2132222](https://doi.org/10.1080/1369183X.2022.2132222)
 
-Download: [PDF](https://czymara.github.io/files/Schmidt-Catran_2022_XXXXXX.pdf)
+Download: [PDF](https://czymara.github.io/files/Schmidt-Catran_2022_Political elite discourses polarize attitudes.pdf)
 
-Replication material: [OSF](https://osf.io/XXX/)
+Replication material: [Download](http://www.schmidt-catran.de/polarization.html)
 
 APA citation: Forthcoming.
 
@@ -20,6 +20,6 @@ Immigration is a hotly-debated topic in many countries around the world. We exam
 
 Outreach
 ------
-- In the top X% of all research outputs scored by [Altmetric](https://www.altmetric.com/details/XXX)
+- In the top 5% of all research outputs scored by [Altmetric](https://routledge.altmetric.com/details/137663901)
 
 

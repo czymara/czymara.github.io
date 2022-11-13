@@ -14,7 +14,7 @@ Peer-reviewed journal articles
 ------
 
 1. Schmidt-Catran, A. W. & Czymara, C. S. (2022): [Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century](schmidt-catran_czymara_2022_jems). *Journal of Ethnic and Migration Studies*.
-1. Breznau, N. & 100+ co-authors (2022): [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://doi.org/10.1073/pnas.2203150119). *Proceedings of the National Academy of Sciences*.
+1. Breznau, N. & 100+ co-authors (2022): [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://doi.org/10.1073/pnas.2203150119). *Proceedings of the National Academy of Sciences* 119 (44): 1-8.
 1. Czymara, C. S., Dochow, S, Drouhot, L. G., Simsek, M. & Spörlein, C. (2022): [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017.](czymara_etal_2022_jems). *Journal of Ethnic and Migration Studies* (Special issue: Computational Approaches to Migration and Integration Research). [PDF](https://czymara.github.io/files/Czymara_2022_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 1. Hoogeveen, S. & 100+ co-authors (2022): [A many-analysts approach to the relation between religiosity and well-being](https://doi.org/10.1080/2153599X.2022.2070255). *Religion, Brain and Behavior*.
 1. Czymara, C. S. & Mitchell, J. (2022). [All Cops are Trusted? How Context and Time Shape Immigrants' Trust in the Police in Europe](czymara_mitchell_2022_ers). *Ethnic and Racial Studies*. [PDF](https://czymara.github.io/files/Czymara_2022_All-cops-are-trusted.pdf)

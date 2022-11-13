@@ -8,7 +8,7 @@ Published in *Communications: The European Journal of Communication Research* 47
 
 URL: [doi.org/10.1515/commun-2019-0188](https://doi.org/10.1515/commun-2019-0188)
 
-Download: [PDF](https://czymara.github.io/files/Czymara_2021_New-perspective.pdf)
+Download: [PDF](https://czymara.github.io/files/Czymara_2022_New-perspective.pdf)
 
 Replication material: [OSF](https://osf.io/etg5h/)
 

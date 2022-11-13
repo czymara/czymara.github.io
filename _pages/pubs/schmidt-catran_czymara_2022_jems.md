@@ -10,9 +10,9 @@ URL: [doi.org/10.1080/1369183X.2022.2132222](https://doi.org/10.1080/1369183X.20
 
 Download: [PDF](https://czymara.github.io/files/Schmidt-Catran_2022_Political elite discourses polarize attitudes.pdf)
 
-Replication material: [Download](http://www.schmidt-catran.de/polarization.html)
+Replication material: [Download](http://www.schmidt-catran.de/Polarization/SchmidtCatranAndCzymara_JEMS_DiscourseAndPolarization_ReplicationPackage.zip)
 
-APA citation: Forthcoming.
+APA citation: Schmidt-Catran, A. W., & Czymara, C. S. (2022). Political elite discourses polarize attitudes toward immigration along ideological lines. A comparative longitudinal analysis of Europe in the twenty-first century. Journal of Ethnic and Migration Studies, 1-25.
 
 Abstract
 ------

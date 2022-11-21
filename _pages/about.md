@@ -16,8 +16,4 @@ My work has been published in top general journals like *European Sociological R
 
 In addition to researching, I have been [teaching](teach) quantitative methods and research design for several years, including the supervision of Bachelor's and Master's theses.
 
-Feel free to contact me at [czymara(at)tauex.tau.ac.il](mailto:czymara@tauex.tau.ac.il) or follow me on Mastodon: [@cczymara@sciences.social](https://sciences.social/@cczymara).
-
-
-<a rel="me" href="https://sciences.social/@cczymara">Mastodon</a>
-
+Feel free to contact me at [czymara(at)tauex.tau.ac.il](mailto:czymara@tauex.tau.ac.il) or follow me on Mastodon: <a rel="me" href="https://sciences.social/@cczymara">@cczymara@sciences.social</a>.

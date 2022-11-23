@@ -8,7 +8,7 @@ Published in *European Sociological Review* 33 (6): 735 – 751.
 
 URL: [doi.org/10.1093/esr/jcx071](https://doi.org/10.1093/esr/jcx071)
 
-Download: [PDF](https://czymara.github.io/files/Czymara_2017_Refugees-Unwelcome.pdf.pdf)
+Download: [PDF](https://czymara.github.io/files/Czymara_2017_Refugees-Unwelcome.pdf)
 
 Replication material: [OSF](https://osf.io/veqrh/)
 

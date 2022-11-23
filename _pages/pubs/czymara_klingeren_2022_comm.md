@@ -4,7 +4,7 @@ permalink: /research/czymara_klingeren_2022_comm
 ---
 Christian S. Czymara & Marijn van Klingeren
 
-Published in *Communications: The European Journal of Communication Research* 47 (1): 136-162
+Published in *Communications: The European Journal of Communication Research* 47 (1): 136-162.
 
 URL: [doi.org/10.1515/commun-2019-0188](https://doi.org/10.1515/commun-2019-0188)
 

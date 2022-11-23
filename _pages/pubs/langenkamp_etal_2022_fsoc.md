@@ -4,7 +4,7 @@ permalink: /research/langenkamp_etal_2022_fsoc
 ---
 Alexander Langenkamp, Tomás Cano & Christian S. Czymara
 
-Published in *Frontiers in Sociology* 6
+Published in *Frontiers in Sociology* 6: 1 - 14.
 
 URL: [doi.org/10.3389/fsoc.2021.785201](https://doi.org/10.3389/fsoc.2021.785201)
 

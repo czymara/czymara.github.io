@@ -4,7 +4,7 @@ permalink: /research/czymara_eisentraut_2020_fsoc
 ---
 Christian S. Czymara & Marcus Eisentraut
 
-Published in *Frontiers in Sociology* 5
+Published in *Frontiers in Sociology* 5: 1-15.
 
 URL: [doi.org/10.3389/fsoc.2020.538926](https://doi.org/10.3389/fsoc.2020.538926)
 

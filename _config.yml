@@ -187,9 +187,6 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  pres:
-    output: true
-    permalink: https://docs.google.com/presentation/d/1C2wMlRDtED6PbxB-pc_wKAReUX8jthBf58m3CghBPL4/edit?usp=sharing
 
 # Defaults
 defaults:

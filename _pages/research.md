@@ -34,9 +34,9 @@ Sorted by date of online publication
 Working papers
 ------
 
--  Nägel, C., Nivette A. & Czymara, C. S. (under review): [The impact of terrorist attacks on trust in institutions: a multi-site natural experiment](https://osf.io/preprints/socarxiv/rgfbd/).
+-  Nägel, C., Nivette A. & Czymara, C. S. (revise & resubmit): [The impact of terrorist attacks on trust in institutions: a multi-site natural experiment](https://osf.io/preprints/socarxiv/rgfbd/).
 - May, A. & Czymara, C. S. (under review). [Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting](https://ecpr.eu/Events/Event/PaperDetails/59285).
-- Breznau, N. & 100+ co-authors (under review): [How Many Replicators Does It Take to Achieve Reliability? Investigating Researcher Variability in a Crowdsourced Replication](https://osf.io/s9hp7/).
+- Breznau, N. & 100+ co-authors (revise & resubmit): [How Many Replicators Does It Take to Achieve Reliability? Investigating Researcher Variability in a Crowdsourced Replication](https://osf.io/s9hp7/).
 
 
 Research notes and other publications

@@ -1,6 +1,6 @@
 ---
 title: "Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century"
-permalink: /research/schmidt-catran_czymara_2022_jems
+permalink: /research/schmidt-catran_czymara_2023_jems
 ---
 Alexander W. Schmidt-Catran & Christian S. Czymara
 

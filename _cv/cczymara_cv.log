@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.1.24)  24 JAN 2023 14:04
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.1.30)  30 JAN 2023 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./cczymara_cv.tex
 (cczymara_cv.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16>
+L3 programming layer <2023-01-24>
 (C:\Users\Dr.Christian Czymara\AppData\Local\Programs\MiKTeX\tex/latex/base\art
 icle.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -283,7 +283,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ome5\fontawesome5.sty
 (C:\Users\Dr.Christian Czymara\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel
 \expl3.sty
-Package: expl3 2023-01-16 L3 programming layer (loader) 
+Package: expl3 2023-01-24 L3 programming layer (loader) 
 
 (C:\Users\Dr.Christian Czymara\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
 d\l3backend-xetex.def
@@ -442,12 +442,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
-
-Overfull \hbox (3.84999pt too wide) in paragraph at lines 107--108
-[]\TU/lmr/m/n/10.95 Fellow, Cologne Graduate School in Management, Economics an
-d Social Sciences  Oct 2015 –
- []
-
 [1
 
 ] [2]
@@ -558,12 +552,12 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11182 strings out of 411564
- 174804 string characters out of 2817096
- 1858985 words of memory out of 3000000
- 31194 multiletter control sequences out of 15000+600000
+ 11176 strings out of 411512
+ 174730 string characters out of 5816191
+ 1858960 words of memory out of 5000000
+ 31240 multiletter control sequences out of 15000+600000
  516560 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,15n,78p,551b,531s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,15n,78p,551b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cczymara_cv.pdf (8 pages).

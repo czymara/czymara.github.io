@@ -4,7 +4,7 @@ permalink: /research/schmidt-catran_czymara_2023_jems
 ---
 Alexander W. Schmidt-Catran & Christian S. Czymara
 
-Published in *Journal of Ethnic and Migration Studies* 49 (1): 85-109.
+Published in *Journal of Ethnic and Migration Studies* 49 (1): 85 - 109.
 
 URL: [doi.org/10.1080/1369183X.2022.2132222](https://doi.org/10.1080/1369183X.2022.2132222)
 

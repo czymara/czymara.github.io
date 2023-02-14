@@ -1,17 +1,17 @@
 ---
 title: "Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017"
-permalink: /research/czymara_etal_2022_jems
+permalink: /research/czymara_etal_2023_jems
 ---
 Christian S. Czymara, Stephan Dochow-Sondershaus, Lucas G. Drouhot, Müge Şimşek & Christoph Spörlein
 
-Published in *Journal of Ethnic and Migration Studies* (Special issue: Computational Approaches to Migration and Integration Research)
+Published in *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. Special issue: Computational Approaches to Migration and Integration Research.
 
 URL: [doi.org/10.1080/1369183X.2022.2100552](https://doi.org/10.1080/1369183X.2022.2100552)
 
-Download: [PDF](https://czymara.github.io/files/Czymara_2022_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
+Download: [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 Replication material: [OSF](https://osf.io/mxncq/)
 
-APA citation: Czymara, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Simsek, M., & Spörlein, C. (2022). Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017. Journal of Ethnic and Migration Studies, 1-19.
+APA citation: Czymara, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Simsek, M., & Spörlein, C. (2023). Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017. Journal of Ethnic and Migration Studies, 49(2), 535-553.
 
 Abstract
 ------

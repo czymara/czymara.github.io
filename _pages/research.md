@@ -13,9 +13,11 @@ Doctoral dissertation
 Peer-reviewed journal articles
 ------
 
+1. Nägel, C., Nivette A. & Czymara, C. S. (forthcoming): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment.](https://osf.io/preprints/socarxiv/rgfbd/). *European Journal of Political Research*.
+1. Czymara, C. S. (forthcoming): Real-World Developments and the Emergence of Exclusionary Discourses: Analyzing Right-Wing Alternative Media Reporting on Immigration in Germany 1998-2019. *Mass Communication and Society*.
 1. Schmidt-Catran, A. W. & Czymara, C. S. (2023): [Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century](schmidt-catran_czymara_2023_jems). *Journal of Ethnic and Migration Studies* 49 (1): 85 - 109. [PDF](https://czymara.github.io/files/Schmidt-Catran_2023_Political elite discourses polarize attitudes.pdf)
 1. Breznau, N. & 100+ co-authors (2022): [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://doi.org/10.1073/pnas.2203150119). *Proceedings of the National Academy of Sciences* 119 (44): 1 - 8.
-1. Czymara, C. S., Dochow, S, Drouhot, L. G., Simsek, M. & Spörlein, C. (2023): [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017.](czymara_etal_2023_jems). *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. Special issue: Computational Approaches to Migration and Integration Research. [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
+1. Czymara, C. S., Dochow-Sondershaus, S, Drouhot, L. G., Şimşek, M. & Spörlein, C. (2023): [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017](czymara_etal_2023_jems). *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. Special issue: Computational Approaches to Migration and Integration Research. [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 1. Hoogeveen, S. & 100+ co-authors (2022): [A many-analysts approach to the relation between religiosity and well-being](https://doi.org/10.1080/2153599X.2022.2070255). *Religion, Brain and Behavior*.
 1. Czymara, C. S. & Mitchell, J. (2023). [All Cops are Trusted? How Context and Time Shape Immigrants' Trust in the Police in Europe](czymara_mitchell_2023_ers). *Ethnic and Racial Studies* 46 (1): 72 - 96. [PDF](https://czymara.github.io/files/Czymara_2023_All-cops-are-trusted.pdf)
 1. Langenkamp, A., Cano, T. & Czymara, C. S. (2022). [My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany](langenkamp_etal_2022_fsoc). *Frontiers in Sociology* 6: 1 - 14. [PDF](https://czymara.github.io/files/Langenkamp_2022_My Home is my Castle.pdf)
@@ -29,13 +31,13 @@ Peer-reviewed journal articles
 1. Czymara, C. S. & Schmidt-Catran, A. W. (2017) : [Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe's "Immigration Crisis"](czymara_schmidt-catran_2017_esr). *European Sociological Review* 33 (6): 735 – 751. [PDF](https://czymara.github.io/files/Czymara_2017_Refugees-Unwelcome.pdf)
 1. Czymara, C. S. & Schmidt-Catran, A. W. (2016): [Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants)](czymara_schmidt-catran_2016_kzfss). *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 68 (2): 1 – 35. [PDF](https://czymara.github.io/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf)
 
+
 Sorted by date of online publication
 
 Working papers
 ------
 
--  Nägel, C., Nivette A. & Czymara, C. S. (revise & resubmit): [The impact of terrorist attacks on trust in institutions: a multi-site natural experiment](https://osf.io/preprints/socarxiv/rgfbd/).
-- May, A. & Czymara, C. S. (under review). [Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting](https://ecpr.eu/Events/Event/PaperDetails/59285).
+- May, A. & Czymara, C. S. (revise & resubmit). [Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting](https://ecpr.eu/Events/Event/PaperDetails/59285).
 - Breznau, N. & 100+ co-authors (revise & resubmit): [How Many Replicators Does It Take to Achieve Reliability? Investigating Researcher Variability in a Crowdsourced Replication](https://osf.io/s9hp7/).
 
 
@@ -43,7 +45,7 @@ Research notes and other publications
 ------
 
 -  Nägel, C., Nivette A. & Czymara, C. S. (2022): [The impact of terrorist attacks on trust in institutions: a multi-site natural experiment](https://osf.io/z8cgu/). Preregistration.
-- Breznau, N. & 100+ co-authors (2019): [The Crowdsourced Replication Initiative: Investigating Immigration and Social Policy Preferences using Meta-Science. Executive Report](https://osf.io/preprints/socarxiv/6j9qb/).
+- Breznau, N. & 100+ co-authors (2019): [The Crowdsourced Replication Initiative: Investigating Immigration and Social Policy Preferences using Meta-Science.](https://osf.io/preprints/socarxiv/6j9qb/). Executive Report.
 - Czymara, C. S. & Schmidt-Catran, A. W. (2018): [Konfundierungen in Vignettenanalysen mit einzelnen d‑effizienten Vignettenstichproben (Confounding in Vignette Studies with Single D-Efﬁcient Vignette Samples)](https://doi.org/10.1007/s11577-018-0516-z). *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 70 (1): 93 – 103.
 
 

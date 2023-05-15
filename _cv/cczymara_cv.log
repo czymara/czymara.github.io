@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.1 (MiKTeX 23.4) (format=lualatex 2023.5.1)  8 MAY 2023 13:13
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5) (format=lualatex 2023.5.10)  10 MAY 2023 11:01
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -557,6 +557,12 @@ Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 19
 Package marginnote Info: right page because not two side mode on input line 191
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 191.
+
+Overfull \hbox (4.85846pt too wide) in paragraph at lines 194--195
+[]\TU/lmr/m/n/10.95 Pol-icy doc-u-ments: [][]Eu-ro-pean Com-mis-sion[][]; [][]Eu
+-ro-pean Par-lia-ment[][]; [][]In-ter-na-tional Labour
+ []
+
 Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 19
 6.
 Package marginnote Info: right page because not two side mode on input line 196
@@ -577,7 +583,7 @@ Package marginnote Info: Margin note 3.12 is on absolute page 4 on input line 1
 Package marginnote Info: right page because not two side mode on input line 199
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 199.
- [3]
+[3]
 Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 20
 0.
 Package marginnote Info: right page because not two side mode on input line 200
@@ -594,29 +600,35 @@ Overfull \hbox (22.38615pt too wide) in paragraph at lines 216--219
 -courses and far-right vot-ing. [][]ecpr.eu/Events/
  []
 
-[4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 301--304
+[4]
+Overfull \hbox (1.00076pt too wide) in paragraph at lines 258--259
+[]\TU/lmr/m/n/10.95 ``The Im-pact of Ter-ror-ism on At-ti-tudes to-ward Im-mi-gr
+a-tion'', funded by the Is-rael Academy
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
 
  []
 
-
-Overfull \hbox (12.91644pt too wide) in paragraph at lines 342--343
+[6]
+Overfull \hbox (12.91644pt too wide) in paragraph at lines 349--350
 []\TU/lmr/m/it/10.95 Con-fer-ences\TU/lmr/m/n/10.95 : In-ter-na-tional Com-mu-ni
 -ca-tion As-so-ci-a-tion Con-fer-ence 2022; IAB-ECSR Refugee
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
@@ -628,10 +640,10 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13795 strings out of 478263
  125027,1977958 words of node,token memory allocated
- 511 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 12 attribute, 53 glue_spec
-, 12 attribute_list, 1 write, 8 pdf_action nodes
-   avail lists: 2:803,3:375,4:149,5:706,6:92,7:8160,8:2,9:503,10:7,11:654
+ 531 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 14 attribute, 53 glue_spec
+, 14 attribute_list, 1 write, 10 pdf_action nodes
+   avail lists: 2:799,3:375,4:149,5:708,6:90,7:8131,8:2,9:503,10:7,11:598
  33605 multiletter control sequences out of 65536+600000
  46 fonts using 3595367 bytes
  72i,15n,74p,552b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -653,9 +665,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dr.Chri
 stian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/eurosym/feymr10.pfb>
-Output written on cczymara_cv.pdf (7 pages, 113582 bytes).
+Output written on cczymara_cv.pdf (7 pages, 115684 bytes).
 
-PDF statistics: 179 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 184 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

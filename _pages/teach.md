@@ -3,15 +3,13 @@ title: "Teaching"
 permalink: /teach/
 ---
 
-I will be teaching an [introduction to panel data analysis](https://www.dezim-institut.de/veranstaltungen/veranstaltungen-detail/dezim-summer-school-2023/) (in German) at the DeZIM Summer School 2023 in Berlin on 16 & 17 August 2023. Registration is free!
+I will be teaching an [introduction to panel data analysis](https://www.dezim-institut.de/veranstaltungen/veranstaltungen-detail/dezim-summer-school-2023/) (in German) at the *DeZIM Summer School 2023* in Berlin on 16 & 17 August 2023. Registration is free!
 
 Experience
 ------
 <img src="/images/evalovertime.png" width="350" height="350" align="left">
 
-I started teaching as a tutor during my PhD in the summer term of 2016. I was a tutor for exercises accompanying econometric lectures at the University of Cologne. Two years later, I took a full-time position at the Goethe University Frankfurt, where I was teaching courses on applying advanced quantitative methods for social scientists. I've also given a course on multilevel modeling at the Frankfurt Summer School, which was open for PhD students. I teach in English and German, online and in-person, from BA to PhD. As the figures on this page show, students' evaluations of my courses have been positive throughout this time.
-
-In addition, I've supervised various Bachelor's and Master's theses during my time in Frankfurt.
+I started teaching as a tutor during my PhD in the summer term of 2016. I was a tutor for exercises accompanying econometric lectures at the University of Cologne. Two years later, I took a full-time position at the Goethe University Frankfurt, where I was teaching courses on applying advanced quantitative methods for social scientists. I've also given a course on multilevel modeling at the Frankfurt Summer School, which was open for PhD students. I teach in English and German, online and in-person, from BA to PhD. As the figures on this page show, students' evaluations of my courses have been positive throughout this time. In addition, I've supervised various Bachelor's and Master's theses.
 
 Past courses and evaluations
 ------

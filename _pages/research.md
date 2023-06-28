@@ -13,8 +13,9 @@ Doctoral dissertation
 Peer-reviewed journal articles
 ------
 
-1. Czymara, C. S. & Bauer, L. (forthcoming): Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach. *German Politics*.
-1. Nägel, C., Nivette A. & Czymara, C. S. (forthcoming): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment.](https://osf.io/preprints/socarxiv/rgfbd/). *European Journal of Political Research*.
+1. May, A. & Czymara, C. S. (forthcoming). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](https://ecpr.eu/Events/Event/PaperDetails/59285). *Nations and Nationalism*.
+1. Czymara, C. S. & Bauer, L. (forthcoming): [Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach](https://doi.org/10.1080/09644008.2023.2231353). *German Politics*.
+1. Nägel, C., Nivette A. & Czymara, C. S. (forthcoming): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](https://doi.org/10.1111/1475-6765.12612). *European Journal of Political Research*.
 1. Czymara, C. S. (forthcoming): Real-World Developments and the Emergence of Exclusionary Discourses: Analyzing Right-Wing Alternative Media Reporting on Immigration in Germany 1998-2019. *Mass Communication and Society*.
 1. Schmidt-Catran, A. W. & Czymara, C. S. (2023): [Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century](schmidt-catran_czymara_2023_jems). *Journal of Ethnic and Migration Studies* 49 (1): 85 - 109. [PDF](https://czymara.github.io/files/Schmidt-Catran_2023_Political elite discourses polarize attitudes.pdf)
 1. Breznau, N. & 100+ co-authors (2022): [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://doi.org/10.1073/pnas.2203150119). *Proceedings of the National Academy of Sciences* 119 (44): 1 - 8.
@@ -32,11 +33,6 @@ Peer-reviewed journal articles
 1. Czymara, C. S. & Schmidt-Catran, A. W. (2017) : [Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe's "Immigration Crisis"](czymara_schmidt-catran_2017_esr). *European Sociological Review* 33 (6): 735 – 751. [PDF](https://czymara.github.io/files/Czymara_2017_Refugees-Unwelcome.pdf)
 1. Czymara, C. S. & Schmidt-Catran, A. W. (2016): [Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants)](czymara_schmidt-catran_2016_kzfss). *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 68 (2): 1 – 35. [PDF](https://czymara.github.io/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf)
 
-Working papers
-------
-
-- May, A. & Czymara, C. S. (revise & resubmit). [Mobilizing identities? Longitudinal comparative evidence on national identity, political elite discourses and far-right voting](https://ecpr.eu/Events/Event/PaperDetails/59285).
-- Breznau, N. & 100+ co-authors (revise & resubmit): [How Many Replicators Does It Take to Achieve Reliability? Investigating Researcher Variability in a Crowdsourced Replication](https://osf.io/s9hp7/).
 
 Recent presentations
 ------

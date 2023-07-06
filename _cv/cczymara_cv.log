@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5) (format=lualatex 2023.6.28)  28 JUN 2023 17:40
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5) (format=lualatex 2023.6.28)  1 JUL 2023 12:39
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -648,7 +648,7 @@ Here is how much of LuaTeX's memory you used:
  541 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 15 attribute, 53 glue_spec
 , 15 attribute_list, 1 write, 11 pdf_action nodes
-   avail lists: 2:819,3:384,4:162,5:716,6:94,7:8350,8:2,9:513,10:7,11:653
+   avail lists: 2:819,3:384,4:162,5:716,6:94,7:8332,8:2,9:513,10:7,11:653
  33792 multiletter control sequences out of 65536+600000
  46 fonts using 3595367 bytes
  74i,15n,77p,553b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -670,7 +670,7 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dr.Chri
 stian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/eurosym/feymr10.pfb>
-Output written on cczymara_cv.pdf (8 pages, 119998 bytes).
+Output written on cczymara_cv.pdf (8 pages, 119985 bytes).
 
 PDF statistics: 197 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)

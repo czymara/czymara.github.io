@@ -14,9 +14,9 @@ Peer-reviewed journal articles
 ------
 
 1. May, A. & Czymara, C. S. (forthcoming). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](https://ecpr.eu/Events/Event/PaperDetails/59285). *Nations and Nationalism*.
-1. Czymara, C. S. & Bauer, L. (forthcoming): [Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach](https://doi.org/10.1080/09644008.2023.2231353). *German Politics*.
+1. Czymara, C. S. & Bauer, L. (2023): [Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach](czymara_Bauer_2023_gp). *German Politics*.
 1. Nägel, C., Nivette A. & Czymara, C. S. (2023): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](naegel_etal_2023_ejpr). *European Journal of Political Research*. [PDF](https://czymara.github.io/files/Naegel_2023_Do jihadist terrorist attacks cause changes in institutional trust.pdf)
-1. Czymara, C. S. (forthcoming): Real-World Developments and the Emergence of Exclusionary Discourses: Analyzing Right-Wing Alternative Media Reporting on Immigration in Germany 1998-2019. *Mass Communication and Society*.
+1. Czymara, C. S. (forthcoming): Real-World Developments Predict Immigration News in Right-Wing Media: Evidence from Germany. *Mass Communication and Society*.
 1. Schmidt-Catran, A. W. & Czymara, C. S. (2023): [Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century](schmidt-catran_czymara_2023_jems). *Journal of Ethnic and Migration Studies* 49 (1): 85 - 109. [PDF](https://czymara.github.io/files/Schmidt-Catran_2023_Political elite discourses polarize attitudes.pdf)
 1. Breznau, N. & 100+ co-authors (2022): [Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty](https://doi.org/10.1073/pnas.2203150119). *Proceedings of the National Academy of Sciences* 119 (44): 1 - 8.
 1. Czymara, C. S., Dochow-Sondershaus, S, Drouhot, L. G., Şimşek, M. & Spörlein, C. (2023): [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017](czymara_etal_2023_jems). *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. Special issue: Computational Approaches to Migration and Integration Research. [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
@@ -37,6 +37,7 @@ Peer-reviewed journal articles
 Recent presentations
 ------
 
+- [Who is considered a migrant in Post-Soviet Europe? Evidence from the Baltic States](https://czymara.com/files/pres/ESRA_23.html). 10th Conference of the *European Survey Research Association* at University of Milan-Bicocca 🇮🇹 on 19 Jul 2023.
 - [Inter-ethnic Hostility on Twitter in the Aftermath of Terror Attacks](https://czymara.com/files/pres/TAU_IGS3.html). Lecture to the IGS3 Excellence group at *Tel Aviv University* 🇮🇱 on 15 Jan 2023.
 - [Political Elite Discourses as Drivers of Anti-Immigration Attitudes: A comparative longitudinal analysis of Europe in the 21st century](https://docs.google.com/presentation/d/1C2wMlRDtED6PbxB-pc_wKAReUX8jthBf58m3CghBPL4/edit?usp=sharing). Sociology Colloquium at *University of Haifa* 🇮🇱 on 29 Nov 2022.
 - [What Shapes Far-Right Discourses on Immigration? Analyzing 23 Years of Right-Wing Print Media in Germany](https://czymara.com/files/pres/ICA_22_paris.html). 72nd Annual *International Communication Association* Conference in Paris 🇫🇷 on 27 May 2022.

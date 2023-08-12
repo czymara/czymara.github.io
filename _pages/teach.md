@@ -5,6 +5,9 @@ permalink: /teach/
 
 I will be teaching an [introduction to panel data analysis](https://www.dezim-institut.de/veranstaltungen/veranstaltungen-detail/dezim-summer-school-2023/) (in German) at the *DeZIM Summer School 2023* in Berlin on 16 & 17 August 2023. Registration is free!
 
+Moreover, I will be giving an [Introduction to Topic Modelling in R and Python](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.k2gh03lf4lre) as part of the [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine) series on 19 October 2023. To participate, please donate at least 20 Euro to support Ukraine.
+
+
 Experience
 ------
 <img src="/images/evalovertime.png" width="350" height="350" align="left">

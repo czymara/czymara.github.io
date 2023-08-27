@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5) (format=lualatex 2023.7.27)  27 JUL 2023 11:42
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5) (format=lualatex 2023.7.27)  18 AUG 2023 11:48
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -652,13 +652,13 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13506 strings out of 477545
  125027,1977958 words of node,token memory allocated
- 561 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 17 attribute, 53 glue_spec
-, 17 attribute_list, 1 write, 13 pdf_action nodes
-   avail lists: 2:823,3:381,4:162,5:714,6:93,7:8244,8:2,9:516,10:7,11:666
+ 551 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 16 attribute, 53 glue_spec
+, 16 attribute_list, 1 write, 12 pdf_action nodes
+   avail lists: 2:825,3:385,4:166,5:714,6:94,7:8244,8:2,9:516,10:7,11:664
  34299 multiletter control sequences out of 65536+600000
  46 fonts using 3595367 bytes
- 74i,15n,77p,553b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,15n,77p,545b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/
 public/lm/lmroman12-regular.otf><//?/c:/users/dr.christian czymara/appdata/local
 /programs/miktex/fonts/opentype/public/lm/lmroman10-bolditalic.otf><//?/c:/users
@@ -677,9 +677,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dr.Chri
 stian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/eurosym/feymr10.pfb>
-Output written on cczymara_cv.pdf (8 pages, 120744 bytes).
+Output written on cczymara_cv.pdf (8 pages, 120381 bytes).
 
-PDF statistics: 200 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 199 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

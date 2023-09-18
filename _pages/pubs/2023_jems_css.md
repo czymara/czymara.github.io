@@ -9,6 +9,9 @@ Published in *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. Specia
 URL: [doi.org/10.1080/1369183X.2022.2100552](https://doi.org/10.1080/1369183X.2022.2100552)
 
 Download: [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
+
+Appendix: [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube_Appendix.pdf)
+
 Replication material: [OSF](https://osf.io/mxncq/)
 
 APA citation: Czymara, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Simsek, M., & Spörlein, C. (2023). Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017. Journal of Ethnic and Migration Studies, 49(2), 535-553.

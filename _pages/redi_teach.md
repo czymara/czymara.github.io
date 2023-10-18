@@ -1,7 +1,7 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /bigsss23/
-redirect_to: https://czymara.com/files/teach/topic_models_BIGSSS_23.html
+permalink: /ukraine/
+redirect_to: https://czymara.com/_teaching/topic_models_Ukraine_23.html
 ---
-  
+

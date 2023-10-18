@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.5) (format=lualatex 2023.9.5)  18 SEP 2023 19:07
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.10.17)  17 OCT 2023 13:23
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+L3 programming layer <2023-10-10>
 Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
@@ -95,7 +95,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 y/geometry.cfg"))
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/marginn
 ote/marginnote.sty"
-Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
 \c@mn@abspage=\count194
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/sectsty
@@ -313,11 +313,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 some5/fontawesome5.sty"
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3kerne
 l/expl3.sty"
-Package: expl3 2023-08-29 L3 programming layer (loader) 
+Package: expl3 2023-10-10 L3 programming layer (loader) 
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3backe
 nd/l3backend-luatex.def"
-File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2023-10-10 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count275
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box54
@@ -326,11 +326,11 @@ Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3packa
 ges/l3keys2e/l3keys2e.sty"
-Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3packa
 ges/xparse/xparse.sty"
-Package: xparse 2023-08-29 L3 Experimental document command parser
+Package: xparse 2023-10-10 L3 Experimental document command parser
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/fontawe
 some5/fontawesome5-utex-helper.sty"
@@ -575,85 +575,91 @@ Package marginnote Info: right page because not two side mode on input line 207
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 207.
 
+Overfull \hbox (1.36537pt too wide) in paragraph at lines 209--210
+[]\TU/lmr/m/n/10.95 Me-dia cov-er-age: [][]faz.net[][]; Frank-furter Neue Presse
+ (print); Hochheimer Zeitung (print);
+ []
+
+
 Overfull \hbox (4.85846pt too wide) in paragraph at lines 210--211
 []\TU/lmr/m/n/10.95 Pol-icy doc-u-ments: [][]Eu-ro-pean Com-mis-sion[][]; [][]Eu
 -ro-pean Par-lia-ment[][]; [][]In-ter-na-tional Labour
  []
 
-Package marginnote Info: Margin note 3.12 is on absolute page 4 on input line 2
-12.
+[3]
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 21
+2.
 Package marginnote Info: right page because not two side mode on input line 212
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 212.
-[3]
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 21
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 21
 3.
 Package marginnote Info: right page because not two side mode on input line 213
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 213.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 21
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 21
 4.
 Package marginnote Info: right page because not two side mode on input line 214
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 214.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 21
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 21
 5.
 Package marginnote Info: right page because not two side mode on input line 215
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 215.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 21
+Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 21
 6.
 Package marginnote Info: right page because not two side mode on input line 216
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 216.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 22
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 22
 2.
 Package marginnote Info: right page because not two side mode on input line 222
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 222.
  [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 327--330
+Underfull \hbox (badness 10000) in paragraph at lines 328--331
 
  []
 
 [6]
-Overfull \hbox (12.91644pt too wide) in paragraph at lines 368--369
+Overfull \hbox (12.91644pt too wide) in paragraph at lines 369--370
 []\TU/lmr/m/it/10.95 Con-fer-ences\TU/lmr/m/n/10.95 : In-ter-na-tional Com-mu-ni
 -ca-tion As-so-ci-a-tion Con-fer-ence 2022; IAB-ECSR Refugee
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
 [7] [8] (./cczymara_cv.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13506 strings out of 477259
+ 13506 strings out of 476835
  125027,1977958 words of node,token memory allocated
- 551 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 16 attribute, 53 glue_spec
-, 16 attribute_list, 1 write, 12 pdf_action nodes
-   avail lists: 1:1,2:831,3:394,4:180,5:694,6:97,7:8153,8:3,9:509,10:7,11:715
- 34585 multiletter control sequences out of 65536+600000
+ 541 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 15 attribute, 53 glue_spec
+, 15 attribute_list, 1 write, 11 pdf_action nodes
+   avail lists: 1:1,2:790,3:394,4:180,5:672,6:97,7:7968,8:3,9:495,10:7,11:724
+ 35009 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,545b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/
@@ -677,9 +683,9 @@ fonts/cm/cmmi10.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dr.Ch
 ristian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/eurosym/feymr10
 .pfb>
-Output written on cczymara_cv.pdf (8 pages, 134362 bytes).
+Output written on cczymara_cv.pdf (8 pages, 134723 bytes).
 
-PDF statistics: 215 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 216 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

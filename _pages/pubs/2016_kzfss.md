@@ -31,4 +31,5 @@ Media coverage
 ------
 - "Kulturferne Migranten, nein danke?" (Frankfurter Allgemeine Zeitung 185/2016, p. N3)
 
+![FAZ](https://czymara.github.io/files/media_2016_FAZ.jpg)
 

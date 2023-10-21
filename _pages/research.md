@@ -33,6 +33,11 @@ Peer-reviewed journal articles
 1. Czymara, C. S. & Schmidt-Catran, A. W. (2017) : [Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe's "Immigration Crisis"](czymara_schmidt-catran_2017_esr). *European Sociological Review* 33 (6): 735 – 751. [🔓 PDF](https://czymara.github.io/files/Czymara_2017_Refugees-Unwelcome.pdf)
 1. Czymara, C. S. & Schmidt-Catran, A. W. (2016): [Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants)](czymara_schmidt-catran_2016_kzfss). *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 68 (2): 1 – 35. [🔓 PDF](https://czymara.github.io/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf)
 
+Preprints
+------
+
+- Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/y4dth/).
+- Breznau, N. & 100+ co-authors (revise & resubmit at *Sociological Methods and Research*): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/).
 
 Recent presentations
 ------

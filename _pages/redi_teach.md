@@ -1,7 +1,7 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /ukraine/
-redirect_to: https://czymara.com/teaching/topic_models_Ukraine_23.html
+permalink: /rostock/
+redirect_to: https://www.menti.com/al87rug1yvza
 ---
 

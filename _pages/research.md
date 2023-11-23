@@ -5,12 +5,15 @@ permalink: /research/
 
 <img src="/images/materials_highQuality.png" width="150" height="150" align="left"> My studies are freely available either as open access or preprints (see links below). Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes. Please cite the source 😊 If you can't access something, please [let me know](mailto:czymara@tauex.tau.ac.il).
 
-Doctoral dissertation
+Publications
+======
+
+Doctoral Dissertation
 ------
 
 - Czymara, C. S. (2018): [Discursive Determinants of Attitudes towards Immigrants: Political Parties and Mass Media as Contextual Sources of Threat Perceptions](czymara_2018_diss). Universitäts- und Stadtbibliothek Köln. [🔓 PDF](https://czymara.github.io/files/Czymara_2018_Discursive Determinants of Attitudes towards Immigrants.pdf)
 
-Peer-reviewed journal articles
+Peer-reviewed Journal Articles
 ------
 
 1. May, A. C. & Czymara, C. S. (2023). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2023_nana). *Nations and Nationalism*. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2023_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
@@ -39,8 +42,8 @@ Preprints
 - Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/y4dth/).
 - Breznau, N. & 100+ co-authors (revise & resubmit at *Sociological Methods and Research*): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/).
 
-Recent presentations
-------
+Recent Presentations
+======
 
 - [Ethnic Hostility on Twitter in the Aftermath of Terror Attacks](https://czymara.com/files/pres/AS_23.html). 4th Conference of the *Academy of Sociology* at University of Bern 🇨🇭 on 28 Aug 2023.
 - [Who is considered a migrant in Post-Soviet Europe? Evidence from the Baltic States](https://czymara.com/files/pres/ESRA_23.html). 10th Conference of the *European Survey Research Association* at University of Milan-Bicocca 🇮🇹 on 19 Jul 2023.

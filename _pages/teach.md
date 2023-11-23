@@ -3,9 +3,6 @@ title: "Teaching"
 permalink: /teach/
 ---
 
-Open Access Materials
-======
-
 Introduction to R
 ------
 
@@ -31,25 +28,26 @@ Past Courses and Evaluations
 
 <img src="/images/evalovertime.png" width="350" height="350" align="right">
 
+- Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python
+- Aug 2023: DeZIM Summer School: Einführung in die Panelregression
+- Summer 2022: Längsschnittdatenanalyse in R
+- Winter 2021/22: Vergleichende Sozialforschung mit Mehrebenenmodellen in R
+- Aug 2021: Frankfurt Digital Summer School: Multilevel Analysis
+- Summer 2021: Lägsschnittdatenanalyse und Kausalität
+- Winter 2020/21: Längsschnittdatenanalyse und Kausalität
+- Summer 2020: Längsschnittdatenanalyse und Kausalität
+- Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen
+
 <div style="width:350px;height:350;float: right;">
     <img src="/images/lehrewordcloud.png" width="350" height="350" align="right" title="Wordcloud based on students' evaluations of my courses">
     <figcaption align = "center">Wordcloud based on students' evaluations of my courses</figcaption>
 </div>
 
-- SS 2022: [Workshops for Ukraine: Introduction to Topic Modelling in R and Python](https://czymara.com/teaching/topic_models_Ukraine_23.html)
-- SS 2022: [DeZIM Summer School: Einführung in die Panelregression](https://github.com/czymara/panelreg_DeZIM)
-- SS 2022: [Längsschnittdatenanalyse in R](https://github.com/czymara/longanalysisSS22)
-- WS 2021/22: [Vergleichende Sozialforschung mit Mehrebenenmodellen in R](https://github.com/czymara/CompSocResearchWS21)
-- Aug 2021: Frankfurt Digital Summer School: Multilevel Analysis
-- SS 2021: Lägsschnittdatenanalyse und Kausalität
-- WS 2020/21: Längsschnittdatenanalyse und Kausalität
-- SS 2020: Längsschnittdatenanalyse und Kausalität
-- WS 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen
-- SS 2019: Analyzing longitudinal data and the issue of causality
-- WS 2018/19: Quantitative comparative social research with multi-level modeling
-- SS 2018: An applied introduction into quantitative comparative social research
-- WS 2017/18: Analysis of cross-sectional data
-- SS 2017: Analysis of longitudinal data
-- WS 2016/17: Analysis of cross-sectional data
-- SS 2016: Analysis of longitudinal data
+- Summer 2019: Analyzing longitudinal data and the issue of causality
+- Winter 2018/19: Quantitative comparative social research with multi-level modeling
+- Summer 2018: An applied introduction into quantitative comparative social research
+- Winter 2017/18: Analysis of cross-sectional data
+- Summer 2017: Analysis of longitudinal data
+- Winter 2016/17: Analysis of cross-sectional data
+- Summer 2016: Analysis of longitudinal data
 

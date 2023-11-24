@@ -39,7 +39,7 @@ Peer-reviewed Journal Articles
 Preprints
 ------
 
-- Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/y4dth/).
+- Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/preprints/socarxiv/yjmp6/).
 - Breznau, N. & 100+ co-authors (revise & resubmit at *Sociological Methods and Research*): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/).
 
 Recent Presentations

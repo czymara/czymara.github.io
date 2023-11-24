@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.10.21)  21 OCT 2023 13:10
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.11.24)  24 NOV 2023 12:53
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
 Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
@@ -49,14 +49,14 @@ ze11.clo"
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from C:/Users/Dr.Christian Czymara/
 AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen139
@@ -78,9 +78,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 /iftex.sty"
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count191
-\Gm@cntv=\count192
-\c@Gm@tempcnt=\count193
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
 \Gm@bindingoffset=\dimen140
 \Gm@wd@mp=\dimen141
 \Gm@odd@mp=\dimen142
@@ -96,7 +96,7 @@ y/geometry.cfg"))
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/marginn
 ote/marginnote.sty"
 Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count194
+\c@mn@abspage=\count195
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/sectsty
 /sectsty.sty"
@@ -119,7 +119,7 @@ Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/titlese
 c/titlesec.sty"
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip50
 \aftertitleunit=\skip51
@@ -137,12 +137,12 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen153
 \enit@toks=\toks20
 \enit@inbox=\box53
-\enit@count@id=\count195
-\enitdp@description=\count196
+\enit@count@id=\count196
+\enitdp@description=\count197
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/hyperre
 f/hyperref.sty"
-Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/generic/ltxcm
 ds/ltxcmds.sty"
@@ -188,7 +188,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/hyperre
 f/nameref.sty"
-Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/refcoun
 t/refcount.sty"
@@ -202,49 +202,49 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ns/kvoptions.sty"
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count197
+\c@section@level=\count198
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/etoolbo
 x/etoolbox.sty"
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count198
+\etb@tempcnta=\count199
 )
 \@linkdim=\dimen154
-\Hy@linkcounter=\count199
-\Hy@pagecounter=\count266
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/hyperre
 f/pd1enc.def"
-File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/generic/intca
 lc/intcalc.sty"
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count267
+\Hy@SavedSpaceFactor=\count268
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/hyperre
 f/puenc.def"
-File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4050.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4050.
-Package hyperref Info: Option `breaklinks' set `true' on input line 4050.
-Package hyperref Info: Hyper figures OFF on input line 4167.
-Package hyperref Info: Link nesting OFF on input line 4172.
-Package hyperref Info: Hyper index ON on input line 4175.
-Package hyperref Info: Plain pages OFF on input line 4182.
-Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4054.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4054.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4054.
+Package hyperref Info: Hyper figures OFF on input line 4171.
+Package hyperref Info: Link nesting OFF on input line 4176.
+Package hyperref Info: Hyper index ON on input line 4179.
+Package hyperref Info: Plain pages OFF on input line 4186.
+Package hyperref Info: Backreferencing OFF on input line 4191.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count268
+Package hyperref Info: Bookmarks ON on input line 4438.
+\c@Hy@tempcnt=\count269
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/url/url
 .sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4772.
+LaTeX Info: Redefining \url on input line 4776.
 \XeTeXLinkMargin=\dimen155
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/generic/bitse
@@ -256,31 +256,31 @@ tcalc/bigintcalc.sty"
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count269
+\Fld@menulength=\count270
 \Field@Width=\dimen156
 \Fld@charsize=\dimen157
-Package hyperref Info: Hyper figures OFF on input line 6051.
-Package hyperref Info: Link nesting OFF on input line 6056.
-Package hyperref Info: Hyper index ON on input line 6059.
-Package hyperref Info: backreferencing OFF on input line 6066.
-Package hyperref Info: Link coloring ON on input line 6069.
-Package hyperref Info: Link coloring with OCG OFF on input line 6076.
-Package hyperref Info: PDF/A mode OFF on input line 6081.
+Package hyperref Info: Hyper figures OFF on input line 6055.
+Package hyperref Info: Link nesting OFF on input line 6060.
+Package hyperref Info: Hyper index ON on input line 6063.
+Package hyperref Info: backreferencing OFF on input line 6070.
+Package hyperref Info: Link coloring ON on input line 6073.
+Package hyperref Info: Link coloring with OCG OFF on input line 6080.
+Package hyperref Info: PDF/A mode OFF on input line 6085.
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/base/at
 begshi-ltx.sty"
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count270
-\c@Item=\count271
-\c@Hfootnote=\count272
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/hyperre
 f/hluatex.def"
-File: hluatex.def 2023-07-08 v7.01b Hyperref driver for luaTeX
+File: hluatex.def 2023-11-09 v7.01f Hyperref driver for luaTeX
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/generic/strin
 genc/stringenc.sty"
@@ -293,8 +293,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/rerunfi
 lecheck/rerunfilecheck.sty"
@@ -313,12 +313,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 some5/fontawesome5.sty"
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3kerne
 l/expl3.sty"
-Package: expl3 2023-10-10 L3 programming layer (loader) 
+Package: expl3 2023-11-09 L3 programming layer (loader) 
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3backe
 nd/l3backend-luatex.def"
-File: l3backend-luatex.def 2023-10-10 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count275
+File: l3backend-luatex.def 2023-11-09 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count276
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box54
 ))
@@ -344,7 +344,7 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/luatex/ctable
 stack/ctablestack.sty"
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count276
+\@catcodetablestackcnt=\count277
 )
 \CatcodeTableOther=\catcodetable14
 \CatcodeTableExpl=\catcodetable15
@@ -445,16 +445,16 @@ File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/context/base/
 mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
+\scratchcounter=\count278
 \scratchdimen=\dimen158
 \scratchbox=\box55
-\nofMPsegments=\count278
-\nofMParguments=\count279
+\nofMPsegments=\count279
+\nofMParguments=\count280
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count280
+\MPscratchCnt=\count281
 \MPscratchDim=\dimen159
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
 \everyMPtoPDFconversion=\toks23
 ))
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/graphic
@@ -476,24 +476,14 @@ LaTeX Font Info:    Trying to load font information for TU+academicons on input
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/academi
 cons/tuacademicons.fd")
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 75.
+(Font)              <10.95> on input line 76.
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 62--86
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 62--87
 []$[]$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
 
  []
 
@@ -502,22 +492,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--104
 {C:/Users/Dr.Christian Czymara/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 ]
 Package marginnote Info: Margin note 2.1 is on absolute page 2 on input line 18
+5.
+Package marginnote Info: right page because not two side mode on input line 185
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 185.
+Package marginnote Info: Margin note 2.2 is on absolute page 2 on input line 18
 6.
 Package marginnote Info: right page because not two side mode on input line 186
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 186.
-Package marginnote Info: Margin note 2.2 is on absolute page 3 on input line 18
-7.
-Package marginnote Info: right page because not two side mode on input line 187
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 187.
 
-Overfull \hbox (7.04364pt too wide) in paragraph at lines 187--188
+Overfull \hbox (7.04364pt too wide) in paragraph at lines 186--187
 \TU/lmr/m/it/10.95 Junge Frei-heit \TU/lmr/m/n/10.95 1997-2019: A Com-pu-ta-tion
 al Ap-proach. \TU/lmr/bx/it/10.95 Ger-man Pol-i-tics\TU/lmr/m/n/10.95 . [][]doi.
 org/10.1080
  []
 
+Package marginnote Info: Margin note 2.3 is on absolute page 3 on input line 18
+7.
+Package marginnote Info: right page because not two side mode on input line 187
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 187.
 [2]
 Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 18
 8.
@@ -530,10 +525,10 @@ Package marginnote Info: right page because not two side mode on input line 189
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 189.
 Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 19
-0.
-Package marginnote Info: right page because not two side mode on input line 190
+3.
+Package marginnote Info: right page because not two side mode on input line 193
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 190.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 193.
 Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 19
 4.
 Package marginnote Info: right page because not two side mode on input line 194
@@ -549,11 +544,11 @@ Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 19
 Package marginnote Info: right page because not two side mode on input line 196
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 196.
-Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 19
-7.
-Package marginnote Info: right page because not two side mode on input line 197
+Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 20
+0.
+Package marginnote Info: right page because not two side mode on input line 200
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 197.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 200.
 Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 20
 1.
 Package marginnote Info: right page because not two side mode on input line 201
@@ -565,60 +560,55 @@ Package marginnote Info: right page because not two side mode on input line 202
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 202.
 Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 2
-03.
-Package marginnote Info: right page because not two side mode on input line 203
+06.
+Package marginnote Info: right page because not two side mode on input line 206
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 203.
-Package marginnote Info: Margin note 3.11 is on absolute page 3 on input line 2
-07.
-Package marginnote Info: right page because not two side mode on input line 207
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 207.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 206.
 
-Overfull \hbox (1.36537pt too wide) in paragraph at lines 209--210
+Overfull \hbox (1.36537pt too wide) in paragraph at lines 208--209
 []\TU/lmr/m/n/10.95 Me-dia cov-er-age: [][]faz.net[][]; Frank-furter Neue Presse
  (print); Hochheimer Zeitung (print);
  []
 
 
-Overfull \hbox (4.85846pt too wide) in paragraph at lines 210--211
+Overfull \hbox (4.85846pt too wide) in paragraph at lines 209--210
 []\TU/lmr/m/n/10.95 Pol-icy doc-u-ments: [][]Eu-ro-pean Com-mis-sion[][]; [][]Eu
 -ro-pean Par-lia-ment[][]; [][]In-ter-na-tional Labour
  []
 
-[3]
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 21
-2.
+Package marginnote Info: Margin note 3.11 is on absolute page 4 on input line 2
+11.
+Package marginnote Info: right page because not two side mode on input line 211
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 211.
+Package marginnote Info: Margin note 3.12 is on absolute page 4 on input line 2
+12.
 Package marginnote Info: right page because not two side mode on input line 212
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 212.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 21
+[3]
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 21
 3.
 Package marginnote Info: right page because not two side mode on input line 213
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 213.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 21
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 21
 4.
 Package marginnote Info: right page because not two side mode on input line 214
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 214.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 21
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 21
 5.
 Package marginnote Info: right page because not two side mode on input line 215
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 215.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 21
-6.
-Package marginnote Info: right page because not two side mode on input line 216
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 22
+1.
+Package marginnote Info: right page because not two side mode on input line 221
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 216.
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 22
-2.
-Package marginnote Info: right page because not two side mode on input line 222
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 222.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 221.
  [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 328--331
+Underfull \hbox (badness 10000) in paragraph at lines 327--330
 
  []
 
@@ -645,21 +635,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 378--379
 
 [7] [8] (./cczymara_cv.aux)
  ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
  ***********
 Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13506 strings out of 476835
+ 13522 strings out of 476598
  125027,1977958 words of node,token memory allocated
  551 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 16 attribute, 53 glue_spec
 , 16 attribute_list, 1 write, 12 pdf_action nodes
-   avail lists: 1:1,2:788,3:394,4:180,5:672,6:97,7:7968,8:3,9:495,10:7,11:725
- 35009 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:835,3:399,4:180,5:692,6:96,7:8127,8:3,9:502,10:7,11:731
+ 35262 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,545b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/
@@ -683,9 +673,9 @@ fonts/cm/cmmi10.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dr.Ch
 ristian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/eurosym/feymr10
 .pfb>
-Output written on cczymara_cv.pdf (8 pages, 135305 bytes).
+Output written on cczymara_cv.pdf (8 pages, 135767 bytes).
 
-PDF statistics: 218 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 219 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

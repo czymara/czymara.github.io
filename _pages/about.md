@@ -14,5 +14,5 @@ My research focuses on attitudes, migration, and political communication using q
 
 As an educator, I am enthusiastic about [teaching](teach) quantitative methods and research design. I have several years of teaching experience across various institutions, which also includes supervising Bachelor's and Master's theses.
 
-Feel free to contact me at [czymara(at)tauex.tau.ac.il](mailto:czymara@tauex.tau.ac.il) or follow me on *Mastodon* at <a rel="me" href="https://sciences.social/@cczymara">@cczymara@sciences.social</a> or *Bluesky* at [https://bsky.app/profile/christian.czymara.com](@christian.czymara.com).
+Feel free to contact me at [czymara(at)tauex.tau.ac.il](mailto:czymara@tauex.tau.ac.il) or follow me on *Mastodon* at <a rel="me" href="https://sciences.social/@cczymara">@cczymara@sciences.social</a> or *Bluesky* at [@christian.czymara.com](https://bsky.app/profile/christian.czymara.com).
 

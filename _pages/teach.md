@@ -37,13 +37,13 @@ Models
 - Aug 2021: Frankfurt Digital Summer School: Multilevel Analysis
 - Summer 2021: Lägsschnittdatenanalyse und Kausalität
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität
-- Summer 2020: Längsschnittdatenanalyse und Kausalität
 
 <div style="width:350px;height:350;float: right;">
     <img src="/images/lehrewordcloud.png" width="350" height="350" align="right" title="Wordcloud based on students' evaluations of my courses">
     <figcaption align = "center">Wordcloud based on students' evaluations of my courses</figcaption>
 </div>
 
+- Summer 2020: Längsschnittdatenanalyse und Kausalität
 - Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen
 - Summer 2019: Analyzing longitudinal data and the issue of causality
 - Winter 2018/19: Quantitative comparative social research with multi-level modeling

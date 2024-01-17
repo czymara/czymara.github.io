@@ -3,6 +3,11 @@ title: "Teaching"
 permalink: /teach/
 ---
 
+I specialize in teaching courses focused on quantitative methods and research design. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. Below, I have provided a curated list of courses, accompanied by a brief overview of my teaching experience.
+
+Open-access Courses
+======
+
 Introduction to R
 ------
 

@@ -3,7 +3,10 @@ title: "Research"
 permalink: /research/
 ---
 
-My research primarily explores migration and conflict, emphasizing the dynamics of public perception, elite discourses, and mass media. My contributions have garnered significant recognition, evidenced by over 950 citations noted on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ&hl). Furthermore, my collective works are within the top 25% of most cited documents globally, as per [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics) metric, and multiple individual papers rank in Altmetric's top 5% of all research output.
+My research primarily explores migration and conflict, emphasizing the dynamics of public perception, elite discourses, and mass media. My contributions have garnered significant recognition, evidenced by over 950 citations noted on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ&hl). Furthermore, my body of work is ranked within the top 25% of the most cited documents globally, as per the metrics from [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics), and outperforms the achievements of 98% of peers with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). Multiple individual papers rank in Altmetric's top 5% of all research output.
+
+my body of work is ranked within the top 25% of the most-cited documents worldwide, as per the metrics from Scopus. It also outperforms the achievements of 98% of peers with similar academic tenure on ResearchGate.
+
 
 All my studies are freely available, either as open-access publications or as preprints. Interested readers can find links to the PDF versions of these works in the list below.
 

@@ -8,7 +8,6 @@ My research primarily explores migration and conflict, emphasizing the dynamics 
 All my studies are freely available, either as open-access publications or as preprints. Interested readers can find links to the PDF versions of these works in the list below.
 
 <img src="/images/materials_highQuality.png" width="100" height="100" align="left"> Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/).
-
 Feel free to use any material for secondary analyses, teaching, or other purposes. If you can't access something, [let me know](mailto:czymara@tauex.tau.ac.il).
 
 Publications

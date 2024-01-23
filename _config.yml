@@ -187,6 +187,9 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
+  codenerd:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -233,7 +236,14 @@ defaults:
   - scope:
       path: ""
       type: cv
-    values:
+      values:
+      layout: single
+      author_profile: true
+  # _codenerd
+  - scope:
+      path: ""
+      type: codenerd
+      values:
       layout: single
       author_profile: true
 

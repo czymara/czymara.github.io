@@ -7,3 +7,5 @@ If you're ever running into problems related to quantitative data analysis, I cr
 
 Access requires an OpenAI account and a ChatGPT Plus subscription.
 
+<iframe src="https://chat.openai.com/g/g-J5futwiVV-code-nerd" width="600" height="400"></iframe>
+

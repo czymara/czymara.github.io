@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download](cczymara_cv.pdf)
-
+<iframe src="https://czymara.com/cv/cczymara_cv.pdf" width="600" height="400"></iframe>

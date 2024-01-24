@@ -181,15 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  imprint:
-    output: true
-    permalink: /:collection/:path/
   cv:
     output: true
     permalink: /:collection/:path/
-  codenerd:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -209,41 +204,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
-# _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-    #  type: teach
-      values:
-      layout: single
-      author_profile: true
-  # _imprint
-  - scope:
-      path: ""
-   #   type: imprint
-      values:
-      layout: single
-      author_profile: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-      values:
-      layout: single
-      author_profile: true
-  # _codenerd
-  - scope:
-      path: ""
-      type: codenerd
-      values:
       layout: single
       author_profile: true
 

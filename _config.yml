@@ -84,11 +84,11 @@ author:
   avatar           : "christian_czymara_web.jpg"
   bio              : "Attitudes, immigration, political communication, quantitative methods, text-as-data"
   location         : "Tel Aviv, IL"
-  employer         : # "https://www.fb03.uni-frankfurt.de/74691200/Dr__Christian_Czymara"
+  employer         : "https://www.academy.ac.il/RichText/GeneralPage.aspx?nodeId=1620" # "https://www.fb03.uni-frankfurt.de/74691200/Dr__Christian_Czymara"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=khPqHmgAAAAJ"
   email            : "czymara@tauex.tau.ac.il"
-  researchgate     :  "https://www.researchgate.net/profile/Christian-Czymara"
+  researchgate     : "https://www.researchgate.net/profile/Christian-Czymara"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "christian-czymara-409276124"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0002-9535-3559"
   pinterest        :
   soundcloud       :

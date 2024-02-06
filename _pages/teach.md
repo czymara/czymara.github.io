@@ -35,7 +35,7 @@ In addition, I have supervised numerous Bachelor's and Master's theses, providin
 Past Courses and Evaluations
 ======
 
-<img src="/images/evalovertime.png" width="350" height="350" align="right">
+<img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" align="right">
 
 - Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python
 - Aug 2023: DeZIM Summer School: Einführung in die Panelregression
@@ -48,7 +48,7 @@ Models
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität
 
 <div style="width:350px;height:350;float: right;">
-    <img src="/images/lehrewordcloud.png" width="350" height="350" align="right" title="Wordcloud based on students' evaluations of my courses">
+    <img src="/code/teachingevaluations/out/lehrewordcloud.png" width="350" height="350" align="right" title="Wordcloud based on students' evaluations of my courses">
     <figcaption align = "center">Wordcloud based on students' evaluations of my courses</figcaption>
 </div>
 

@@ -32,7 +32,7 @@ ggplot(cit,aes(x=year,y=cites))+
                     panel.background = element_blank()))
 
 dev.copy(png, "out/czymara_scholar_citations.png",
-         units="px", width=1600, height=800, res=300)
+         units="px", width=1600, height=1600, res=300)
 dev.off()
 
 

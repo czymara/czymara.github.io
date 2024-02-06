@@ -84,7 +84,7 @@ author:
   avatar           : "christian_czymara_web.jpg"
   bio              : "Attitudes, immigration, political communication, quantitative methods, text-as-data"
   location         : "Tel Aviv, IL"
-  employer         : "https://www.academy.ac.il/RichText/GeneralPage.aspx?nodeId=1620" # "https://www.fb03.uni-frankfurt.de/74691200/Dr__Christian_Czymara"
+  employer         : # "https://www.fb03.uni-frankfurt.de/74691200/Dr__Christian_Czymara"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=khPqHmgAAAAJ"
   email            : "czymara@tauex.tau.ac.il"

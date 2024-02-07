@@ -3,13 +3,13 @@ title: "Research"
 permalink: /research/
 ---
 
-<img src="/code/citations/out/czymara_scholar_citations.png" width="350" height="350"  align="right"> 
+<img src="/code/citations/out/czymara_scholar_citations.png" width="250" height="250"  align="right"> 
 
-My research primarily explores migration and conflict, emphasizing the dynamics of public attitudes, political discourses, and mass media. My contributions have garnered significant recognition, evidenced by *over 950 citations* noted on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ&hl), ranking in the *top 5%* for citations according to [Web of Science](https://www.webofscience.com/wos/woscc/citation-report/7498adfe-81e2-4bb1-b558-a87d3214a0b8-c9bdcf3b) and *surpassing 98% of peers* with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). Moreover, multiple individual papers are in [Altmetric's](https://oxfordjournals.altmetric.com/details/27636896) *top 5%* of all research outputs and among [Scopus'](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics) *top 25%* most cited articles globally.
+My research primarily explores migration and conflict, emphasizing the dynamics of public attitudes, political discourses, and mass media. My contributions have garnered significant recognition, evidenced by *over 950 citations* noted on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ&hl) (see plot on the right), ranking in the *top 5%* for citations according to [Web of Science](https://www.webofscience.com/wos/woscc/citation-report/7498adfe-81e2-4bb1-b558-a87d3214a0b8-c9bdcf3b) and *surpassing 98% of peers* with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). Moreover, most of my papers are individually in [Altmetric's](https://oxfordjournals.altmetric.com/details/27636896) *top 5%* of all research outputs and among [Scopus'](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics) *top 25%* most cited articles globally.
 
-All my studies are freely available, either as open-access publications or as preprints. Interested readers can find links to the PDF versions of these works in the list below.
+All my studies are freely available, either as open-access publications or as preprints. Interested readers can find the PDFs of the published versions in the list below, indicated by the 🔓.
 
-<img src="/images/materials_highQuality.png" width="100" height="100" align="left"> Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/).
+<a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" align="left"></a> Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/).
 Feel free to use any material for secondary analyses, teaching, or other purposes. If you can't access something, [let me know](mailto:czymara@tauex.tau.ac.il).
 
 Publications

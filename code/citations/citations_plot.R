@@ -20,7 +20,7 @@ ggplot(cit,aes(x=year,y=cites))+
   theme_bw()+
   xlab(NULL)+
   ylab("Google Scholar\n citations of C. Czymara")+
-  annotate('text',label=format(Sys.time(), "%d-%B-%Y"),
+  annotate("text", label = paste0("Updated: ", format(Sys.time(), "%d-%B-%Y")),
            x=-Inf, y=Inf, vjust=1.5, hjust=-0.1, size=4, colour='darkgray') +
   theme_set(theme_bw() +
               theme(axis.line = element_line(colour = "black"),

@@ -4,7 +4,7 @@ permalink: /research/czymara_etal_2023_jems
 ---
 Christian S. Czymara, Stephan Dochow-Sondershaus, Lucas G. Drouhot, Müge Şimşek & Christoph Spörlein
 
-Published in *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. [https://www.tandfonline.com/toc/cjms20/49/2](Special issue: Computational Approaches to Migration and Integration Research).
+Published in *Journal of Ethnic and Migration Studies* 49 (2): 535 - 553. [Special issue: Computational Approaches to Migration and Integration Research](https://www.tandfonline.com/toc/cjms20/49/2).
 
 URL: [doi.org/10.1080/1369183X.2022.2100552](https://doi.org/10.1080/1369183X.2022.2100552)
 

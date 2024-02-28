@@ -23,7 +23,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
-1. May, A. C. & Czymara, C. S. (2023): [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2023_nana). *Nations and Nationalism*. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2023_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
+1. May, A. C. & Czymara, C. S. (2024): [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism*. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S. & Bauer, L. (2023): [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2023_gp). *German Politics*. [🔓 PDF](https://czymara.github.io/files/Czymara_2023_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)
 1. Nägel, C., Nivette A. & Czymara, C. S. (2023): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](naegel_etal_2023_ejpr). *European Journal of Political Research*. [🔓 PDF](https://czymara.github.io/files/Naegel-Nivette-Czymara_2023_Do jihadist terrorist attacks cause changes in institutional trust.pdf)
 1. Czymara, C. S. (2024): [Real-World Developments Predict Immigration News in Right-Wing Media: Evidence from Germany](czymara_2024_mcas). *Mass Communication and Society* 27 (1): 50 - 74. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Real World Developments Predict Immigration News in Right Wing Media.pdf)
@@ -52,6 +52,6 @@ Book Chapters
 Preprints
 ------
 
-- Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/preprints/socarxiv/yjmp6/).
-- Breznau, N. & 100+ co-authors (revise & resubmit at *Sociological Methods and Research*): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/).
+- Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/preprints/socarxiv/yjmp6/). Current status: minor revision at *Journal of Computational Social Science*.
+- Breznau, N. & 100+ co-authors: [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/). Current status: revise & resubmit at *Sociological Methods and Research*.
 

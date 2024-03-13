@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: "Research & Publications"
 permalink: /research/
 ---
 
 <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank"><img src="/code/citations/out/czymara_scholar_citations.png" width="300" height="300"  align="right"></a> 
 
-My research primarily explores migration and conflict, emphasizing the dynamics of public attitudes, political discourses, and mass media. My contributions have garnered significant recognition, evidenced by *over 950 citations* noted on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ) (see plot on the right), ranking in the *top 5%* for citations according to [Web of Science](https://www.webofscience.com/wos/woscc/citation-report/7498adfe-81e2-4bb1-b558-a87d3214a0b8-c9bdcf3b) and in the *top 2%* compared to peers with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). Moreover, most of my papers are individually in [Altmetric's](https://oxfordjournals.altmetric.com/details/27636896) *top 5%* of all research outputs and among [Scopus'](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics) *top 25%* most cited articles globally (their highest category).
+My research primarily explores migration and conflict, emphasizing the dynamics of public attitudes, political discourses, and mass media. My contributions have garnered significant recognition, evidenced by *over 1,000 citations* noted on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ) (see plot on the right), ranking in the *top 5%* for citations according to [Web of Science](https://www.webofscience.com/wos/woscc/citation-report/7498adfe-81e2-4bb1-b558-a87d3214a0b8-c9bdcf3b) and in the *top 2%* compared to peers with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). Moreover, most of my papers are individually in [Altmetric's](https://oxfordjournals.altmetric.com/details/27636896) *top 5%* of all research outputs and among [Scopus'](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics) *top 25%* most cited articles globally (their highest category).
 
 All my studies are freely available, either as open-access publications or as preprints. Interested readers can find the PDFs of the published versions in the list below, indicated by the 🔓.
 
@@ -23,7 +23,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
-1. May, A. C. & Czymara, C. S. (2024): [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism*. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
+1. May, A. C. & Czymara, C. S. (2024): [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism* 30 (1): 90 - 109. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S. & Bauer, L. (2023): [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2023_gp). *German Politics*. [🔓 PDF](https://czymara.github.io/files/Czymara_2023_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)
 1. Nägel, C., Nivette A. & Czymara, C. S. (2023): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](naegel_etal_2023_ejpr). *European Journal of Political Research*. [🔓 PDF](https://czymara.github.io/files/Naegel-Nivette-Czymara_2023_Do jihadist terrorist attacks cause changes in institutional trust.pdf)
 1. Czymara, C. S. (2024): [Real-World Developments Predict Immigration News in Right-Wing Media: Evidence from Germany](czymara_2024_mcas). *Mass Communication and Society* 27 (1): 50 - 74. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Real World Developments Predict Immigration News in Right Wing Media.pdf)

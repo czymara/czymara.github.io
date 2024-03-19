@@ -3,7 +3,9 @@ title: "Teaching"
 permalink: /teach/
 ---
 
-I specialize in teaching courses focused on quantitative methods and research design. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. Below, I have provided a curated list of courses, accompanied by a brief overview of my teaching experience.
+I specialize in teaching courses focused on quantitative methods and research design to social science students. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. In addition, I have supervised numerous Bachelor’s and Master’s theses, providing comprehensive academic guidance and support. The student evaluations showcased below reflect the consistent positive reception of my courses.
+
+I have provided a curated list of courses, accompanied by a brief overview of my teaching experience.
 
 Open-access Courses
 ======
@@ -24,15 +26,6 @@ Multilevel Modelling
 My comprehensive research training [Comparative Social Research with Multi-level Modelling in R](https://github.com/czymara/CompSocResearchWS21) is available in open access. The aim of the course is to equip students with the skills to conduct their own comparative studies in R. The curriculum is structured around data from my favorite large-scale survey program, the [European Social Survey](https://www.europeansocialsurvey.org/). This data provides students with real-world insights and a practical understanding of multilevel modeling. The research training consists of 15 sessions, each including a 90-minute lecture followed by a 90-minute exercise. This ensures a balanced blend of theoretical knowledge and practical application. The course's in-depth content and hands-on approach make it an ideal resource for researchers delving into comparative social research and multilevel modeling using R.
 
 I gave this training originally at Goethe University Frankfurt during the winter term of 2021/22. Prior to this, I regularly taught this course in Stata, from which it was translated to R. If you are interested in the materials using Stata, write me an email.
-
-Experience
-======
-
-I started teaching during my PhD in the summer term of 2016, initially serving as a tutor for econometric exercise sessions at the University of Cologne. My teaching role expanded in 2018, when I took a full-time position at Goethe University Frankfurt. There, I specialized in teaching advanced quantitative methods to social science students.
-
-Beyond semester-long courses, I have also taught in various summer schools, focusing on text analysis, panel data analysis, and multilevel modeling. I am experienced in teaching in both English and German, across a range of formats including online and in-person, and at levels from Bachelor's to PhD. The student evaluations showcased on this page reflect the consistent positive reception of my courses.
-
-In addition, I have supervised numerous Bachelor's and Master's theses, providing comprehensive academic guidance and support.
 
 Past Courses and Evaluations
 ======

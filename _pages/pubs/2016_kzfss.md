@@ -5,8 +5,7 @@ permalink: /research/czymara_schmidt-catran_2016_kzfss
 ---
 Christian S. Czymara & Alexander W. Schmidt-Catran
 
-- Published in *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 68 (2): 1 – 35.
-- URL: [doi.org/10.1007/s11577-016-0361-x](https://doi.org/10.1007/s11577-016-0361-x)
+- Published in *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 68 (2): 1 – 35. [doi.org/10.1007/s11577-016-0361-x](https://doi.org/10.1007/s11577-016-0361-x).
 - Replication material: [OSF](https://osf.io/ebr4h/)
 
 <iframe src="https://czymara.github.io/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf" width="600" height="500"></iframe>

@@ -23,6 +23,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
+1. Czymara, C. S. & Gorodzeisky, A. (2024): [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/preprints/socarxiv/yjmp6/). *Journal of Computational Social Science*.
 1. May, A. C. & Czymara, C. S. (2024): [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism* 30 (1): 90 - 109. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S. & Bauer, L. (2023): [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2023_gp). *German Politics*. [🔓 PDF](https://czymara.github.io/files/Czymara_2023_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)
 1. Nägel, C., Nivette A. & Czymara, C. S. (2023): [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](naegel_etal_2023_ejpr). *European Journal of Political Research*. [🔓 PDF](https://czymara.github.io/files/Naegel-Nivette-Czymara_2023_Do jihadist terrorist attacks cause changes in institutional trust.pdf)
@@ -35,7 +36,7 @@ Peer-reviewed Journal Articles
 1. Langenkamp, A., Cano, T. & Czymara, C. S. (2022). [My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany](langenkamp_etal_2022_fsoc). *Frontiers in Sociology* 6: 1 - 14. [🔓 PDF](https://czymara.github.io/files/Langenkamp_2022_My Home is my Castle.pdf)
 1. Czymara, C. S. & van Klingeren, M. (2022): [New perspective? Comparing Frame Occurrence in Online and Traditional News Media Reporting on Europe's "Migration Crisis"](czymara_klingeren_2022_comm). *Communications: The European Journal of Communication Research* 47 (1): 136 - 162. [🔓 PDF](https://czymara.github.io/files/Czymara_2022_New-perspective.pdf)
 1. Czymara, C. S. & Eisentraut, M. (2020): ['A threat to the Occident'? Comparing human values of Muslim immigrants, Christian and non-religious natives in Western Europe](czymara_eisentraut_2020_fsoc). *Frontiers in Sociology* 5: 1 - 15. [🔓 PDF](https://czymara.github.io/files/Czymara_2020_A-Threat-to-the-Occident.pdf)
-1. Czymara, C. S., Langenkamp, A. & Cano, T. (2021): [Cause for Concern: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany](czymara_etal_2021_REUS). *European Societies* 23 (S1): 68 - 81. [🔓 PDF](https://czymara.github.io/files/Czymara_2021_Cause-for-concerns.pdf)
+1. Czymara, C. S., Langenkamp, A. & Cano, T. (2021): [Cause for Concern: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany](czymara_etal_2021_REUS). *European Societies* 23 (S1): 68 - 81. Special issue: European Societies in the Time of the Coronavirus Crisis. [🔓 PDF](https://czymara.github.io/files/Czymara_2021_Cause-for-concerns.pdf)
 1. Schmidt-Catran, A. W. & Czymara, C. S. (2020): ["Did you read about Berlin?" Terrorist attacks, online media reporting and support for refugees in Germany](schmidt-catran_czymara_2020_sw). *Soziale Welt* 71 (2–3): 305 – 337. [🔓 PDF](https://czymara.github.io/files/Schmidt-Catran-Czymara_2020_Did-you-read-about-Berlin.pdf)
 1. Czymara, C. S. (2021): [Attitudes toward Refugees in Contemporary Europe: A Longitudinal Perspective on Cross-national Differences](czymara_2021_sf). *Social Forces* 99 (3): 1306 – 1333. [🔓 PDF](https://czymara.github.io/files/Czymara_2021_Attitudes-toward-Refugees-in-Contemporary-Europe.pdf)
 1. Czymara, C. S. (2020): [Propagated Preferences? Political Elite Discourses and Europeans' Openness toward Muslim Immigrants.](czymara_2020_imr) *International Migration Review* 54 (4): 1212 - 1237. [🔓 PDF](https://czymara.github.io/files/Czymara_2020_Propagated-Preferences.pdf)
@@ -52,6 +53,5 @@ Book Chapters
 Preprints
 ------
 
-- Czymara, C. S. & Gorodzeisky, A.: [Hostility on Twitter in the Aftermath of Terror Attacks](https://osf.io/preprints/socarxiv/yjmp6/). Current status: minor revision at *Journal of Computational Social Science*.
 - Breznau, N. & 100+ co-authors: [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/). Current status: revise & resubmit at *Sociological Methods and Research*.
 

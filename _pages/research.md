@@ -23,7 +23,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
-1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](research/czymara_2024_jcss). *Journal of Computational Social Science*. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)
+1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](czymara_2024_jcss). *Journal of Computational Social Science*. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)
 1. May, A. C., & Czymara, C. S. (2024). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism 30* (1), 90 - 109. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S., & Bauer, L. (2023). [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2023_gp). *German Politics*. [🔓 PDF](https://czymara.github.io/files/Czymara_2023_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)
 1. Nägel, C., Nivette A., & Czymara, C. S. (2024). [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](naegel_etal_2024_ejpr). *European Journal of Political Research 63* (2), 411 - 432. [🔓 PDF](https://czymara.github.io/files/Naegel-Nivette-Czymara_2024_Do jihadist terrorist attacks cause changes in institutional trust.pdf)

@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teach/
 ---
 
-I specialize in teaching courses focused on quantitative methods and research design to social science students. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. In addition, I have supervised numerous Bachelor’s and Master’s theses, providing comprehensive academic guidance and support. The student evaluations showcased below reflect the consistent positive reception of my courses.
+I specialize in teaching courses focused on quantitative methods and research design to social science students. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. The student evaluations showcased below reflect the consistent positive reception of my courses.
 
 I have provided a curated list of courses, accompanied by a brief overview of my teaching experience.
 

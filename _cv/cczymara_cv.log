@@ -1,10 +1,10 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.3.1)  20 MAR 2024 11:58
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.4.29)  29 APR 2024 12:10
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
-Lua module: luaotfload 2024-02-14 3.27 Lua based OpenType font support
+L3 programming layer <2024-03-14>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
 ollection.
@@ -309,11 +309,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 some5/fontawesome5.sty"
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3kerne
 l/expl3.sty"
-Package: expl3 2024-02-20 L3 programming layer (loader) 
+Package: expl3 2024-03-14 L3 programming layer (loader) 
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3backe
 nd/l3backend-luatex.def"
-File: l3backend-luatex.def 2024-02-20 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2024-03-14 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count278
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box54
@@ -322,11 +322,11 @@ Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3packa
 ges/l3keys2e/l3keys2e.sty"
-Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/l3packa
 ges/xparse/xparse.sty"
-Package: xparse 2024-02-18 L3 Experimental document command parser
+Package: xparse 2024-03-14 L3 Experimental document command parser
 )
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/fontawe
 some5/fontawesome5-utex-helper.sty"
@@ -361,33 +361,33 @@ Package: academicons 2021/11/26 v1.9.1 Academicons Icons
 ) (./cczymara_cv.aux)
 \openout1 = cczymara_cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-6.
+5.
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/base/ts
 1cmr.fd"
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -436,7 +436,7 @@ Package color Info: Driver file: luatex.def on input line 149.
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/graphic
 s-def/luatex.def"
-File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/context/base/
 mkii/supp-pdf.mkii"
@@ -455,31 +455,31 @@ mkii/supp-pdf.mkii"
 ))
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/graphic
 s/mathcolor.ltx"))
-Package hyperref Info: Link coloring ON on input line 56.
+Package hyperref Info: Link coloring ON on input line 55.
  (./cczymara_cv.out) (./cczymara_cv.out)
 \@outlinefile=\write3
 
 \openout3 = cczymara_cv.out
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 60.
+(Font)              <12> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 60.
+(Font)              <6> on input line 59.
 LaTeX Font Info:    Trying to load font information for TU+academicons on input
- line 68.
+ line 67.
 
 ("C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/tex/latex/academi
 cons/tuacademicons.fd")
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 76.
+(Font)              <10.95> on input line 75.
 
-Overfull \hbox (2.4309pt too wide) in paragraph at lines 62--87
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 61--86
 []$[]$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
 
@@ -488,191 +488,195 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--91
 {C:/Users/Dr.Christian Czymara/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 ]
 Package marginnote Info: Margin note 2.1 is on absolute page 2 on input line 19
-5.
-Package marginnote Info: right page because not two side mode on input line 195
+3.
+Package marginnote Info: right page because not two side mode on input line 193
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 195.
-Package marginnote Info: Margin note 2.2 is on absolute page 3 on input line 19
-9.
-Package marginnote Info: right page because not two side mode on input line 199
+Package marginnote Info: xpos seems to be 76.60689pt on input line 193.
+Package marginnote Info: Margin note 2.2 is on absolute page 2 on input line 19
+4.
+Package marginnote Info: right page because not two side mode on input line 194
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 199.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 194.
+ [2]
+Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 19
+8.
+Package marginnote Info: right page because not two side mode on input line 198
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 198.
 
-Overfull \hbox (7.04364pt too wide) in paragraph at lines 199--200
+Overfull \hbox (7.04364pt too wide) in paragraph at lines 198--199
 \TU/lmr/m/it/10.95 Junge Frei-heit \TU/lmr/m/n/10.95 1997-2019: A Com-pu-ta-tion
 al Ap-proach. \TU/lmr/bx/it/10.95 Ger-man Pol-i-tics\TU/lmr/m/n/10.95 . [][]doi.
 org/10.1080
  []
 
-[2]
-Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 20
+Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 19
+9.
+Package marginnote Info: right page because not two side mode on input line 199
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 199.
+Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 20
 0.
 Package marginnote Info: right page because not two side mode on input line 200
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 200.
-Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 20
+Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 20
 1.
 Package marginnote Info: right page because not two side mode on input line 201
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 201.
-Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 20
-2.
-Package marginnote Info: right page because not two side mode on input line 202
+Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 20
+5.
+Package marginnote Info: right page because not two side mode on input line 205
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 202.
-Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 20
+Package marginnote Info: xpos seems to be 76.60689pt on input line 205.
+Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 20
 6.
 Package marginnote Info: right page because not two side mode on input line 206
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 206.
-Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 20
+Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 20
 7.
 Package marginnote Info: right page because not two side mode on input line 207
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 207.
-Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 20
+Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 20
 8.
 Package marginnote Info: right page because not two side mode on input line 208
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 208.
-Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 20
-9.
-Package marginnote Info: right page because not two side mode on input line 209
+Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 21
+3.
+Package marginnote Info: right page because not two side mode on input line 213
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 209.
-Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 21
-4.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 213.
+Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 2
+14.
 Package marginnote Info: right page because not two side mode on input line 214
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 214.
-Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 21
-5.
+Package marginnote Info: Margin note 3.11 is on absolute page 3 on input line 2
+15.
 Package marginnote Info: right page because not two side mode on input line 215
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 215.
-Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 2
-16.
-Package marginnote Info: right page because not two side mode on input line 216
+Package marginnote Info: Margin note 3.12 is on absolute page 4 on input line 2
+19.
+Package marginnote Info: right page because not two side mode on input line 219
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 216.
-Package marginnote Info: Margin note 3.11 is on absolute page 3 on input line 2
-20.
-Package marginnote Info: right page because not two side mode on input line 220
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 220.
-
-Overfull \hbox (1.36537pt too wide) in paragraph at lines 222--223
+Package marginnote Info: xpos seems to be 76.60689pt on input line 219.
+[3]
+Overfull \hbox (1.36537pt too wide) in paragraph at lines 221--222
 []\TU/lmr/m/n/10.95 Me-dia cov-er-age: [][]faz.net[][]; Frank-furter Neue Presse
  (print); Hochheimer Zeitung (print);
  []
 
 
-Overfull \hbox (4.85846pt too wide) in paragraph at lines 223--224
+Overfull \hbox (4.85846pt too wide) in paragraph at lines 222--223
 []\TU/lmr/m/n/10.95 Pol-icy doc-u-ments: [][]Eu-ro-pean Com-mis-sion[][]; [][]Eu
 -ro-pean Par-lia-ment[][]; [][]In-ter-na-tional Labour
  []
 
-[3]
 Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 22
+4.
+Package marginnote Info: right page because not two side mode on input line 224
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 224.
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 22
 5.
 Package marginnote Info: right page because not two side mode on input line 225
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 225.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 22
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 22
 6.
 Package marginnote Info: right page because not two side mode on input line 226
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 226.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 22
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 22
 7.
 Package marginnote Info: right page because not two side mode on input line 227
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 227.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 22
+Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 22
 8.
 Package marginnote Info: right page because not two side mode on input line 228
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 228.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 22
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 22
 9.
 Package marginnote Info: right page because not two side mode on input line 229
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 229.
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 23
-0.
-Package marginnote Info: right page because not two side mode on input line 230
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 230.
 Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 23
-6.
-Package marginnote Info: right page because not two side mode on input line 236
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 236.
-Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 24
 5.
-Package marginnote Info: right page because not two side mode on input line 245
+Package marginnote Info: right page because not two side mode on input line 235
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 245.
- [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 363--367
+Package marginnote Info: xpos seems to be 76.60689pt on input line 235.
+Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 24
+4.
+Package marginnote Info: right page because not two side mode on input line 244
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 244.
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 361--365
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 407--408
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--411
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
 
  []
 
 [7] [8] (./cczymara_cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13497 strings out of 476468
+ 13495 strings out of 476435
  125027,1977958 words of node,token memory allocated
- 551 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 16 attribute, 53 glue_spec
-, 16 attribute_list, 1 write, 12 pdf_action nodes
-   avail lists: 2:802,3:409,4:168,5:688,6:96,7:8232,8:2,9:499,10:7,11:699
- 35372 multiletter control sequences out of 65536+600000
+ 571 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 18 attribute, 53 glue_spec
+, 18 attribute_list, 1 write, 14 pdf_action nodes
+   avail lists: 2:793,3:409,4:172,5:657,6:86,7:7949,8:2,9:487,10:8,11:685
+ 35403 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,749b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/
-public/lm/lmroman12-regular.otf><//?/c:/users/dr.christian czymara/appdata/local
-/programs/miktex/fonts/opentype/public/lm/lmroman10-bolditalic.otf><//?/c:/users
-/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/public/lm/lmr
-omanslant10-regular.otf><//?/c:/users/dr.christian czymara/appdata/local/program
-s/miktex/fonts/opentype/public/lm/lmroman10-italic.otf><//?/c:/users/dr.christia
-n czymara/appdata/local/programs/miktex/fonts/truetype/public/academicons/academ
-icons.ttf><//?/c:/users/dr.christian czymara/appdata/local/programs/miktex/fonts
-/opentype/public/fontawesome5/fontawesome5brands-regular-400.otf><//?/c:/users/d
-r.christian czymara/appdata/local/programs/miktex/fonts/opentype/public/fontawes
-ome5/fontawesome5free-regular-400.otf><//?/c:/users/dr.christian czymara/appdata
-/local/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><//?/c:/us
-ers/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/public/fon
-tawesome5/fontawesome5free-solid-900.otf><//?/c:/users/dr.christian czymara/appd
-ata/local/programs/miktex/fonts/opentype/public/lm/lmromancaps10-regular.otf><C:
-/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on cczymara_cv.pdf (8 pages, 120246 bytes).
+public/lm/lmroman10-bolditalic.otf><//?/c:/users/dr.christian czymara/appdata/lo
+cal/programs/miktex/fonts/opentype/public/lm/lmromanslant10-regular.otf><//?/c:/
+users/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/public/l
+m/lmroman10-italic.otf><//?/c:/users/dr.christian czymara/appdata/local/programs
+/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><//?/c:/users/dr.christian c
+zymara/appdata/local/programs/miktex/fonts/truetype/public/academicons/academico
+ns.ttf><//?/c:/users/dr.christian czymara/appdata/local/programs/miktex/fonts/op
+entype/public/fontawesome5/fontawesome5brands-regular-400.otf><//?/c:/users/dr.c
+hristian czymara/appdata/local/programs/miktex/fonts/opentype/public/fontawesome
+5/fontawesome5free-regular-400.otf><//?/c:/users/dr.christian czymara/appdata/lo
+cal/programs/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><//?/c:/users
+/dr.christian czymara/appdata/local/programs/miktex/fonts/opentype/public/fontaw
+esome5/fontawesome5free-solid-900.otf><//?/c:/users/dr.christian czymara/appdata
+/local/programs/miktex/fonts/opentype/public/lm/lmromancaps10-regular.otf><C:/Us
+ers/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Users/Dr.Christian Czymara/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/eurosym/feymr10.pfb>
+Output written on cczymara_cv.pdf (8 pages, 124925 bytes).
 
-PDF statistics: 213 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 216 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

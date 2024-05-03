@@ -3,8 +3,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Research & Publications"
     url: /research/
+
+  - title: "Media"
+    url: /media/
 
   - title: "Talks"
     url: /presentations/
@@ -12,5 +15,5 @@ main:
   - title: "Teaching"
     url: /teach/
 
-  - title: "Code Nerd"
-    url: /codenerd/
+  - title: "Software"
+    url: /software/

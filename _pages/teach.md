@@ -10,10 +10,10 @@ I have provided a curated list of courses, accompanied by a brief overview of my
 Open-access Courses
 ======
 
-Introduction to R
+Introductions to R and Python
 ------
 
-If you're interested in mastering the fundamentals of R, I've created an hands-on Colab designed to facilitate an intuitive understanding of R's core logic and essential functions. This exercise offers a practical approach to learning, allowing you to apply concepts as you go. To get started and explore these foundational aspects of R programming, access the exercise [here](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_R.ipynb).
+If you're interested in mastering the fundamentals of R and Python, I've created hands-on Colabs designed to facilitate an intuitive understanding of R's core logic and essential functions, as well as their translations to Python. These exercises offer a practical approach to learning, allowing you to apply concepts as you go. To get started and explore these foundational aspects of programming in R and Python, access the exercise for [R](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_R.ipynb) and for [Python](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_Python.ipynb).
 
 Topic Modelling
 ------

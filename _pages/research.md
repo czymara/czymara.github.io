@@ -48,6 +48,7 @@ Peer-reviewed Journal Articles
 Book Chapters
 ------
 
+1. Czymara, C. S., Dochow-Sondershaus, S, Drouhot, L. G., Şimşek, M., & Spörlein, C. (2024). [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017](https://doi.org/10.4324/9781003533368-8). in Deutschmann, E., Drouhot, L. G., Zuccotti, C. V. & Zagheni, E. (Eds.), [Computational Research in Ethnic and Migration Studies](https://doi.org/10.4324/9781003533368) (pp. 152 -- 170). Routledge. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 1. Velásquez, P., Eger, M. A., Castañeda, H., Czymara, C. S., Ivarsflaten, E., Maxwell, R., Okamoto, D., & Wilkes, R. (2024). [Processes and Pathways of Stigmatization and Destigmatization over Time](https://direct.mit.edu/books/oa-edited-volume/5753/chapter-standard/4672090/Processes-and-Pathways-of-Stigmatization-and). In Yang, L. H., Eger, M. A., & Link, B. G. (Eds.), [Migration Stigma: Understanding Prejudice, Discrimination, and Exclusion](https://direct.mit.edu/books/oa-edited-volume/5753/Migration-StigmaUnderstanding-Prejudice) (pp. 179 - 200). MIT Press.
 
 Preprints

@@ -8,6 +8,8 @@ Christian S. Czymara, Stephan Dochow-Sondershaus, Lucas G. Drouhot, Müge Şimş
 - Special issue: [Computational Approaches to Migration and Integration Research](https://www.tandfonline.com/toc/cjms20/49/2)
 - Appendix: [PDF](https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube_Appendix.pdf)
 - Replication material: [OSF](https://osf.io/mxncq/)
+- Reprinted as [doi.org/10.4324/9781003533368-8](https://doi.org/10.4324/9781003533368-8) in Deutschmann, E., Drouhot, L. G., Zuccotti, C. V. & Zagheni, E. (Eds.), *Computational Research in Ethnic and Migration Studies* (pp. 152 -- 170). Routledge. [doi.org/10.4324/9781003533368](https://doi.org/10.4324/9781003533368)
+
 
 <iframe src="https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf" width="600" height="500"></iframe>
 

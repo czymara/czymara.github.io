@@ -46,9 +46,3 @@ dev.copy(png, "czymara_scholar_citations.png",
          units="px", width=1600, height=1600, res=300)
 dev.off()
 
-
-
-
-## Predict h-index of original method author, Daniel Acuna
-predict_h_index(id)
-

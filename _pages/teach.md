@@ -7,13 +7,13 @@ I specialize in teaching courses focused on quantitative methods and research de
 
 I have provided a curated list of courses, accompanied by a brief overview of my teaching experience.
 
-Current university courses
+Current courses
 ======
 
 Forschungspraktikum I & II: Computational Social Science
 ------
 
-In the winter term 2024/25, I will teach a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). Materials will be made available on [GitHub](https://github.com/czymara/CSS_WS24).
+In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). The materials are available as open access in this [GitHub repository](https://github.com/czymara/CSS_WS24).
 
 Open-access Courses
 ======

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.10.21)  22 OCT 2024 10:37
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.10.21)  28 OCT 2024 10:58
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -501,12 +501,6 @@ Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 21
 Package marginnote Info: right page because not two side mode on input line 212
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 212.
-
-Overfull \hbox (24.4808pt too wide) in paragraph at lines 214--215
-[]\TU/lmr/m/n/10.95 Me-dia cov-er-age: [][]The Hill[][]; [][]tech-zle.com[][]; 
-[][]phys.org[][]; [][]forschung-und-wissen.de[][]; [][]wis-senschaft.de[][];
- []
-
 Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 21
 6.
 Package marginnote Info: right page because not two side mode on input line 216
@@ -677,10 +671,10 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13820 strings out of 475910
  100000,794899 words of node,token memory allocated
- 561 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 17 attribute, 53 glue_spec
-, 17 attribute_list, 1 write, 13 pdf_action nodes
-   avail lists: 2:897,3:396,4:210,5:712,6:92,7:8299,8:2,9:503,10:8,11:678
+ 571 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 18 attribute, 53 glue_spec
+, 18 attribute_list, 1 write, 14 pdf_action nodes
+   avail lists: 2:895,3:396,4:210,5:712,6:92,7:8299,8:2,9:503,10:8,11:678
  36258 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,849b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -701,9 +695,9 @@ ra/appdata/local/programs/miktex/fonts/opentype/public/lm/lmromancaps10-regular.
 otf><C:/Users/Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/Christian Czymara/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on cczymara_cv.pdf (8 pages, 126407 bytes).
+Output written on cczymara_cv.pdf (8 pages, 126714 bytes).
 
-PDF statistics: 217 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 218 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

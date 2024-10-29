@@ -13,7 +13,7 @@ Current courses
 Forschungspraktikum I & II: Computational Social Science
 ------
 
-In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). The materials are available as open access in this [GitHub repository](https://github.com/czymara/CSS_WS24).
+In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). This course provides an introduction to computational social science, equipping students with the skills to analyze large datasets, apply machine learning models, and interpret text data through natural language processing. Using programming languages R and Python, students learn techniques for data collection, processing, and analysis, with practical applications aimed at enhancing social science research through computational methods. The materials are available as open access in this [GitHub repository](https://github.com/czymara/CSS_WS24).
 
 Open-access Courses
 ======
@@ -26,14 +26,19 @@ If you're interested in mastering the fundamentals of R and Python, I've created
 Topic Modelling
 ------
 
-My workshop [Topic Modelling in R and Python](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.k2gh03lf4lre), offered as part of the [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine) series, is now openly accessible. The slides of this workshop are available [here](https://czymara.com/teaching/topic_models_Ukraine_23.html). For a hands-on experience, you are invited to explore the course materials through interactive Colab notebooks: the first Colab focuses on [R implementations](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/topic_models_Ukraine_23_R.ipynb), the second Colab delves into [Python applications](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/topic_models_Ukraine_23_BERTopic.ipynb). These resources are designed to enhance your learning and application of various topic modeling techniques in both languages, using real world newspaper texts as examples.
+My workshop [Topic Modelling in R and Python](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.k2gh03lf4lre), part of the [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine) series, is freely accessible. You can find the workshop slides [here](https://czymara.com/teaching/topic_models_Ukraine_23.html). For a hands-on experience, explore the interactive Colab notebooks: the first Colab focuses on [R implementations](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/topic_models_Ukraine_23_R.ipynb), the second covers [Python applications](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/topic_models_Ukraine_23_BERTopic.ipynb). These materials provide practical guidance for applying topic modeling techniques in both R and Python, using real newspaper texts as examples.
+
+Longitudinal Data Analysis
+------
+
+I am regularly teaching on the analysis of longitudinal data in R, including a full semester [research training](https://github.com/czymara/LongitudinalDataAnalysis) or a condensed two-day [summer school course](https://github.com/czymara/panelreg_DeZIM) (*note:* the materials are currently offline). Both formats include lectures and practical tutorials. This course introduces the essential tools for analyzing panel data in the social sciences, emphasizing the ability to assess trends over time and explore causal relationships. Participants learn to manage panel data workflows in R, covering data sourcing, preparation, and analysis techniques for meaningful interpretation of longitudinal research findings.
 
 Multilevel Modelling
 ------
 
-My comprehensive research training [Comparative Social Research with Multi-level Modelling in R](https://github.com/czymara/CompSocResearchWS21) is available in open access. The aim of the course is to equip students with the skills to conduct their own comparative studies in R. The curriculum is structured around data from my favorite large-scale survey program, the [European Social Survey](https://www.europeansocialsurvey.org/). This data provides students with real-world insights and a practical understanding of multilevel modeling. The research training consists of 15 sessions, each including a 90-minute lecture followed by a 90-minute exercise. This ensures a balanced blend of theoretical knowledge and practical application. The course's in-depth content and hands-on approach make it an ideal resource for researchers delving into comparative social research and multilevel modeling using R.
+My comprehensive research training [Comparative Social Research with Multi-level Modelling in R](https://github.com/czymara/CompSocResearch) is fully available in open access. The curriculum is structured around data from the [European Social Survey](https://www.europeansocialsurvey.org/), with 15 sessions, each including a 90-minute lecture and a 90-minute tutorial, providing a balance of theoretical grounding and practical application. This course offers a thorough, hands-on approach to comparative social research, covering both introductory and advanced multilevel modeling, making it an ideal resource for social science researchers and anyone looking to conduct these analyses in R.
 
-I gave this training originally at Goethe University Frankfurt during the winter term of 2021/22. Prior to this, I regularly taught this course in Stata, from which it was translated to R. If you are interested in the materials using Stata, write me an email.
+The materials of the course are also available in Stata. Write me an email if you are interested.
 
 Past Courses and Evaluations
 ======

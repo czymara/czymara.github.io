@@ -7,7 +7,7 @@ I specialize in teaching courses focused on quantitative methods and research de
 
 I have provided a curated list of courses, accompanied by a brief overview of my teaching experience.
 
-Current courses
+Current Course
 ======
 
 Forschungspraktikum I & II: Computational Social Science
@@ -21,7 +21,7 @@ Open-access Courses
 Introductions to R and Python
 ------
 
-If you're interested in mastering the fundamentals of R and Python, I've created hands-on Colabs designed to facilitate an intuitive understanding of R's core logic and essential functions, as well as their translations to Python. These exercises offer a practical approach to learning, allowing you to apply concepts as you go. To get started and explore these foundational aspects of programming in R and Python, access the exercise for [R](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_R.ipynb) and for [Python](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_Python.ipynb).
+If you're interested in mastering the basics of R and Python, I've created interactive Colabs to help you build an intuitive understanding of R's core logic and essential functions, along with their Python equivalents. Start exploring these programming fundamentals with the exercises for [R](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_R.ipynb) and [Python](https://colab.research.google.com/github/czymara/czymara.github.io/blob/master/_teaching/Intro_to_Python.ipynb).
 
 Topic Modelling
 ------
@@ -40,7 +40,7 @@ My comprehensive research training [Comparative Social Research with Multi-level
 
 The materials of the course are also available in Stata. Write me an email if you are interested.
 
-Past Courses and Evaluations
+Evaluations
 ======
 
 <img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" align="right">
@@ -65,8 +65,8 @@ Models
 - Summer 2019: Analyzing longitudinal data and the issue of causality
 - Winter 2018/19: Quantitative comparative social research with multi-level modeling
 - Summer 2018: An applied introduction into quantitative comparative social research
-- Winter 2017/18: Analysis of cross-sectional data
-- Summer 2017: Analysis of longitudinal data
-- Winter 2016/17: Analysis of cross-sectional data
-- Summer 2016: Analysis of longitudinal data
+- Winter 2017/18: Analysis of cross-sectional data (as tutor)
+- Summer 2017: Analysis of longitudinal data (as tutor)
+- Winter 2016/17: Analysis of cross-sectional data (as tutor)
+- Summer 2016: Analysis of longitudinal data (as tutor)
 

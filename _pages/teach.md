@@ -13,7 +13,7 @@ Current Course
 Forschungspraktikum I & II: Computational Social Science
 ------
 
-In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). This course provides an introduction to computational social science, equipping students with the skills to analyze large datasets, apply machine learning models, and interpret text data through natural language processing. Using programming languages R and Python, students learn techniques for data collection, processing, and analysis, with practical applications aimed at enhancing social science research through computational methods. The materials are available as open access in this [GitHub repository](https://github.com/czymaraclass/CSS_WS24).
+In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). This course provides an introduction to computational social science, equipping students with the skills to analyze large datasets, apply machine learning models, and interpret text data through natural language processing. Using programming languages R and Python, students learn techniques for data collection, processing, and analysis, with practical applications aimed at enhancing social science research through computational methods. The materials are available as open access in this [GitHub repository](https://github.com/czymara/CSS_WS24).
 
 Open-access Courses
 ======
@@ -31,7 +31,7 @@ My workshop [Topic Modelling in R and Python](https://sites.google.com/view/dari
 Longitudinal Data Analysis
 ------
 
-I am regularly teaching on the analysis of longitudinal data in R, including a full semester [research training](https://github.com/czymaraclass/LongDataAnalysis) or a condensed two-day [summer school course](https://github.com/czymaraclass/PanelReg (*note:* the materials are currently offline). Both formats include lectures and practical tutorials. This course introduces the essential tools for analyzing panel data in the social sciences, emphasizing the ability to assess trends over time and explore causal relationships. Participants learn to manage panel data workflows in R, covering data sourcing, preparation, and analysis techniques for meaningful interpretation of longitudinal research findings.
+I am regularly teaching on the analysis of longitudinal data in R, including a full semester [research training](https://github.com/czymaraclass/LongDataAnalysis) or a condensed two-day [summer school course](https://github.com/czymaraclass/PanelReg) (*note:* the materials are currently offline). Both formats include lectures and practical tutorials. This course introduces the essential tools for analyzing panel data in the social sciences, emphasizing the ability to assess trends over time and explore causal relationships. Participants learn to manage panel data workflows in R, covering data sourcing, preparation, and analysis techniques for meaningful interpretation of longitudinal research findings.
 
 Multilevel Modelling
 ------

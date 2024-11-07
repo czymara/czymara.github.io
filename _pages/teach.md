@@ -13,7 +13,7 @@ Current Course
 Forschungspraktikum I & II: Computational Social Science
 ------
 
-In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). This course provides an introduction to computational social science, equipping students with the skills to analyze large datasets, apply machine learning models, and interpret text data through natural language processing. Using programming languages R and Python, students learn techniques for data collection, processing, and analysis, with practical applications aimed at enhancing social science research through computational methods. The materials are available as open access in this [GitHub repository](https://github.com/czymara/CSS_WS24).
+In the winter term 2024/25, I am teaching a research training on computational social science to MA students of the social sciences at [Goethe University Frankfurt](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=383699&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung). This course provides an introduction to computational social science, equipping students with the skills to analyze large datasets, apply machine learning models, and interpret text data through natural language processing. Using programming languages R and Python, students learn techniques for data collection, processing, and analysis, with practical applications aimed at enhancing social science research through computational methods. The materials are available as open access in this [GitHub repository](https://github.com/czymaraclass/CSS_WS24).
 
 Open-access Courses
 ======
@@ -21,7 +21,7 @@ Open-access Courses
 Introductions to R and Python
 ------
 
-If you're interested in mastering the basics of R and Python, I've created interactive Colabs to help you build an intuitive understanding of R's core logic and essential functions, along with their Python equivalents. Start exploring these programming fundamentals with the exercises for [R](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_R.ipynb) and [Python](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_Python.ipynb).
+If you're interested in mastering the basics of R and Python, I've created interactive Colabs to help you build an intuitive understanding of [R](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_R.ipynb)'s core logic and essential functions, along with their [Python](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_Python.ipynb). equivalents.
 
 Topic Modelling
 ------
@@ -55,9 +55,9 @@ Models
 - Summer 2021: Lägsschnittdatenanalyse und Kausalität
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität
 
-<div style="width:350px;height:350;float: right;">
-    <img src="/code/teachingevaluations/out/lehrewordcloud.png" width="350" height="350" align="right" title="Wordcloud based on students' evaluations of my courses">
-    <figcaption align = "center">Wordcloud based on students' evaluations of my courses</figcaption>
+<div style="width:350px; height:350px; float: right;">
+  <img src="/code/teachingevaluations/out/lehrewordcloud.png" width="350" height="350" alt="Student evaluations" style="display: block; margin: auto;">
+  <figcaption style="text-align: center;">Student evaluations of my courses</figcaption>
 </div>
 
 - Summer 2020: Längsschnittdatenanalyse und Kausalität

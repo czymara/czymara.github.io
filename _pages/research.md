@@ -23,7 +23,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
-1. Breznau, N., & 100+ co-authors: [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/). *Royal Society Open Science*.
+1. Breznau, N., & 100+ co-authors (forthcoming): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/). *Royal Society Open Science*.
 1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](czymara_2024_jcss). *Journal of Computational Social Science*. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)
 1. May, A. C., & Czymara, C. S. (2024). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism 30* (1), 90 - 109. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S., & Bauer, L. (2023). [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2023_gp). *German Politics*. [🔓 PDF](https://czymara.github.io/files/Czymara_2023_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)

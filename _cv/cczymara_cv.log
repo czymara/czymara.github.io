@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.17)  17 JAN 2025 10:52
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.22)  22 JAN 2025 11:22
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -630,34 +630,48 @@ Package marginnote Info: right page because not two side mode on input line 266
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 266.
 
+Overfull \hbox (8.4227pt too wide) in paragraph at lines 279--280
+\TU/lmr/m/n/10.95 As-sess-ing Re-search Re-pro-ducibil-ity in Quan-ti-ta-tive So
+-cial Sci-ence. [][]econ-pa-pers.repec.org/pa-
+ []
+
+
 
 [5]
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 387--391
+Overfull \hbox (13.20457pt too wide) in paragraph at lines 370--371
+[]\TU/lmr/m/n/10.95 Berliner Lan-deszen-trale für poli-tis-che Bil-dung, 10 Nov
+ 2023: [][]Aus-gren-zungsrhetorik etablierter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--393
 
  []
 
 
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 433--434
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 
  []
 
 
 
-[8] (./cczymara_cv.aux)
+[8]
+
+[9] (./cczymara_cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -667,15 +681,15 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13795 strings out of 475518
+ 13796 strings out of 475518
  100000,794899 words of node,token memory allocated
- 571 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 18 attribute, 53 glue_spec
-, 18 attribute_list, 1 write, 14 pdf_action nodes
-   avail lists: 2:887,3:395,4:214,5:692,6:94,7:8037,8:2,9:508,10:8,11:696
+ 591 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 20 attribute, 53 glue_spec
+, 20 attribute_list, 1 write, 16 pdf_action nodes
+   avail lists: 2:891,3:392,4:190,5:692,6:92,7:8037,8:2,9:510,10:8,11:691
  36605 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
- 74i,15n,77p,849b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,15n,77p,986b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/christian czymara/appdata/local/programs/miktex/fonts/opentype/public/
 lm/lmroman10-bolditalic.otf><c:/users/christian czymara/appdata/local/programs/m
 iktex/fonts/opentype/public/lm/lmromanslant10-regular.otf><c:/users/christian cz
@@ -693,9 +707,9 @@ ra/appdata/local/programs/miktex/fonts/opentype/public/lm/lmromancaps10-regular.
 otf><C:/Users/Christian Czymara/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Users/Christian Czymara/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on cczymara_cv.pdf (8 pages, 125567 bytes).
+Output written on cczymara_cv.pdf (9 pages, 127984 bytes).
 
-PDF statistics: 216 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 131072)
+PDF statistics: 225 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -55,4 +55,5 @@ Book Chapters
 Preprints
 ------
 
+- Brodeur, A., & 100+ co-authors: [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm).
 - Brodeur, A., & 100+ co-authors: [Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm).

@@ -16,6 +16,7 @@ Policy institutions
 Media coverage: Migration
 ------
 
+- [Newsweek, 30 Jan 2025](https://www.newsweek.com/elon-musk-winning-german-immigration-debate-2023405): Is Elon Musk Winning the German Immigration Debate?
 - [The Hill, 07 May 2024](https://thehill.com/opinion/international/4754571-french-election-national-rally/): The far right is gaining ground in France’s elections, and its opponents paved the way
 - [Alternatives Economiques, 01 Mar 2024](https://www.alternatives-economiques.fr/imiter-lextreme-lui-prendre-voix-un-tres-mauvais-calcul-ele/00109847): Imiter l’extrême droite pour lui prendre des voix, un très mauvais calcul électoral
 - [ReliefWeb, 17 Jan 2024](https://reliefweb.int/report/world/why-integration-monitoring-matters-and-how-implement-it-effectively): Why integration monitoring matters and how to implement it effectively

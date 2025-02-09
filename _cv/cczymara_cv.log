@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.1.29)  5 FEB 2025 10:52
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  6 FEB 2025 16:14
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -8,8 +8,8 @@ Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
 ollection.
-luaotfload | conf : Root cache directory is "/Users/czymara1/Library/texlive/202
-4/texmf-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/Users/christianczymara/Library/tex
+live/2024/texmf-var/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
 olved path "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-
 2023-12-28.lua".
@@ -20,8 +20,8 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/Users/czymara1/Library/texlive/202
-4/texmf-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/Users/christianczymara/Library/tex
+live/2024/texmf-var/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -44,8 +44,8 @@ Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/202
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/czymara1/Library/texliv
-e/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from /Users/christianczymara/Librar
+y/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \c@part=\count186
 \c@section=\count187
 \c@subsection=\count188

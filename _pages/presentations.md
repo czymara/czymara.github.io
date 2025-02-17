@@ -6,8 +6,9 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Invited talk: *Wandel und Kontinuität: Einstellungen zur Einwanderung in Deutschland und Europa vor und nach 2015*. [10 Jahre nach der „Flüchtlingskrise“: Deutschland, Europa und die Asylsuchenden von 2015](https://www.wzb.eu/de/events/10-jahre-nach-der-fluechtlingskrise-deutschland-europa-und-die-asylsuchenden-von-2015) conference at the Wissenschaftszentrum Berlin für Sozialforschung (WZB) 🇩🇪 on 13 March 2025.
+- Invited talk: *Wandel und Kontinuität: Einstellungen zur Einwanderung in Deutschland und Europa vor und nach 2015*. [10 Jahre nach der „Flüchtlingskrise“: Deutschland, Europa und die Asylsuchenden von 2015](https://www.wzb.eu/de/events/10-jahre-nach-der-fluechtlingskrise-deutschland-europa-und-die-asylsuchenden-von-2015) am Wissenschaftszentrum Berlin für Sozialforschung (WZB) 🇩🇪 am 13 März 2025.
 - Invited talk at the [Immigration, Public Opinion, and Crime in the Digital Age (IPODA) - Leveraging online data sources with insights from traditional survey methods](https://druedin.com/2025/01/21/call-for-papers-immigration-public-opinion-and-crime-in-the-digital-age-ipoda/) workshop at University of Cologne 🇩🇪 on 28. April 2025.
+- Ringvorlesung mit dem Titel "Von Nationen und Narrativen – Identitäten in multiethnischen Gesellschaften" an der Johannes Gutenberg-Universität Mainz 🇩🇪 am 17. Juni 2025 (mit Antonia May).
 - Two presentations accepted at this year's [European Survey Research Association conference](https://www.europeansurveyresearch.org/conference/utrecht-2025/) at Utrecht University 🇳🇱 on 14.-18. July 2025.
 
 Past Talks (Selection)

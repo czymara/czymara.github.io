@@ -8,6 +8,7 @@ My research has been featured in prominent national and international news outle
 Policy institutions
 ------
 
+- [Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration 2024](https://www.integrationsbeauftragte.de/resource/blob/2196306/2330834/c9c424884ff0c8c109c13aae3e8f0d3a/2025-01-17-14-integrationsbericht-neu-data.pdf): 14. Integrationsbericht der Integrationsbeauftragten
 - [World Bank 2022](https://openknowledge.worldbank.org/handle/10986/36914): Forced Migration, Social Cohesion and Conflict: The 2015 Refugee Inflow in Germany
 - [International Labour Organization 2021](https://www.ilo.org/ilc/ILCSessions/109/reports/reports-to-the-conference/WCMS_792123/lang--en/index.htm): Inequalities and the world of work
 - [European Parliament 2020](https://op.europa.eu/en/publication-detail/-/publication/ecfe8a54-4f04-11eb-b59f-01aa75ed71a1/language-en/format-PDF/source-183317381): The gendered impact of the Covid-19 crisis and post-crisis period

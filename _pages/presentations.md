@@ -10,6 +10,7 @@ Upcoming Talks
 - Invited talk at the [Immigration, Public Opinion, and Crime in the Digital Age (IPODA) - Leveraging online data sources with insights from traditional survey methods](https://druedin.com/2025/01/21/call-for-papers-immigration-public-opinion-and-crime-in-the-digital-age-ipoda/) workshop at University of Cologne 🇩🇪 on 28. April 2025.
 - Ringvorlesung mit dem Titel "Von Nationen und Narrativen – Identitäten in multiethnischen Gesellschaften" an der Johannes Gutenberg-Universität Mainz 🇩🇪 am 17. Juni 2025 (mit Antonia May).
 - Two presentations accepted at this year's [European Survey Research Association conference](https://www.europeansurveyresearch.org/conference/utrecht-2025/) at Utrecht University 🇳🇱 on 14.-18. July 2025.
+- One presentation accepted at this year's [ECSR Annual Conference](https://ecsrnet.eu/news/ecsr-2025-annual-conference/) at the University of Cologne 🇩🇪 on 3.-5. September 2025.
 
 Past Talks (Selection)
 ------

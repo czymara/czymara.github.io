@@ -12,5 +12,5 @@ I am a Senior Researcher in the Migration & Migrants Theme at the [Netherlands I
 
 I have several years of experience in [teaching](teach) quantitative methods and research design, which includes supervising Bachelor's and Master's theses.
 
-Feel free to contact me at [czymara(at)nidi.nl](mailto:czymara@nidi.nl) or follow me on *Bluesky* at [@christian.czymara.com](https://bsky.app/profile/christian.czymara.com) or *Mastodon* at <a rel="me" href="https://sciences.social/@cczymara">@cczymara@sciences.social</a>.
+Feel free to contact me at [czymara(at)nidi.nl](mailto:czymara@nidi.nl) or follow me on *Bluesky*: [@christian.czymara.com](https://bsky.app/profile/christian.czymara.com).
 

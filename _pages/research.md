@@ -23,8 +23,9 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
+1. Czymara, C. S., Eisentraut, M., Kolkwitz-Anstötz, P., Davidov, E., & Schmidt, P. (forthcoming): [Antisemitism Among Muslims in Germany](czymara_etal_2025_esr). *European Sociological Review*.
 1. Breznau, N., & 100+ co-authors (forthcoming): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/). *Royal Society Open Science*.
-1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](czymara_2024_jcss). *Journal of Computational Social Science*. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)
+1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](czymara_2024_jcss). *Journal of Computational Social Science 7* (2), 1305 - 1325. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)
 1. May, A. C., & Czymara, C. S. (2024). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism 30* (1), 90 - 109. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S., & Bauer, L. (2025). [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2025_gp). *German Politics 34* (1), 128 - 155. [🔓 PDF](https://czymara.github.io/files/Czymara_2025_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)
 1. Nägel, C., Nivette A., & Czymara, C. S. (2024). [Do Jihadist Terrorist Attacks Cause Changes in Institutional Trust? A Multi-Site Natural Experiment](naegel_etal_2024_ejpr). *European Journal of Political Research 63* (2), 411 - 432. [🔓 PDF](https://czymara.github.io/files/Naegel-Nivette-Czymara_2024_Do jihadist terrorist attacks cause changes in institutional trust.pdf)
@@ -55,5 +56,6 @@ Book Chapters
 Preprints
 ------
 
+- Czymara, C. S.: [Public Responses to Jihadist Terrorism on Social Media](https://osf.io/preprints/osf/whd8n_v1).
 - Brodeur, A., & 100+ co-authors: [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm).
 - Brodeur, A., & 100+ co-authors: [Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm).

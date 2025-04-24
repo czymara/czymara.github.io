@@ -24,7 +24,7 @@ Peer-reviewed Journal Articles
 ------
 
 1. Czymara, C. S., Eisentraut, M., Kolkwitz-Anstötz, P., Davidov, E., & Schmidt, P. (forthcoming): [Antisemitism Among Muslims in Germany](czymara_etal_2025_esr). *European Sociological Review*.
-1. Breznau, N., & 100+ co-authors (forthcoming): [The Reliability of Replications: A Study in Computational Reproductions](https://osf.io/preprints/socarxiv/j7qta/). *Royal Society Open Science*.
+1. Breznau, N., & 100+ co-authors (2025): [The Reliability of Replications: A Study in Computational Reproductions](https://royalsocietypublishing.org/doi/10.1098/rsos.241038). *Royal Society Open Science*.
 1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](czymara_2024_jcss). *Journal of Computational Social Science 7* (2), 1305 - 1325. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)
 1. May, A. C., & Czymara, C. S. (2024). [Careless Whisper: Political Elite Discourses Activate National Identities for Far-right Voting Preferences](may-czymara_2024_nana). *Nations and Nationalism 30* (1), 90 - 109. [🔓 PDF](https://czymara.github.io/files/May-Czymara_2024_Careless whisper Political elite discourses activate national identities for far-right voting preferences.pdf)
 1. Czymara, C. S., & Bauer, L. (2025). [Discursive Shifts in the German Right-Wing Newspaper *Junge Freiheit* 1997-2019: A Computational Approach](czymara_Bauer_2025_gp). *German Politics 34* (1), 128 - 155. [🔓 PDF](https://czymara.github.io/files/Czymara_2025_Discursive Shifts in the German Right Wing Newspaper Junge Freiheit.pdf)
@@ -50,12 +50,13 @@ Peer-reviewed Journal Articles
 Book Chapters
 ------
 
-1. Czymara, C. S., Dochow-Sondershaus, S, Drouhot, L. G., Şimşek, M., & Spörlein, C. (2024). [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017](https://doi.org/10.4324/9781003533368-8). in Deutschmann, E., Drouhot, L. G., Zuccotti, C. V. & Zagheni, E. (Eds.), [Computational Research in Ethnic and Migration Studies](https://doi.org/10.4324/9781003533368) (pp. 152 -- 170). Routledge. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
+1. Langenkamp, A., & Czymara, C. S. (forthcoming). Zuwanderung, Sorgen vor Islamismus und AfD-Wahl: Eine Studie auf Gemeindeebene in Sachsen. In Ackermann, K., Elff, M., Giebler, H., &, Steiner, N. (Eds.), Reihe *Wahlen und politische Einstellungen*. Springer VS.
+1. Czymara, C. S., Dochow-Sondershaus, S, Drouhot, L. G., Şimşek, M., & Spörlein, C. (2024). [Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017](https://doi.org/10.4324/9781003533368-8). In Deutschmann, E., Drouhot, L. G., Zuccotti, C. V., & Zagheni, E. (Eds.), [Computational Research in Ethnic and Migration Studies](https://doi.org/10.4324/9781003533368) (pp. 152 -- 170). Routledge. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf)
 1. Velásquez, P., Eger, M. A., Castañeda, H., Czymara, C. S., Ivarsflaten, E., Maxwell, R., Okamoto, D., & Wilkes, R. (2024). [Processes and Pathways of Stigmatization and Destigmatization over Time](https://direct.mit.edu/books/oa-edited-volume/5753/chapter-standard/4672090/Processes-and-Pathways-of-Stigmatization-and). In Yang, L. H., Eger, M. A., & Link, B. G. (Eds.), [Migration Stigma: Understanding Prejudice, Discrimination, and Exclusion](https://direct.mit.edu/books/oa-edited-volume/5753/Migration-StigmaUnderstanding-Prejudice) (pp. 179 - 200). MIT Press.
 
 Preprints
 ------
 
-- Czymara, C. S.: [Public Responses to Jihadist Terrorism on Social Media](https://osf.io/preprints/osf/whd8n_v1).
+- Czymara, C. S.: [Public Responses to Jihadist Terrorism on Social Media](https://osf.io/preprints/socarxiv/fkue4_v1).
 - Brodeur, A., & 100+ co-authors: [Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science](https://econpapers.repec.org/paper/zbwi4rdps/195.htm).
 - Brodeur, A., & 100+ co-authors: [Mass Reproducibility and Replicability: A New Hope](https://econpapers.repec.org/paper/zbwi4rdps/107.htm).

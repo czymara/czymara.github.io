@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "il"
+locale                   : "nl"
 title                    : "Dr. Christian S. Czymara"
 title_separator          : "-"
 name                     : &name "Dr. Christian S. Czymara"
@@ -83,7 +83,7 @@ author:
   name             : ""
   avatar           : "christian_czymara_web.jpg"
   bio              : "Migration, Attitudes, Conflict, Political Communication, Data Analysis, Computational Social Science"
-  location         : "The Hague, NL"
+  location         : ""
   employer         : "NIDI"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=khPqHmgAAAAJ"

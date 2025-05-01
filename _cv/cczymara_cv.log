@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  21 APR 2025 16:45
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  1 MAY 2025 09:27
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -437,6 +437,12 @@ Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 22
 Package marginnote Info: right page because not two side mode on input line 227
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 227.
+
+Overfull \hbox (4.05359pt too wide) in paragraph at lines 227--228
+\TU/lmr/m/n/10.95 semitism Among Mus-lims in Ger-many. \TU/lmr/bx/it/10.95 Eu-ro
+-pean So-ci-o-log-i-cal Re-view\TU/lmr/m/n/10.95 . [][]doi.org/10.1093/
+ []
+
 Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 22
 8.
 Package marginnote Info: right page because not two side mode on input line 228
@@ -452,6 +458,18 @@ Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 23
 Package marginnote Info: right page because not two side mode on input line 230
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 230.
+
+Overfull \hbox (4.09193pt too wide) in paragraph at lines 233--234
+[]\TU/lmr/m/n/10.95 Me-dia cov-er-age: [][]Kat-a-pult[][]; [][]The Hill[][]; []
+[]tech-zle.com[][]; [][]phys.org[][]; [][]wis-senschaft.de[][]; [][]forschung-
+ []
+
+
+Overfull \hbox (13.06538pt too wide) in paragraph at lines 233--234
+\TU/lmr/m/n/10.95 und-wissen.de[][]; [][]Berliner Lan-deszen-trale für poli-tis
+-che Bil-dung[][]; [][]Al-ter-na-tives Economiques[][] 
+ []
+
 Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 23
 5.
 Package marginnote Info: right page because not two side mode on input line 235
@@ -487,7 +505,7 @@ Package marginnote Info: Margin note 3.11 is on absolute page 4 on input line 2
 Package marginnote Info: right page because not two side mode on input line 247
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 247.
- [3]
+[3]
 Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 24
 8.
 Package marginnote Info: right page because not two side mode on input line 248
@@ -583,32 +601,32 @@ Overfull \hbox (8.4227pt too wide) in paragraph at lines 301--302
  []
 
 [5] [6]
-Overfull \hbox (13.20457pt too wide) in paragraph at lines 396--397
+Overfull \hbox (13.20457pt too wide) in paragraph at lines 397--398
 []\TU/lmr/m/n/10.95 Berliner Lan-deszen-trale für poli-tis-che Bil-dung, 10 Nov
  2023: [][]Aus-gren-zungsrhetorik etablierter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--419
+Underfull \hbox (badness 10000) in paragraph at lines 416--420
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 461--462
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
-[8] [9] (./cczymara_cv.aux)
+[9] (./cczymara_cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -620,13 +638,13 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13858 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 601 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 21 attribute, 53 glue_spec
-, 21 attribute_list, 1 write, 17 pdf_action nodes
-   avail lists: 1:1,2:853,3:391,4:196,5:702,6:87,7:8324,8:2,9:496,10:8,11:700
+ 611 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 22 attribute, 53 glue_spec
+, 22 attribute_list, 1 write, 18 pdf_action nodes
+   avail lists: 1:1,2:859,3:391,4:202,5:702,6:87,7:8324,8:2,9:498,10:8,11:680
  35758 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
- 74i,15n,77p,986b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,15n,77p,1072b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditali
 c.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmromanslant1
 0-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmrom
@@ -641,10 +659,10 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (9 pages, 101877 bytes).
+Output written on cczymara_cv.pdf (9 pages, 102159 bytes).
 
-PDF statistics: 237 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+PDF statistics: 239 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
  10 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

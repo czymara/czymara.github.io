@@ -45,6 +45,7 @@ Evaluations
 
 <img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" align="right">
 
+- Winter 2024/25: Computational Social Science
 - Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python
 - Aug 2023: DeZIM Summer School: Einführung in die Panelregression
 - Jul 2023: BIGSSS Summer School on Computational Social Science of Democratic Debate: Topic 

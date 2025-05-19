@@ -6,10 +6,11 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Invited talk: "Zwischen Zugehörigkeit und Abgrenzung: Nationale Identitäten, öffentliche Debatten und Wahlentscheidungen" Sitzung der Ringvorlesung "Von Nationen und Narrativen – Identitäten in multiethnischen Gesellschaften" an der Johannes Gutenberg-Universität Mainz 🇩🇪 am 17. Juni 2025 (mit Antonia May).
+- Invited talk: "Zwischen Zugehörigkeit und Abgrenzung: Nationale Identitäten, öffentliche Debatten und Wahlentscheidungen" Sitzung der Ringvorlesung [Von Nationen und Narrativen – Identitäten in multiethnischen Gesellschaften](https://jogustine.uni-mainz.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N001281,-N0,-N390975214116298,-N390975214153299,-N0,-N0,-N0) an der Johannes Gutenberg-Universität Mainz 🇩🇪 am 17. Juni 2025 (mit Antonia May) (16:15 bis 17:45 in Raum 00 151 P3).
+- [Public Responses to Jihadist Terrorism on Social Media](https://czymara.com/files/pres/pres_terror_twitter.html) at the [2nd International Migration and Societal Change Conference](https://www.uu.nl/en/events/2nd-international-migration-and-societal-change-conference) at Utrecht University 🇳🇱 on 20. June 2025 in Panel 20 Migration and Social Media (16.30 – 18.00, Janskerkhof 2-3, room 1.10).
 - [Four presentations](https://www.europeansurveyresearch.org/conf2025/prog.php?surname=1&id=Czymara,%20Christian#main) accepted at this year's [European Survey Research Association conference](https://www.europeansurveyresearch.org/conference/utrecht-2025/) at Utrecht University 🇳🇱 on 14.-18. July 2025 (two as presenting author). Moreover, I am co-chairing the session [Sources, consequences and measurement of antisemitism](https://www.europeansurveyresearch.org/conf2025/prog.php?sess=89#932) on Thursday 17 July, 09:00 - 10:30.
-- Two presentations accepted at this year's [ECSR Annual Conference](https://ecsrnet.eu/news/ecsr-2025-annual-conference/) at the University of Cologne 🇩🇪 on 3.-5. September 2025 (one as presenting author).
 - Poster accepted at this year's [International Conference on Computational Social Science](https://www.ic2s2-2025.org/) in Norrköping 🇸🇪 on 21.-24. July 2025.
+- Two presentations accepted at this year's [ECSR Annual Conference](https://ecsrnet.eu/news/ecsr-2025-annual-conference/) at the University of Cologne 🇩🇪 on 3.-5. September 2025 (one as presenting author).
 
 Past Talks (Selection)
 ------

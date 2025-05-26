@@ -49,7 +49,7 @@ Peer-reviewed Journal Articles
 
 Book Chapters
 ------
-(* = peer reviewed)
+* = peer reviewed
 
 1. Lee, Y., Piñeyrúa, F., Czymara, C. S., & Weber, M. (forthcoming). Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980-2021). In Lorenz, J., Keijzer, M., & Bojanowski, M. (Eds.), *Computational Social Science of Social Cohesion and Polarization*. Springer VS.*
 1. Langenkamp, A., & Czymara, C. S. (forthcoming). Zuwanderung, Sorgen vor Islamismus und AfD-Wahl: Eine Studie auf Gemeindeebene in Sachsen. In Ackermann, K., Elff, M., Giebler, H., & Steiner, N. (Eds.), Reihe *Wahlen und politische Einstellungen*. Springer VS.*

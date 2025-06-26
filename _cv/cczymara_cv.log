@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  26 MAY 2025 16:32
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  20 JUN 2025 21:56
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -605,29 +605,35 @@ Overfull \hbox (8.4227pt too wide) in paragraph at lines 302--303
 -cial Sci-ence. [][]econ-pa-pers.repec.org/pa-
  []
 
-[5] [6]
-Overfull \hbox (13.20457pt too wide) in paragraph at lines 398--399
+[5]
+Overfull \hbox (7.69995pt too wide) in paragraph at lines 368--369
+[]\TU/lmr/m/n/10.95 Ringvor-lesung Von Na-tio-nen und Nar-ra-tiven -- Iden-tit
+äten in mul-ti-eth-nis-chen Gesellschaften,
+ []
+
+[6]
+Overfull \hbox (13.20457pt too wide) in paragraph at lines 400--401
 []\TU/lmr/m/n/10.95 Berliner Lan-deszen-trale für poli-tis-che Bil-dung, 10 Nov
  2023: [][]Aus-gren-zungsrhetorik etablierter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--421
+Underfull \hbox (badness 10000) in paragraph at lines 419--423
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
@@ -646,7 +652,7 @@ Here is how much of LuaTeX's memory you used:
  611 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 22 attribute, 53 glue_spec
 , 22 attribute_list, 1 write, 18 pdf_action nodes
-   avail lists: 1:1,2:859,3:391,4:206,5:702,6:87,7:8324,8:2,9:498,10:8,11:680
+   avail lists: 1:1,2:859,3:391,4:212,5:702,6:87,7:8324,8:2,9:498,10:8,11:679
  35759 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,1072b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -664,7 +670,7 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (9 pages, 102829 bytes).
+Output written on cczymara_cv.pdf (9 pages, 103163 bytes).
 
 PDF statistics: 239 PDF objects out of 1000 (max. 8388607)
  194 compressed objects within 2 object streams

@@ -10,20 +10,20 @@ redirect_from:
 Professional Experience (since PhD)
 ------
 
-| Period               | Position               | Institution & Country                                                                                                                        |
+| Period               | Position               | Institution                                                                                                                        |
 |----------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Feb 2025 – present   | Senior Researcher      | Netherlands Interdisciplinary Demographic Institute, NL                                                 |
-| May 2018 – Jan 2025  | Researcher and Lecturer | Goethe University Frankfurt, DE                                                                                                             |
-| Oct 2022 – Sep 2024  | Postdoctoral Fellow    | Tel Aviv University, IL                                                                                                                     |
+| Feb 2025 – present   | Senior Researcher      | Netherlands Interdisciplinary Demographic Institute 🇳🇱                                                 |
+| May 2018 – Jan 2025  | Researcher and Lecturer | Goethe University Frankfurt 🇩🇪                                                                                                             |
+| Oct 2022 – Sep 2024  | Postdoctoral Fellow    | Tel Aviv University 🇮🇱                                                                                                                     |
 
 Education
 ------
 
 | Date         | Degree                                                      | Institution           |
 |--------------|-------------------------------------------------------------|---------------------------------|
-| Dec 2018     | Dr. rer. pol. in Social Sciences and Economics (*Summa cum laude*) | University of Cologne, DE     |
-| Aug 2015     | M. Sc. in Sociology and Empirical Social Research           | University of Cologne, DE     |
-| Jun 2012     | B. A. in Sociology                                          | University of Mannheim, DE    |
+| Dec 2018     | Dr. rer. pol. in Social Sciences and Economics (*Summa cum laude*) | University of Cologne 🇩🇪    |
+| Aug 2015     | M. Sc. in Sociology and Empirical Social Research           | University of Cologne 🇩🇪     |
+| Jun 2012     | B. A. in Sociology                                          | University of Mannheim 🇩🇪    |
 
 Full CV
 ------

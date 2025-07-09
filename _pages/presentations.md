@@ -10,8 +10,10 @@ Upcoming Talks
   + [Presentation 1: Is Antisemitism Higher Among Muslim and Immigrant Groups in Germany?](https://docs.google.com/presentation/d/1P7o9KkefG3xQV2MivMAJHaZFYD-rUQ4KbMg-bI2mfwM/edit?usp=sharing), Thursday 17 July, 09:00 - 10:30, Ruppert D - 0.24
   + [Presentation 2: Public Responses to Jihadist Terrorism on Social Media](https://czymara.com/files/pres/ESRA_25.html), Friday 18 July, 11:00 - 12:30 Ruppert Blauw - 0.53
   + Moreover, I am co-chairing the session [Sources, consequences and measurement of antisemitism](https://www.europeansurveyresearch.org/conf2025/prog.php?sess=89#932) on Thursday 17 July, 09:00 - 10:30.
-- Poster accepted at this year's [International Conference on Computational Social Science](https://www.ic2s2-2025.org/) in Norrköping 🇸🇪 on 21.-24. July 2025.
+- Poster accepted at this year's [International Conference on Computational Social Science](https://www.ic2s2-2025.org/) in Norrköping 🇸🇪 on 21.-24. July 2025. (Not attending)
 - Two presentations accepted at this year's [ECSR Annual Conference](https://ecsrnet.eu/news/ecsr-2025-annual-conference/) at the University of Cologne 🇩🇪 on 3.-5. September 2025 (one as presenting author).
+- One presentation accepted at this year's [Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen](https://www.soziopolis.de/veranstaltungen/konferenz-kongress-symposium/jahrestreffen-des-netzwerks-fuer-empirisch-analytische-sozialforschung-zu-musliminnen-nafs.html) at Goethe University Frankfurt 🇩🇪 on 15.-16. September 2025.
+- Two presentations accepted at the [5th Conference of the Academy of Sociology](https://www.akademie-soziologie.de/die-akademie/aktivitaeten-und-foerderung/kongresse/) at Johannes Gutenberg University Mainz 🇩🇪 on 8.-10. October 2025 (one as presenting author).
 
 Past Talks (Selection)
 ------

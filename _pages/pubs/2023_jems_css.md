@@ -10,7 +10,6 @@ Christian S. Czymara, Stephan Dochow-Sondershaus, Lucas G. Drouhot, Müge Şimş
 - Replication material: [OSF](https://osf.io/mxncq/)
 - Reprinted as [doi.org/10.4324/9781003533368-8](https://doi.org/10.4324/9781003533368-8) in Deutschmann, E., Drouhot, L. G., Zuccotti, C. V. & Zagheni, E. (Eds.), *Computational Research in Ethnic and Migration Studies* (pp. 152 -- 170). Routledge. [doi.org/10.4324/9781003533368](https://doi.org/10.4324/9781003533368)
 
-
 <iframe src="https://czymara.github.io/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf" width="600" height="500"></iframe>
 
 APA citation: Czymara, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Simsek, M., & Spörlein, C. (2023). Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017. Journal of Ethnic and Migration Studies, 49(2), 535-553.

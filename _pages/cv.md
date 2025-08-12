@@ -13,8 +13,8 @@ Professional Experience (since PhD)
 | Period               | Position               | Institution                                                                                                                        |
 |----------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Feb 2025 – present   | Senior Researcher      | Netherlands Interdisciplinary Demographic Institute 🇳🇱                                                 |
-| May 2018 – Jan 2025  | Researcher and Lecturer | Goethe University Frankfurt 🇩🇪                                                                                                             |
 | Oct 2022 – Sep 2024  | Postdoctoral Fellow    | Tel Aviv University 🇮🇱                                                                                                                     |
+| May 2018 – Jan 2025  | Researcher and Lecturer | Goethe University Frankfurt 🇩🇪                                                                                                             |
 
 Education
 ------

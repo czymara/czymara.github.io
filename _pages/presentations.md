@@ -6,9 +6,11 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Two presentations accepted at this year's [ECSR Annual Conference](https://ecsrnet.eu/news/ecsr-2025-annual-conference/) at the University of Cologne 🇩🇪 on 3.-5. September 2025 (one as presenting author).
-- One presentation accepted at this year's [Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen](https://www.soziopolis.de/veranstaltungen/konferenz-kongress-symposium/jahrestreffen-des-netzwerks-fuer-empirisch-analytische-sozialforschung-zu-musliminnen-nafs.html) at Goethe University Frankfurt 🇩🇪 on 15.-16. September 2025.
-- Two presentations accepted at the [5th Conference of the Academy of Sociology](https://www.akademie-soziologie.de/die-akademie/aktivitaeten-und-foerderung/kongresse/) at Johannes Gutenberg University Mainz 🇩🇪 on 8.-10. October 2025 (one as presenting author).
+- Two presentations at this year's [ECSR Annual Conference](https://ecsrnet.eu/news/ecsr-2025-annual-conference/) at the University of Cologne 🇩🇪 on 3.-5. September 2025 (one as presenting author).
+  + Presentation: [Public Responses to Jihadist Terrorism on Social Media](https://czymara.com/files/pres/ECSR_25.html) on Wednesday – 09-03-2025, 03:30 pm at S23 (Seminar Building).
+  + Chairing the session [Fertility and birth outcomes](https://uni-koeln.converia.de/frontend/index.php) on Wednesday – 09-03-2025, 01:30 pm at S23 (Seminar Building).
+- Presentation at this year's [Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen](https://www.soziopolis.de/veranstaltungen/konferenz-kongress-symposium/jahrestreffen-des-netzwerks-fuer-empirisch-analytische-sozialforschung-zu-musliminnen-nafs.html) at Goethe University Frankfurt 🇩🇪 on 15.-16. September 2025.
+- Two presentations at the [5th Conference of the Academy of Sociology](https://www.akademie-soziologie.de/die-akademie/aktivitaeten-und-foerderung/kongresse/) at Johannes Gutenberg University Mainz 🇩🇪 on 8.-10. October 2025 (one as presenting author).
 
 Past Talks (Selection)
 ------

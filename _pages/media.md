@@ -17,6 +17,8 @@ Policy institutions
 Media coverage: Migration
 ------
 
+- [El País, 12 Aug 2025](https://elpais.com/opinion/2025-08-12/opiniones-migrantes.html): Opiniones migrantes
+- [Katapult, 03 Apr 2025](https://katapult-magazin.de/de/karten/artikel/rechtsextremismus-bekaempfen/8.jpg): Rechtsextremismus bekämpfen
 - [Newsweek, 24 Feb 2025](https://www.newsweek.com/elon-musk-afd-germany-election-win-2034423): Was Elon Musk the Big Winner of Germany's Election?
 - [Newsweek, 30 Jan 2025](https://www.newsweek.com/elon-musk-winning-german-immigration-debate-2023405): Is Elon Musk Winning the German Immigration Debate?
 - [The Hill, 07 May 2024](https://thehill.com/opinion/international/4754571-french-election-national-rally/): The far right is gaining ground in France’s elections, and its opponents paved the way

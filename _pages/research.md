@@ -25,7 +25,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
-1. Czymara, C. S., Gorodzeisky, A. & Leykin, I. (2025): [Political Legacies and Present Perceptions of Migrants](czymara_2025_cms). *Comparative Migration Studies*. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Political Legacies and Present Perceptions of Migrants.pdf)
+1. Czymara, C. S., Gorodzeisky, A. & Leykin, I. (2025): [Political Legacies and Present Perceptions of Migrants](czymara_2025_cms). *Comparative Migration Studies*. [🔓 PDF](https://czymara.github.io/files/Czymara_2025_Political Legacies and Present Perceptions of Migrants.pdf)
 1. Czymara, C. S., Eisentraut, M., Kolkwitz-Anstötz, P., Davidov, E., & Schmidt, P. (2025): [Antisemitism Among Muslims in Germany](czymara_etal_2025_esr). *European Sociological Review*. [🔓 PDF](https://czymara.github.io/files/Czymara_2025_Antisemitism among Muslims in Germany.pdf)
 1. Breznau, N., & 100+ co-authors (2025): [The Reliability of Replications: A Study in Computational Reproductions](https://royalsocietypublishing.org/doi/10.1098/rsos.241038). *Royal Society Open Science*.
 1. Czymara, C. S. & Gorodzeisky, A. (2024). [Hostility on Twitter in the Aftermath of Terror Attacks](czymara_2024_jcss). *Journal of Computational Social Science 7* (2), 1305 - 1325. [🔓 PDF](https://czymara.github.io/files/Czymara_2024_Hostility on Twitter in the Aftermath of Terror Attacks.pdf)

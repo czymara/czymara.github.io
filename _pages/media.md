@@ -17,6 +17,7 @@ Policy institutions
 Media coverage: Migration
 ------
 
+- [Die Zeit Was jetzt? Podcast, 30 Aug 2025](https://www.zeit.de/gesellschaft/2025-08/gefluechtete-2015-wir-schaffen-das-10-jahre-migration-nachrichtenpodcast): Geflüchtete von 2015: "Man hat gedacht, dass man zu Hause ist"
 - [El País, 12 Aug 2025](https://elpais.com/opinion/2025-08-12/opiniones-migrantes.html): Opiniones migrantes
 - [Katapult, 03 Apr 2025](https://katapult-magazin.de/de/karten/artikel/rechtsextremismus-bekaempfen/8.jpg): Rechtsextremismus bekämpfen
 - [Newsweek, 24 Feb 2025](https://www.newsweek.com/elon-musk-afd-germany-election-win-2034423): Was Elon Musk the Big Winner of Germany's Election?

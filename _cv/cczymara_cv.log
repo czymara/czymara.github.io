@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  8 SEP 2025 10:34
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  17 SEP 2025 15:25
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -483,43 +483,43 @@ Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 24
 Package marginnote Info: right page because not two side mode on input line 244
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 244.
-Package marginnote Info: Margin note 3.10 is on absolute page 4 on input line 2
-48.
+[3]
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 24
+8.
 Package marginnote Info: right page because not two side mode on input line 248
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 248.
-[3]
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 24
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 24
 9.
 Package marginnote Info: right page because not two side mode on input line 249
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 249.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 25
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 25
 0.
 Package marginnote Info: right page because not two side mode on input line 250
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 250.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 25
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 25
 1.
 Package marginnote Info: right page because not two side mode on input line 251
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 251.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 25
+Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 25
 7.
 Package marginnote Info: right page because not two side mode on input line 257
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 257.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 25
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 25
 8.
 Package marginnote Info: right page because not two side mode on input line 258
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 258.
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 25
+Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 25
 9.
 Package marginnote Info: right page because not two side mode on input line 259
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 259.
-Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 26
+Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 26
 3.
 Package marginnote Info: right page because not two side mode on input line 263
 .
@@ -536,22 +536,22 @@ Overfull \hbox (4.85846pt too wide) in paragraph at lines 266--267
 -ro-pean Par-lia-ment[][]; [][]In-ter-na-tional Labour
  []
 
-Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 26
+Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 26
 8.
 Package marginnote Info: right page because not two side mode on input line 268
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 268.
-Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 26
-9.
+Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 2
+69.
 Package marginnote Info: right page because not two side mode on input line 269
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 269.
-Package marginnote Info: Margin note 4.10 is on absolute page 5 on input line 2
+Package marginnote Info: Margin note 4.11 is on absolute page 5 on input line 2
 70.
 Package marginnote Info: right page because not two side mode on input line 270
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 270.
-Package marginnote Info: Margin note 4.11 is on absolute page 5 on input line 2
+Package marginnote Info: Margin note 4.12 is on absolute page 5 on input line 2
 71.
 Package marginnote Info: right page because not two side mode on input line 271
 .
@@ -592,7 +592,7 @@ Package marginnote Info: Margin note 5.7 is on absolute page 5 on input line 29
 Package marginnote Info: right page because not two side mode on input line 291
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 291.
-Package marginnote Info: Margin note 5.8 is on absolute page 5 on input line 29
+Package marginnote Info: Margin note 5.8 is on absolute page 6 on input line 29
 2.
 Package marginnote Info: right page because not two side mode on input line 292
 .
@@ -604,63 +604,59 @@ Overfull \hbox (8.4227pt too wide) in paragraph at lines 306--307
  []
 
 [6]
-Overfull \hbox (7.69995pt too wide) in paragraph at lines 378--379
+Overfull \hbox (7.69995pt too wide) in paragraph at lines 379--380
 []\TU/lmr/m/n/10.95 Ringvor-lesung Von Na-tio-nen und Nar-ra-tiven -- Iden-tit
 äten in mul-ti-eth-nis-chen Gesellschaften,
  []
 
 [7]
-Overfull \hbox (13.20457pt too wide) in paragraph at lines 413--414
+Overfull \hbox (13.20457pt too wide) in paragraph at lines 414--415
 []\TU/lmr/m/n/10.95 Berliner Lan-deszen-trale für poli-tis-che Bil-dung, 10 Nov
  2023: [][]Aus-gren-zungsrhetorik etablierter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--436
+Underfull \hbox (badness 10000) in paragraph at lines 433--437
 
  []
 
-[8] [9]
-Overfull \hbox (3.21098pt too wide) in paragraph at lines 477--478
+[8]
+Overfull \hbox (3.21098pt too wide) in paragraph at lines 478--479
 []\TU/lmr/m/it/10.95 Grant pro-pos-als\TU/lmr/m/n/10.95 : Dutch Re-search Coun-c
 il Open Competition-SSH XS; Volk-swa-gen Stiftung;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--479
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
 
  []
 
-[10] [11] (./cczymara_cv.aux)
+[9] [10] (./cczymara_cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13863 strings out of 476447
+ 13862 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 641 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 25 attribute, 53 glue_spec
-, 25 attribute_list, 1 write, 21 pdf_action nodes
-   avail lists: 1:1,2:855,3:391,4:202,5:692,6:88,7:8171,8:2,9:489,10:8,11:661
+ 651 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 26 attribute, 53 glue_spec
+, 26 attribute_list, 1 write, 22 pdf_action nodes
+   avail lists: 1:1,2:855,3:391,4:206,5:692,6:88,7:8171,8:2,9:489,10:8,11:683
  35761 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,1153b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -678,10 +674,10 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (11 pages, 106662 bytes).
+Output written on cczymara_cv.pdf (10 pages, 106436 bytes).
 
-PDF statistics: 261 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
- 12 named destinations out of 1000 (max. 131072)
+PDF statistics: 256 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 11 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

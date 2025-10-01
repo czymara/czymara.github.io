@@ -6,7 +6,7 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Two [presentations](https://docs.google.com/presentation/d/17ZRSz8McDX_IMqBcXqj6E7x8Trhleq6RrI6tHDGcyaM/edit?usp=sharing) at the [5th Conference of the Academy of Sociology](https://www.akademie-soziologie.de/die-akademie/aktivitaeten-und-foerderung/kongresse/) at Johannes Gutenberg University Mainz 🇩🇪 on 8.-10. October 2025 (one as presenting author).
+- Two [presentations](https://docs.google.com/presentation/d/17ZRSz8McDX_IMqBcXqj6E7x8Trhleq6RrI6tHDGcyaM/edit?usp=sharing) at the [5th Conference of the Academy of Sociology](https://www.akademie-soziologie.de/die-akademie/aktivitaeten-und-foerderung/kongresse/) at Johannes Gutenberg University Mainz 🇩🇪 on 8.-10. October 2025 (one as presenting author: 9. Oct, 09.00 – 10:45, in room P4).
 - [Presentation](https://czymara.com/files/pres/ODISSEI_25.html) at [ODISSEI Conference for Computational Social Science](http://odissei-data.nl/nl/event/odissei-conference-2025/) in Jaarbeurs, Utrecht 🇳🇱 on 04. November 2025
 
 Past Talks (Selection)

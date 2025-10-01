@@ -24,7 +24,7 @@ ggplot(cit, aes(x = year, y = cites)) +
     y = NULL,
     caption = paste0("Total citations: ", profile$total_cites,
                      "\nH-index: ", profile$h_index,
-                     "\nUpdated: ", format(Sys.time(), "%d-%B-%Y"))
+                     "\nUpdated: ", format(Sys.time(), "%d. %B %Y"))
   ) +
   xlab(NULL) +
   #annotate("text", label = paste0("Updated: ", format(Sys.time(), "%d-%B-%Y")),

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  17 SEP 2025 15:25
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  28 SEP 2025 13:37
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -674,7 +674,7 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (10 pages, 106436 bytes).
+Output written on cczymara_cv.pdf (10 pages, 106410 bytes).
 
 PDF statistics: 256 PDF objects out of 1000 (max. 8388607)
  209 compressed objects within 3 object streams

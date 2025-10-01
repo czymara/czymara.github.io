@@ -8,7 +8,7 @@ Christian S. Czymara & Alexander W. Schmidt-Catran
 - Published in *Kölner Zeitschrift für Soziologie und Sozialpsychologie* 68 (2): 1 – 35. [doi.org/10.1007/s11577-016-0361-x](https://doi.org/10.1007/s11577-016-0361-x).
 - Replication material: [OSF](https://osf.io/ebr4h/)
 
-<iframe src="https://czymara.github.io/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf" width="600" height="500"></iframe>
+<iframe src="https://czymara.github.io/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf" width="800" height="500"></iframe>
 
 APA citation: Czymara, C. S., & Schmidt-Catran, A. W. (2016). Wer ist in Deutschland willkommen?. Kölner Zeitschrift für Soziologie und Sozialpsychologie, 68(2), 193-227.
 

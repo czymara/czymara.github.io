@@ -28,4 +28,4 @@ Education
 Full CV
 ------
 
-<iframe src="https://czymara.com/cv/cczymara_cv.pdf" width="800" height="600"></iframe>
+<iframe src="https://czymara.com/cv/cczymara_cv.pdf" width="900" height="600"></iframe>

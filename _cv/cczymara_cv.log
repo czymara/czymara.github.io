@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  14 OCT 2025 11:34
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  19 OCT 2025 15:42
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -604,40 +604,40 @@ Overfull \hbox (8.4227pt too wide) in paragraph at lines 306--307
  []
 
 [6]
-Overfull \hbox (7.69995pt too wide) in paragraph at lines 380--381
+Overfull \hbox (7.69995pt too wide) in paragraph at lines 388--389
 []\TU/lmr/m/n/10.95 Ringvor-lesung Von Na-tio-nen und Nar-ra-tiven -- Iden-tit
 äten in mul-ti-eth-nis-chen Gesellschaften,
  []
 
 [7]
-Overfull \hbox (13.20457pt too wide) in paragraph at lines 415--416
+Overfull \hbox (13.20457pt too wide) in paragraph at lines 423--424
 []\TU/lmr/m/n/10.95 Berliner Lan-deszen-trale für poli-tis-che Bil-dung, 10 Nov
  2023: [][]Aus-gren-zungsrhetorik etablierter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--438
+Underfull \hbox (badness 10000) in paragraph at lines 442--446
 
  []
 
 [8]
-Overfull \hbox (3.21098pt too wide) in paragraph at lines 479--480
+Overfull \hbox (3.21098pt too wide) in paragraph at lines 487--488
 []\TU/lmr/m/it/10.95 Grant pro-pos-als\TU/lmr/m/n/10.95 : Dutch Re-search Coun-c
 il Open Competition-SSH XS; Volk-swa-gen Stiftung;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--484
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
 
  []
 
@@ -653,10 +653,10 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13862 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 651 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 26 attribute, 53 glue_spec
-, 26 attribute_list, 1 write, 22 pdf_action nodes
-   avail lists: 1:1,2:855,3:391,4:202,5:692,6:88,7:8171,8:2,9:489,10:8,11:699
+ 661 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 27 attribute, 53 glue_spec
+, 27 attribute_list, 1 write, 23 pdf_action nodes
+   avail lists: 1:2,2:853,3:391,4:216,5:693,6:87,7:8171,8:2,9:489,10:8,11:724
  35761 multiletter control sequences out of 65536+600000
  47 fonts using 3727055 bytes
  74i,15n,77p,1153b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -674,10 +674,10 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (10 pages, 106469 bytes).
+Output written on cczymara_cv.pdf (10 pages, 107272 bytes).
 
-PDF statistics: 256 PDF objects out of 1000 (max. 8388607)
- 209 compressed objects within 3 object streams
+PDF statistics: 261 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
  11 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

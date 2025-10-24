@@ -14,7 +14,7 @@ My [research](research) focuses on migration and integration, conflict, and poli
 
 Before joining NIDI, I worked at the Department of Methods of Empirical Social Research at Goethe University Frankfurt am Main (DE), the Department of Sociology and Anthropology at Tel Aviv University (IL), and the Chair of Empirical Social and Economic Research at the University of Cologne (DE). I was also a visiting researcher at Radboud University Nijmegen (NL) and the Max Planck Institute for the Study of Societies (DE).
 
-I hold a doctoral degree in Social Sciences from the University of Cologne, and studied Sociology at the Universities of Mannheim and Cologne.
+I hold a doctoral degree in Social Sciences from the [Cologne Graduate School in Management, Economics and Social Sciences (University of Cologne)](https://cgs.uni-koeln.de/en/general-information/people/graduates/dissertations-and-placement), and studied Sociology at the Universities of Mannheim and Cologne.
 
 I have extensive experience [teaching](teach) quantitative methods and research design at the Universities of Frankfurt and Cologne and at various summer schools, as well as supervising Bachelor's and Master's theses.
 

@@ -10,7 +10,7 @@ locale                   : "nl"
 title                    : "Dr. Christian S. Czymara"
 title_separator          : "-"
 name                     : &name "Dr. Christian S. Czymara"
-description              : &description "Migration, Attitudes, Conflict, Political Communication, Data Analysis, Computational Social Science"
+description              : &description "Migration, Intergroup Relations, Data Analysis, Computational Social Science"
 url                      : https://www.czymara.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "czymara/czymara.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "christian_czymara_web.jpg"
-  bio              : "Migration, Conflict, Political Communication, Data Analysis, Computational Social Science"
+  bio              : "Migration, Intergroup Relations, Data Analysis, Computational Social Science"
   location         : 
   employer         : 
   pubmed           : 

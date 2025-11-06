@@ -12,9 +12,7 @@ I am a Senior Researcher at the [Netherlands Interdisciplinary Demographic Insti
 
 My [research](research) focuses on migration and integration, conflict, and political communication, employing quantitative and computational methods. My work has been published in esteemed general social science journals like [Social Forces](research/czymara_2021_sf), [European](research/czymara_etal_2025_esr) [Sociological](research/czymara_dochow_2018_esr) [Review](research/czymara_schmidt-catran_2017_esr), and [European Journal of Political Research](research/naegel_etal_2023_ejpr), as well as top-tier specialty outlets such as [Journal of Ethnic](research/schmidt-catran_czymara_2023_jems) [and Migration Studies](research/czymara_etal_2023_jems), [Journal of Computational Social Science](research/czymara_2024_jcss), and [Mass Communication and Society](research/czymara_2024_mcas).
 
-Before joining NIDI, I worked at Goethe University Frankfurt am Main, Tel Aviv University, and the University of Cologne. I was also a visiting researcher at Radboud University Nijmegen and the Max Planck Institute for the Study of Societies.
-
-I hold a doctoral degree in Social Sciences from the [Cologne Graduate School in Management, Economics and Social Sciences](https://cgs.uni-koeln.de/en/general-information/people/graduates/dissertations-and-placement), and studied Sociology at the Universities of Mannheim and Cologne.
+I hold a doctoral degree in Social Sciences from the [Cologne Graduate School in Management, Economics and Social Sciences](https://cgs.uni-koeln.de/en/general-information/people/graduates/dissertations-and-placement), and studied Sociology at the Universities of Mannheim and Cologne. Before joining NIDI, I worked at Goethe University Frankfurt am Main, Tel Aviv University, and the University of Cologne. I was also a visiting researcher at Radboud University Nijmegen and the Max Planck Institute for the Study of Societies.
 
 I have extensive experience [teaching](teach) quantitative methods and research design at the Universities of Frankfurt and Cologne and at various summer schools, as well as supervising Bachelor's and Master's theses.
 

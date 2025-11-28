@@ -6,7 +6,7 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- [Presentation](https://docs.google.com/presentation/d/17ZRSz8McDX_IMqBcXqj6E7x8Trhleq6RrI6tHDGcyaM/edit?usp=sharing) at the [Dutch Association for Migration Research Fall Conference](https://www.damr.eu/events/) at the University of Groningen 🇳🇱 on 27. November 2025 (10.30-17.30)
+- Presentation at the Dutch Demography Day 2026 of the Netherlands Demographic Society at the Academy Building in Utrecht 🇳🇱 on 4. February 2026
 
 Past Talks (Selection)
 ------

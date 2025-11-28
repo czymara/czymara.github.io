@@ -24,11 +24,11 @@ ggplot(cit, aes(x = year, y = cites)) +
     y = NULL,
     caption = paste0("Total citations: ", profile$total_cites,
                      "\nH-index: ", profile$h_index,
-                     "\nUpdated: ", format(Sys.time(), "%d. %B %Y"))
-  ) +
+                     "\nUpdated: ", format(Sys.time(), "%d. %B %Y"))) +
   xlab(NULL) +
   #annotate("text", label = paste0("Updated: ", format(Sys.time(), "%d-%B-%Y")),
   #         x = -Inf, y = Inf, vjust = 1.5, hjust = -0.1, size = 4, colour = 'darkgray') +
+  scale_x_continuous(breaks = unique(cit$year)) +
   theme(
     axis.line = element_line(colour = "black"),
     axis.text = element_text(color = "black"),
@@ -37,8 +37,7 @@ ggplot(cit, aes(x = year, y = cites)) +
     panel.grid.minor = element_blank(),
     panel.border = element_blank(),
     panel.background = element_blank(),
-    plot.caption = element_text(size = 14, hjust = 0.5)
-  )
+    plot.caption = element_text(size = 14, hjust = 0.5))
 
 
 

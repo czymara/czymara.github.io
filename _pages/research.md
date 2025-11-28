@@ -25,6 +25,7 @@ Doctoral Dissertation
 Peer-reviewed Journal Articles
 ------
 
+1. Aczel, B., & 100+ co-authors (forthcoming): Investigating the analytical robustness of the social and behavioural sciences. *Nature*.
 1. Czymara, C. S., Gorodzeisky, A. & Leykin, I. (2025): [Political Legacies and Present Perceptions of Migrants](czymara_2025_cms). *Comparative Migration Studies*. [🔓 PDF](https://czymara.github.io/files/Czymara_2025_Political Legacies and Present Perceptions of Migrants.pdf)
 1. Czymara, C. S., Eisentraut, M., Kolkwitz-Anstötz, P., Davidov, E., & Schmidt, P. (2025): [Antisemitism Among Muslims in Germany](czymara_etal_2025_esr). *European Sociological Review 41* (4), 607 - 625. [🔓 PDF](https://czymara.github.io/files/Czymara_2025_Antisemitism among Muslims in Germany.pdf)
 1. Breznau, N., & 100+ co-authors (2025): [The Reliability of Replications: A Study in Computational Reproductions](https://royalsocietypublishing.org/doi/10.1098/rsos.241038). *Royal Society Open Science 12* (3), 1 -- 23.

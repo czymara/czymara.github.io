@@ -6,7 +6,9 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
+- Guest lecture for the Master Population Studies at the Department of Demography in Groningen 🇳🇱 on 15. January 2026
 - Presentation at the Dutch Demography Day 2026 of the Netherlands Demographic Society at the Academy Building in Utrecht 🇳🇱 on 4. February 2026
+- Invited talk at the IAB Colloquium Labour Market and Occupational Research at the Institute for Employment Research 🇩🇪 on 12. February 2026
 
 Past Talks (Selection)
 ------

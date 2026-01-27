@@ -6,9 +6,9 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- [Guest lecture](https://docs.google.com/presentation/d/14yOtCW1q7YcrPtuxh8OL8LZv1AT1Y2Veb8BfHF2NPiY/edit?usp=sharing) for the Master Population Studies at the Department of Demography in Groningen 🇳🇱 on 15. January 2026
-- Presentation at the Dutch Demography Day 2026 of the Netherlands Demographic Society at the Academy Building in Utrecht 🇳🇱 on 4. February 2026
-- Invited talk at the IAB Colloquium Labour Market and Occupational Research at the Institute for Employment Research 🇩🇪 on 12. February 2026
+- [Presentation](https://docs.google.com/presentation/d/179F_Ht7c_slD5gze8dSTnn0Vlt4j-Tm0G2LsB41n7YE/edit?usp=sharing) at the Dutch Demography Day 2026 of the Netherlands Demographic Society, Academy Building in Utrecht 🇳🇱 on 4. February 2026
+- [Invited talk](https://czymara.com/files/pres/disc_jews_IAB_26.html) at the [IAB Colloquium Labour Market and Occupational Research](https://iab.de/en/iab-veranstaltungen/revisiting-the-integration-paradox-higher-education-and-perceived-discrimination-among-jews/), Institute for Employment Research 🇩🇪 on 12. February 2026
+- Presentation at the [Day of Sociology](https://www.uantwerpen.be/en/conferences/day-of-sociology-2026/), University of Antwerp 🇧🇪 on 26. May 2026
 
 Past Talks (Selection)
 ------

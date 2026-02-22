@@ -18,39 +18,83 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install scholarly
-        run: pip install scholarly
+      - name: Install dependencies
+        run: pip install scholarly matplotlib
 
-      - name: Fetch Google Scholar stats
+      - name: Fetch Scholar stats and generate citation plot
         run: |
           python3 - <<'PYEOF'
           import json, sys
           from datetime import date
           from scholarly import scholarly
+          import matplotlib
+          matplotlib.use('Agg')
+          import matplotlib.pyplot as plt
+          import matplotlib.ticker as ticker
 
           SCHOLAR_ID = "khPqHmgAAAAJ"
 
           try:
               author = scholarly.search_author_id(SCHOLAR_ID)
-              author = scholarly.fill(author, sections=["basics", "indices"])
+              author = scholarly.fill(author, sections=["basics", "indices", "counts"])
+
+              total     = author.get("citedby", 0)
+              h_index   = author.get("hindex", 0)
+              i10_index = author.get("i10index", 0)
+              cites_per_year = author.get("cites_per_year", {})
+
+              # --- Save summary JSON ---
               data = {
-                  "citations": author.get("citedby", 0),
-                  "h_index":   author.get("hindex", 0),
-                  "i10_index": author.get("i10index", 0),
+                  "citations": total,
+                  "h_index":   h_index,
+                  "i10_index": i10_index,
                   "updated":   str(date.today()),
               }
               with open("_data/scholar.json", "w") as f:
                   json.dump(data, f, indent=2)
-              print("Success:", data)
+              print("Stats saved:", data)
+
+              # --- Generate bar chart (matching R ggplot style) ---
+              years  = sorted(cites_per_year.keys())
+              counts = [cites_per_year[y] for y in years]
+              updated_str = date.today().strftime("%-d. %B %Y")
+              caption = (f"Total citations: {total}\n"
+                         f"H-index: {h_index}\n"
+                         f"Updated: {updated_str}")
+
+              fig, ax = plt.subplots(figsize=(16/3, 16/3), dpi=300)
+              ax.bar(years, counts, color="#333333", width=0.7)
+
+              # theme_bw style
+              ax.set_facecolor("white")
+              fig.patch.set_facecolor("white")
+              for spine in ax.spines.values():
+                  spine.set_color("black")
+              ax.tick_params(colors="black", which="both")
+              ax.xaxis.set_major_locator(ticker.FixedLocator(years))
+              ax.xaxis.set_tick_params(rotation=45)
+              ax.set_xlabel("")
+              ax.set_ylabel("")
+              ax.set_title("Google Scholar citations", fontsize=11)
+              ax.yaxis.grid(False)
+              ax.xaxis.grid(False)
+              fig.text(0.5, -0.05, caption, ha="center", va="top",
+                       fontsize=10, color="black")
+
+              plt.tight_layout()
+              plt.savefig("code/citations/czymara_scholar_citations.png",
+                          bbox_inches="tight", dpi=300)
+              print("Plot saved.")
+
           except Exception as e:
               print("Could not fetch Scholar data:", e)
               sys.exit(1)
           PYEOF
 
-      - name: Commit updated citation data
+      - name: Commit updated data and plot
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/scholar.json
+          git add _data/scholar.json code/citations/czymara_scholar_citations.png
           git diff --staged --quiet && echo "No changes" || \
-            (git commit -m "chore: update Google Scholar citation stats [skip ci]" && git push)
+            (git commit -m "chore: update Google Scholar citations and plot [skip ci]" && git push)

@@ -13,12 +13,12 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- Altmetric badges: auto-attach to all DOI links -->
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<!-- Altmetric badges: auto-attach to all DOI links, then load embed script -->
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('a[href*="doi.org/"]').forEach(function (link) {
-      var match = link.href.match(/doi\.org\/(10\.[^?\s#]+)/);
+    // Match both doi.org/10.xxx and publisher.com/doi/10.xxx
+    document.querySelectorAll('a[href*="/doi/"]').forEach(function (link) {
+      var match = link.href.match(/\/doi\/(10\.[^?\s#"]+)/);
       if (!match) return;
       // Skip if a badge already exists next to this link
       if (link.nextElementSibling && link.nextElementSibling.classList.contains('altmetric-embed')) return;
@@ -31,6 +31,10 @@
       badge.style.cssText = 'display:inline-block; vertical-align:middle; margin-left:6px;';
       link.parentNode.insertBefore(badge, link.nextSibling);
     });
+    // Load Altmetric script AFTER badges are created so it finds them all
+    var s = document.createElement('script');
+    s.src = 'https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js';
+    document.body.appendChild(s);
   });
 </script>
 

@@ -50,8 +50,7 @@
         {% if scholar and scholar.citations > 0 %}
         <li style="font-size:0.8em; color:#666; padding-left:1.5em; list-style:none; line-height:1.6;">
           <span title="Total citations">&#x1F4C4; {{ scholar.citations }} citations</span> &middot;
-          <span title="h-index">h={{ scholar.h_index }}</span> &middot;
-          <span title="i10-index">i10={{ scholar.i10_index }}</span>
+          <span title="h-index">h={{ scholar.h_index }}</span>
         </li>
         {% endif %}
       {% endif %}

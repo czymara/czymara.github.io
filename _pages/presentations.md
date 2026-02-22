@@ -6,7 +6,6 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- [Invited talk](https://czymara.com/files/pres/disc_jews_IAB_26.html) at the [IAB Colloquium Labour Market and Occupational Research](https://iab.de/en/iab-veranstaltungen/revisiting-the-integration-paradox-higher-education-and-perceived-discrimination-among-jews/), Institute for Employment Research 🇩🇪 on 12. February 2026
 - Presentation at the [Day of Sociology](https://www.uantwerpen.be/en/conferences/day-of-sociology-2026/), University of Antwerp 🇧🇪 on 26. May 2026
 
 Past Talks (Selection)

@@ -8,10 +8,9 @@ collection: imprint
 Verantwortlich nach Paragraph 10 Absatz 3 MDStV:
 
 Christian Czymara<br>
-Theodor-W-Adorno-Platz 6<br>
-60323 Frankfurt am Main
+Netherlands Interdisciplinary Demographic Institute (NIDI)<br>
+Lange Houtstraat 19<br>
+2511 CV The Hague, Netherlands
 
-Tel.: +49 69 798 36708
-
-E-Mail: cc[at]soz.uni-frankfurt[dot]de
+E-Mail: czymara[at]nidi[dot]nl
 

@@ -12,4 +12,4 @@ Access requires an OpenAI account and a ChatGPT Plus subscription.
 
 Code Nerd was featured on [InfoWorld](https://www.infoworld.com/article/3848270/genai-tools-for-r-new-tools-to-make-r-programming-easier.html).
 
-<a href="https://chat.openai.com/g/g-J5futwiVV-code-nerd" target="_blank"><img src="/images/codenerd.png" align="center"></a>
+<a href="https://chat.openai.com/g/g-J5futwiVV-code-nerd" target="_blank"><img src="/images/codenerd.png" alt="Code Nerd GPT - AI tool for quantitative data analysis" style="display:block; margin:auto;"></a>

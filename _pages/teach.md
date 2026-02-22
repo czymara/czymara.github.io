@@ -43,7 +43,7 @@ My workshop [Topic Modelling in R and Python](https://sites.google.com/view/dari
 Evaluations
 ======
 
-<img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" align="right">
+<img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" alt="Teaching evaluation scores over time" style="float:right; margin-left:1em;">
 
 - Winter 2024/25: Computational Social Science
 - Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python

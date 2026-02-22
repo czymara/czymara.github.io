@@ -13,4 +13,25 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+<!-- Altmetric badges: auto-attach to all DOI links -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href*="doi.org/"]').forEach(function (link) {
+      var match = link.href.match(/doi\.org\/(10\.[^?\s#]+)/);
+      if (!match) return;
+      // Skip if a badge already exists next to this link
+      if (link.nextElementSibling && link.nextElementSibling.classList.contains('altmetric-embed')) return;
+      var badge = document.createElement('div');
+      badge.className = 'altmetric-embed';
+      badge.setAttribute('data-badge-type', 'donut');
+      badge.setAttribute('data-doi', match[1]);
+      badge.setAttribute('data-link-target', '_blank');
+      badge.setAttribute('data-hide-no-mentions', 'true');
+      badge.style.cssText = 'display:inline-block; vertical-align:middle; margin-left:6px;';
+      link.parentNode.insertBefore(badge, link.nextSibling);
+    });
+  });
+</script>
+
 <!-- end custom footer snippets -->

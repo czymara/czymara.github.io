@@ -18,18 +18,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install matplotlib
-
-      - name: Fetch citation stats and generate plot
+      - name: Fetch citation stats from OpenAlex
         run: |
           python3 - <<'PYEOF'
           import json, sys, urllib.request, urllib.parse
           from datetime import date
-          import matplotlib
-          matplotlib.use('Agg')
-          import matplotlib.pyplot as plt
-          import matplotlib.ticker as ticker
 
           EMAIL       = "czymara@gmail.com"
           AUTHOR_NAME = "Christian Czymara"
@@ -37,28 +30,20 @@ jobs:
           HEADERS     = {"User-Agent": f"czymara-website/1.0 (mailto:{EMAIL})"}
 
           try:
-              # --- Fetch author from OpenAlex ---
               params = urllib.parse.urlencode({
                   "search": AUTHOR_NAME,
-                  "select": "id,display_name,cited_by_count,summary_stats,counts_by_year",
+                  "select": "id,display_name,cited_by_count,summary_stats",
                   "mailto": EMAIL,
               })
               req = urllib.request.Request(f"{BASE_URL}/authors?{params}", headers=HEADERS)
               with urllib.request.urlopen(req, timeout=15) as r:
                   results = json.loads(r.read())["results"]
 
-              author = results[0]
+              author  = results[0]
               total   = author["cited_by_count"]
               h_index = author["summary_stats"]["h_index"]
               i10     = author["summary_stats"].get("i10_index", 0)
 
-              # counts_by_year: citations received per year, newest first
-              cites_per_year = {
-                  entry["year"]: entry["cited_by_count"]
-                  for entry in author.get("counts_by_year", [])
-              }
-
-              # --- Save summary JSON ---
               data = {
                   "citations": total,
                   "h_index":   h_index,
@@ -69,46 +54,15 @@ jobs:
                   json.dump(data, f, indent=2)
               print("Stats saved:", data)
 
-              # --- Generate bar chart ---
-              years  = sorted(cites_per_year.keys())
-              counts = [cites_per_year[y] for y in years]
-              updated_str = date.today().strftime("%-d. %B %Y")
-              caption = (f"Total citations: {total}\n"
-                         f"H-index: {h_index}\n"
-                         f"Updated: {updated_str}")
-
-              fig, ax = plt.subplots(figsize=(16/3, 16/3), dpi=300)
-              ax.bar(years, counts, color="#333333", width=0.7)
-
-              ax.set_facecolor("white")
-              fig.patch.set_facecolor("white")
-              for spine in ax.spines.values():
-                  spine.set_color("black")
-              ax.tick_params(colors="black", which="both")
-              ax.xaxis.set_major_locator(ticker.FixedLocator(years))
-              ax.xaxis.set_tick_params(rotation=45)
-              ax.set_xlabel("")
-              ax.set_ylabel("")
-              ax.set_title("Google Scholar citations", fontsize=11)
-              ax.yaxis.grid(False)
-              ax.xaxis.grid(False)
-              fig.text(0.5, -0.05, caption, ha="center", va="top",
-                       fontsize=10, color="black")
-
-              plt.tight_layout()
-              plt.savefig("code/citations/czymara_scholar_citations.png",
-                          bbox_inches="tight", dpi=300)
-              print("Plot saved.")
-
           except Exception as e:
               print("Error:", e)
               sys.exit(1)
           PYEOF
 
-      - name: Commit updated data and plot
+      - name: Commit updated citation data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/scholar.json code/citations/czymara_scholar_citations.png
+          git add _data/scholar.json
           git diff --staged --quiet && echo "No changes" || \
-            (git commit -m "chore: update citation stats and plot [skip ci]" && git push)
+            (git commit -m "chore: update citation stats [skip ci]" && git push)

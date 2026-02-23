@@ -6,7 +6,9 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
+- Presentation at the [AK Wahlen](https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/tagungen#c7780), Johannes Gutenberg-Universität Mainz 🇩🇪 on 7.-8. May 2026
 - Presentation at the [Day of Sociology](https://www.uantwerpen.be/en/conferences/day-of-sociology-2026/), University of Antwerp 🇧🇪 on 26. May 2026
+- Presentation at the conference of the [European Consortium for Sociological Research](https://www.ecsr2026.net/), Trinity College 🇮🇪 on 15.-17. June 2026
 
 Past Talks (Selection)
 ------

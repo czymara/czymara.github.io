@@ -19,42 +19,57 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install scholarly matplotlib
+        run: pip install matplotlib
 
-      - name: Fetch Scholar stats and generate citation plot
+      - name: Fetch citation stats and generate plot
         run: |
           python3 - <<'PYEOF'
-          import json, sys
+          import json, sys, urllib.request, urllib.parse
           from datetime import date
-          from scholarly import scholarly
           import matplotlib
           matplotlib.use('Agg')
           import matplotlib.pyplot as plt
           import matplotlib.ticker as ticker
 
-          SCHOLAR_ID = "khPqHmgAAAAJ"
+          EMAIL       = "czymara@gmail.com"
+          AUTHOR_NAME = "Christian Czymara"
+          BASE_URL    = "https://api.openalex.org"
+          HEADERS     = {"User-Agent": f"czymara-website/1.0 (mailto:{EMAIL})"}
 
           try:
-              author = scholarly.search_author_id(SCHOLAR_ID)
-              author = scholarly.fill(author, sections=["basics", "indices", "counts"])
+              # --- Fetch author from OpenAlex ---
+              params = urllib.parse.urlencode({
+                  "search": AUTHOR_NAME,
+                  "select": "id,display_name,cited_by_count,summary_stats,counts_by_year",
+                  "mailto": EMAIL,
+              })
+              req = urllib.request.Request(f"{BASE_URL}/authors?{params}", headers=HEADERS)
+              with urllib.request.urlopen(req, timeout=15) as r:
+                  results = json.loads(r.read())["results"]
 
-              total     = author.get("citedby", 0)
-              h_index   = author.get("hindex", 0)
-              i10_index = author.get("i10index", 0)
-              cites_per_year = author.get("cites_per_year", {})
+              author = results[0]
+              total   = author["cited_by_count"]
+              h_index = author["summary_stats"]["h_index"]
+              i10     = author["summary_stats"].get("i10_index", 0)
+
+              # counts_by_year: citations received per year, newest first
+              cites_per_year = {
+                  entry["year"]: entry["cited_by_count"]
+                  for entry in author.get("counts_by_year", [])
+              }
 
               # --- Save summary JSON ---
               data = {
                   "citations": total,
                   "h_index":   h_index,
-                  "i10_index": i10_index,
+                  "i10_index": i10,
                   "updated":   str(date.today()),
               }
               with open("_data/scholar.json", "w") as f:
                   json.dump(data, f, indent=2)
               print("Stats saved:", data)
 
-              # --- Generate bar chart (matching R ggplot style) ---
+              # --- Generate bar chart ---
               years  = sorted(cites_per_year.keys())
               counts = [cites_per_year[y] for y in years]
               updated_str = date.today().strftime("%-d. %B %Y")
@@ -65,7 +80,6 @@ jobs:
               fig, ax = plt.subplots(figsize=(16/3, 16/3), dpi=300)
               ax.bar(years, counts, color="#333333", width=0.7)
 
-              # theme_bw style
               ax.set_facecolor("white")
               fig.patch.set_facecolor("white")
               for spine in ax.spines.values():
@@ -87,7 +101,7 @@ jobs:
               print("Plot saved.")
 
           except Exception as e:
-              print("Could not fetch Scholar data:", e)
+              print("Error:", e)
               sys.exit(1)
           PYEOF
 
@@ -97,4 +111,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _data/scholar.json code/citations/czymara_scholar_citations.png
           git diff --staged --quiet && echo "No changes" || \
-            (git commit -m "chore: update Google Scholar citations and plot [skip ci]" && git push)
+            (git commit -m "chore: update citation stats and plot [skip ci]" && git push)

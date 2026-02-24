@@ -13,27 +13,12 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- Altmetric: load script statically so it finds explicit badges in .pub-entry -->
-<script src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-<!-- Altmetric: also auto-attach badges to any DOI links outside .pub-entry -->
+<!-- Altmetric badges -->
+<script async src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('a[href*="/doi/"]').forEach(function (link) {
-      if (link.closest('.pub-entry')) return;
-      var match = link.href.match(/\/doi\/(10\.[^?\s#"]+)/);
-      if (!match) return;
-      if (link.nextElementSibling && link.nextElementSibling.classList.contains('altmetric-embed')) return;
-      var badge = document.createElement('div');
-      badge.className = 'altmetric-embed';
-      badge.setAttribute('data-badge-type', 'donut');
-      badge.setAttribute('data-doi', match[1]);
-      badge.setAttribute('data-link-target', '_blank');
-      badge.setAttribute('data-hide-no-mentions', 'true');
-      badge.style.cssText = 'display:inline-block; vertical-align:middle; margin-left:6px;';
-      link.parentNode.insertBefore(badge, link.nextSibling);
-      if (typeof _altmetric_embed_init === 'function') _altmetric_embed_init();
-    });
+  window.addEventListener('load', function () {
+    // Re-run init after full page load to catch any async-loaded badge divs
+    if (typeof _altmetric_embed_init === 'function') _altmetric_embed_init();
   });
 </script>
 

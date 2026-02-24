@@ -17,7 +17,9 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     // Match both doi.org/10.xxx and publisher.com/doi/10.xxx
+    // Skip links inside .pub-entry blocks (already have explicit badges)
     document.querySelectorAll('a[href*="/doi/"]').forEach(function (link) {
+      if (link.closest('.pub-entry')) return;
       var match = link.href.match(/\/doi\/(10\.[^?\s#"]+)/);
       if (!match) return;
       // Skip if a badge already exists next to this link

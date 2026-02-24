@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get install -y tor
-          pip install scholarly matplotlib
+          pip install "scholarly[tor]" matplotlib
 
       - name: Start Tor
         run: sudo service tor start && sleep 5

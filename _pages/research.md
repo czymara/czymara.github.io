@@ -325,30 +325,32 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
 
 ### Book Chapters
 
+<p style="font-size:0.85em;">✓ <em>indicates peer-reviewed work</em></p>
+
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">1.</span> Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S. (2026). "<a href="https://doi.org/10.4324/9781003412007-36" target="_blank" rel="noopener"><strong>Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century</strong></a>." In: Laycock, J., Humphrey, M., &amp; Faure, J. (eds.), <em>Handbook of Ideology Analysis</em>. Routledge.</div>
+    <div class="pub-text"><span class="pub-num">1.</span> Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S. (2026). "<a href="https://doi.org/10.4324/9781003412007-36" target="_blank" rel="noopener"><strong>Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century</strong></a>." In: Laycock, J., Humphrey, M., &amp; Faure, J. (eds.), <em>Handbook of Ideology Analysis</em>. Routledge. ✓</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.4324/9781003412007-36" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">2.</span> Lee, Y., Piñeyrúa, F., <u>Czymara</u>, C. S., &amp; Weber, M. (2026). "<a href="https://link.springer.com/chapter/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener"><strong>Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980–2021)</strong></a>." In: Lorenz, J., Keijzer, M., &amp; Bojanowski, M. (eds.), <em>Computational Social Science of Social Cohesion and Polarization</em>, pp. 155–184. Springer VS.</div>
+    <div class="pub-text"><span class="pub-num">2.</span> Lee, Y., Piñeyrúa, F., <u>Czymara</u>, C. S., &amp; Weber, M. (2026). "<a href="https://link.springer.com/chapter/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener"><strong>Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980–2021)</strong></a>." In: Lorenz, J., Keijzer, M., &amp; Bojanowski, M. (eds.), <em>Computational Social Science of Social Cohesion and Polarization</em>, pp. 155–184. Springer VS. ✓</div>
     <div class="pub-badge"></div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">3.</span> Langenkamp, A., &amp; <u>Czymara</u>, C. S. (2026). "<a href="https://doi.org/10.1007/978-3-658-49448-3_12" target="_blank" rel="noopener"><strong>Zuwanderung, Sorgen vor Islamismus und AfD-Wahl: Eine Studie auf Gemeindeebene in Sachsen</strong></a>." In: Melcher, R., Meißelbach, C., Weßels, B. (eds.), <em>Subjektive Sicherheit und politische Kultur</em>, pp. 351–373. Springer VS.</div>
+    <div class="pub-text"><span class="pub-num">3.</span> Langenkamp, A., &amp; <u>Czymara</u>, C. S. (2026). "<a href="https://doi.org/10.1007/978-3-658-49448-3_12" target="_blank" rel="noopener"><strong>Zuwanderung, Sorgen vor Islamismus und AfD-Wahl: Eine Studie auf Gemeindeebene in Sachsen</strong></a>." In: Melcher, R., Meißelbach, C., Weßels, B. (eds.), <em>Subjektive Sicherheit und politische Kultur</em>, pp. 351–373. Springer VS. ✓</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/978-3-658-49448-3_12" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">4.</span> <u>Czymara</u>, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Şimşek, M., &amp; Spörlein, C. (2024). "<a href="https://doi.org/10.4324/9781003533368-8" target="_blank" rel="noopener"><strong>Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017</strong></a>." In: Deutschmann, E., Drouhot, L. G., Zuccotti, C. V., &amp; Zagheni, E. (eds.), <em>Computational Research in Ethnic and Migration Studies</em>, pp. 152–170. Routledge.</div>
+    <div class="pub-text"><span class="pub-num">4.</span> <u>Czymara</u>, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Şimşek, M., &amp; Spörlein, C. (2024). "<a href="https://doi.org/10.4324/9781003533368-8" target="_blank" rel="noopener"><strong>Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017</strong></a>." In: Deutschmann, E., Drouhot, L. G., Zuccotti, C. V., &amp; Zagheni, E. (eds.), <em>Computational Research in Ethnic and Migration Studies</em>, pp. 152–170. Routledge. ✓</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.4324/9781003533368-8" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
 </div>

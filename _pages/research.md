@@ -390,3 +390,16 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
 <span class="section-links-num">1.</span> <a href="https://osf.io/preprints/socarxiv/fkue4_v2" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
 <span class="section-links-num">&nbsp;&nbsp;2.</span> <a href="https://econpapers.repec.org/paper/zbwi4rdps/195.htm" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
 </div>
+
+## Citation Metrics
+
+{% assign s = site.data.scholar %}
+{% if s and s.citations > 0 %}
+<p style="font-size:0.95em;">
+  <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar</strong></a>:&nbsp;
+  Citations: {{ s.citations }} &nbsp;&mdash;&nbsp;
+  H-Index: {{ s.h_index }} &nbsp;&mdash;&nbsp;
+  i10-Index: {{ s.i10_index }}
+  <span style="color:#999; font-size:0.85em;">(via <a href="https://openalex.org" target="_blank" rel="noopener" style="color:#999;">OpenAlex</a>, updated {{ s.updated }})</span>
+</p>
+{% endif %}

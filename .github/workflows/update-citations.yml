@@ -33,13 +33,15 @@ jobs:
           import matplotlib.ticker as ticker
 
           SCHOLAR_ID = "khPqHmgAAAAJ"
-          ORCID      = "0000-0002-9535-3559"
 
-          total = h_index = i10_index = 0
-          cites_per_year = {}
-          source = ""
+          # Load existing data as fallback
+          try:
+              with open("_data/scholar.json") as f:
+                  existing = json.load(f)
+          except Exception:
+              existing = {}
 
-          # --- 1. Try Google Scholar directly (same approach as Rauh/rvest) ---
+          # Scrape Google Scholar (same approach as Rauh/rvest)
           try:
               url = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
               headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
@@ -53,42 +55,26 @@ jobs:
               total     = int(cells[0].text)
               h_index   = int(cells[2].text)
               i10_index = int(cells[4].text)
-              # Citations per year
+              cites_per_year = {}
               for bar in soup.select("a.gsc_g_a"):
                   year  = bar.get("href", "").split("as_ylo=")[-1].split("&")[0]
                   count = bar.find("span", class_="gsc_g_al")
                   if year.isdigit() and count:
                       cites_per_year[year] = int(count.text)
-              source = "Google Scholar"
               print(f"Fetched from Google Scholar: citations={total}, h={h_index}, i10={i10_index}")
           except Exception as e:
-              print(f"Google Scholar blocked or failed ({e}), falling back to OpenAlex...")
+              print(f"Could not fetch from Google Scholar: {e}")
+              print("Keeping existing data unchanged.")
+              sys.exit(0)
 
-          # --- 2. Fall back to OpenAlex if Scholar was blocked ---
-          if total == 0:
-              try:
-                  url = f"https://api.openalex.org/authors/https://orcid.org/{ORCID}"
-                  r = requests.get(url, headers={"User-Agent": "czymara-website/1.0 (mailto:czymara@gmail.com)"}, timeout=30)
-                  r.raise_for_status()
-                  d = r.json()
-                  total     = d.get("cited_by_count", 0)
-                  h_index   = d.get("summary_stats", {}).get("h_index", 0)
-                  i10_index = d.get("summary_stats", {}).get("i10_index", 0)
-                  cites_per_year = {str(e["year"]): e["cited_by_count"] for e in d.get("counts_by_year", [])}
-                  source = "OpenAlex"
-                  print(f"Fetched from OpenAlex: citations={total}, h={h_index}, i10={i10_index}")
-              except Exception as e:
-                  print(f"OpenAlex also failed: {e}")
-                  sys.exit(1)
-
-          # --- Save JSON ---
+          # Save updated JSON
           out = {"citations": total, "h_index": h_index, "i10_index": i10_index,
-                 "source": source, "updated": str(date.today())}
+                 "updated": str(date.today())}
           with open("_data/scholar.json", "w") as f:
               json.dump(out, f, indent=2)
           print("Saved:", out)
 
-          # --- Generate bar chart ---
+          # Generate bar chart
           years  = sorted(cites_per_year.keys())
           counts = [cites_per_year[y] for y in years]
           if years:

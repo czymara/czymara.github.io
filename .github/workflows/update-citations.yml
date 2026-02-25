@@ -1,4 +1,4 @@
-name: Update Google Scholar Citations
+name: Update Citations
 
 on:
   schedule:
@@ -19,61 +19,45 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          sudo apt-get install -y tor
-          pip install "scholarly[tor]" matplotlib
+        run: pip install requests matplotlib
 
-      - name: Start Tor
-        run: sudo service tor start && sleep 5
-
-      - name: Fetch Google Scholar stats and generate plot
+      - name: Fetch citation stats and generate plot
         run: |
           python3 - <<'PYEOF'
-          import json, sys
+          import json, sys, requests
           from datetime import date
-          from scholarly import scholarly, ProxyGenerator
           import matplotlib
           matplotlib.use('Agg')
           import matplotlib.pyplot as plt
           import matplotlib.ticker as ticker
 
-          SCHOLAR_ID = "khPqHmgAAAAJ"
+          ORCID = "0000-0002-9535-3559"
 
           try:
-              pg = ProxyGenerator()
-              pg.Tor_Internal(tor_cmd="tor")
-              scholarly.use_proxy(pg)
+              url = f"https://api.openalex.org/authors/https://orcid.org/{ORCID}"
+              r = requests.get(url, headers={"User-Agent": "czymara-website/1.0 (mailto:czymara@gmail.com)"}, timeout=30)
+              r.raise_for_status()
+              d = r.json()
 
-              author = scholarly.search_author_id(SCHOLAR_ID)
-              author = scholarly.fill(author, sections=["basics", "indices", "counts"])
+              total     = d.get("cited_by_count", 0)
+              h_index   = d.get("summary_stats", {}).get("h_index", 0)
+              i10_index = d.get("summary_stats", {}).get("i10_index", 0)
+              counts_by_year = {str(e["year"]): e["cited_by_count"] for e in d.get("counts_by_year", [])}
 
-              total            = author.get("citedby", 0)
-              h_index          = author.get("hindex", 0)
-              i10_index        = author.get("i10index", 0)
-              cites_per_year   = author.get("cites_per_year", {})
-
-              # --- Save summary JSON ---
-              data = {
-                  "citations": total,
-                  "h_index":   h_index,
-                  "i10_index": i10_index,
-                  "updated":   str(date.today()),
-              }
+              # Save summary JSON
+              out = {"citations": total, "h_index": h_index, "i10_index": i10_index, "updated": str(date.today())}
               with open("_data/scholar.json", "w") as f:
-                  json.dump(data, f, indent=2)
-              print("Stats saved:", data)
+                  json.dump(out, f, indent=2)
+              print("Stats saved:", out)
 
-              # --- Generate bar chart (matching R ggplot style) ---
-              years  = sorted(cites_per_year.keys())
-              counts = [cites_per_year[y] for y in years]
+              # Generate bar chart
+              years  = sorted(counts_by_year.keys())
+              counts = [counts_by_year[y] for y in years]
               updated_str = date.today().strftime("%-d. %B %Y")
-              caption = (f"Total citations: {total}\n"
-                         f"H-index: {h_index}\n"
-                         f"Updated: {updated_str}")
+              caption = f"Total citations: {total}\nH-index: {h_index}\nUpdated: {updated_str}"
 
               fig, ax = plt.subplots(figsize=(16/3, 16/3), dpi=300)
               ax.bar(years, counts, color="#333333", width=0.7)
-
               ax.set_facecolor("white")
               fig.patch.set_facecolor("white")
               for spine in ax.spines.values():
@@ -83,19 +67,16 @@ jobs:
               ax.xaxis.set_tick_params(rotation=45)
               ax.set_xlabel("")
               ax.set_ylabel("")
-              ax.set_title("Google Scholar citations", fontsize=11)
+              ax.set_title("Citations per year (OpenAlex)", fontsize=11)
               ax.yaxis.grid(False)
               ax.xaxis.grid(False)
-              fig.text(0.5, -0.05, caption, ha="center", va="top",
-                       fontsize=10, color="black")
-
+              fig.text(0.5, -0.05, caption, ha="center", va="top", fontsize=10, color="black")
               plt.tight_layout()
-              plt.savefig("code/citations/czymara_scholar_citations.png",
-                          bbox_inches="tight", dpi=300)
+              plt.savefig("code/citations/czymara_scholar_citations.png", bbox_inches="tight", dpi=300)
               print("Plot saved.")
 
           except Exception as e:
-              print("Could not fetch Scholar data:", e)
+              print("Could not fetch citation data:", e)
               sys.exit(1)
           PYEOF
 
@@ -105,4 +86,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _data/scholar.json code/citations/czymara_scholar_citations.png
           git diff --staged --quiet && echo "No changes" || \
-            (git commit -m "chore: update Google Scholar citations and plot [skip ci]" && git push)
+            (git commit -m "chore: update citations and plot [skip ci]" && git push)

@@ -19,43 +19,81 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests matplotlib
+        run: pip install requests beautifulsoup4 matplotlib
 
       - name: Fetch citation stats and generate plot
         run: |
           python3 - <<'PYEOF'
           import json, sys, requests
           from datetime import date
+          from bs4 import BeautifulSoup
           import matplotlib
           matplotlib.use('Agg')
           import matplotlib.pyplot as plt
           import matplotlib.ticker as ticker
 
-          ORCID = "0000-0002-9535-3559"
+          SCHOLAR_ID = "khPqHmgAAAAJ"
+          ORCID      = "0000-0002-9535-3559"
 
+          total = h_index = i10_index = 0
+          cites_per_year = {}
+          source = ""
+
+          # --- 1. Try Google Scholar directly (same approach as Rauh/rvest) ---
           try:
-              url = f"https://api.openalex.org/authors/https://orcid.org/{ORCID}"
-              r = requests.get(url, headers={"User-Agent": "czymara-website/1.0 (mailto:czymara@gmail.com)"}, timeout=30)
+              url = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
+              headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+              r = requests.get(url, headers=headers, timeout=20)
               r.raise_for_status()
-              d = r.json()
+              soup = BeautifulSoup(r.text, "html.parser")
+              table = soup.find(id="gsc_rsb_st")
+              if table is None:
+                  raise ValueError("Stats table not found — likely blocked")
+              cells = table.find_all("td", class_="gsc_rsb_std")
+              total     = int(cells[0].text)
+              h_index   = int(cells[2].text)
+              i10_index = int(cells[4].text)
+              # Citations per year
+              for bar in soup.select("a.gsc_g_a"):
+                  year  = bar.get("href", "").split("as_ylo=")[-1].split("&")[0]
+                  count = bar.find("span", class_="gsc_g_al")
+                  if year.isdigit() and count:
+                      cites_per_year[year] = int(count.text)
+              source = "Google Scholar"
+              print(f"Fetched from Google Scholar: citations={total}, h={h_index}, i10={i10_index}")
+          except Exception as e:
+              print(f"Google Scholar blocked or failed ({e}), falling back to OpenAlex...")
 
-              total     = d.get("cited_by_count", 0)
-              h_index   = d.get("summary_stats", {}).get("h_index", 0)
-              i10_index = d.get("summary_stats", {}).get("i10_index", 0)
-              counts_by_year = {str(e["year"]): e["cited_by_count"] for e in d.get("counts_by_year", [])}
+          # --- 2. Fall back to OpenAlex if Scholar was blocked ---
+          if total == 0:
+              try:
+                  url = f"https://api.openalex.org/authors/https://orcid.org/{ORCID}"
+                  r = requests.get(url, headers={"User-Agent": "czymara-website/1.0 (mailto:czymara@gmail.com)"}, timeout=30)
+                  r.raise_for_status()
+                  d = r.json()
+                  total     = d.get("cited_by_count", 0)
+                  h_index   = d.get("summary_stats", {}).get("h_index", 0)
+                  i10_index = d.get("summary_stats", {}).get("i10_index", 0)
+                  cites_per_year = {str(e["year"]): e["cited_by_count"] for e in d.get("counts_by_year", [])}
+                  source = "OpenAlex"
+                  print(f"Fetched from OpenAlex: citations={total}, h={h_index}, i10={i10_index}")
+              except Exception as e:
+                  print(f"OpenAlex also failed: {e}")
+                  sys.exit(1)
 
-              # Save summary JSON
-              out = {"citations": total, "h_index": h_index, "i10_index": i10_index, "updated": str(date.today())}
-              with open("_data/scholar.json", "w") as f:
-                  json.dump(out, f, indent=2)
-              print("Stats saved:", out)
+          # --- Save JSON ---
+          out = {"citations": total, "h_index": h_index, "i10_index": i10_index,
+                 "source": source, "updated": str(date.today())}
+          with open("_data/scholar.json", "w") as f:
+              json.dump(out, f, indent=2)
+          print("Saved:", out)
 
-              # Generate bar chart
-              years  = sorted(counts_by_year.keys())
-              counts = [counts_by_year[y] for y in years]
+          # --- Generate bar chart ---
+          years  = sorted(cites_per_year.keys())
+          counts = [cites_per_year[y] for y in years]
+          if years:
               updated_str = date.today().strftime("%-d. %B %Y")
-              caption = f"Total citations: {total}\nH-index: {h_index}\nUpdated: {updated_str}"
-
+              caption = f"Total citations: {total}  |  H-index: {h_index}  |  Updated: {updated_str}"
               fig, ax = plt.subplots(figsize=(16/3, 16/3), dpi=300)
               ax.bar(years, counts, color="#333333", width=0.7)
               ax.set_facecolor("white")
@@ -67,17 +105,13 @@ jobs:
               ax.xaxis.set_tick_params(rotation=45)
               ax.set_xlabel("")
               ax.set_ylabel("")
-              ax.set_title("Citations per year (OpenAlex)", fontsize=11)
+              ax.set_title("Google Scholar citations", fontsize=11)
               ax.yaxis.grid(False)
               ax.xaxis.grid(False)
               fig.text(0.5, -0.05, caption, ha="center", va="top", fontsize=10, color="black")
               plt.tight_layout()
               plt.savefig("code/citations/czymara_scholar_citations.png", bbox_inches="tight", dpi=300)
               print("Plot saved.")
-
-          except Exception as e:
-              print("Could not fetch citation data:", e)
-              sys.exit(1)
           PYEOF
 
       - name: Commit updated data and plot

@@ -8,6 +8,7 @@ My research has been featured in prominent national and international news outle
 Policy institutions
 ------
 
+- [Finnish Prime Minister's Office 2024](https://julkaisut.valtioneuvosto.fi/items/a25b977d-ede2-47c4-9626-a40887ef4875): Kirjallisuuskatsaus maahanmuuttaneiden ja heidän jälkeläistensä poliittis-yhteiskunnallisesta osallistumisesta Suomessa
 - [Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration 2024](https://www.integrationsbeauftragte.de/resource/blob/2196306/2330834/c9c424884ff0c8c109c13aae3e8f0d3a/2025-01-17-14-integrationsbericht-neu-data.pdf): 14. Integrationsbericht der Integrationsbeauftragten
 - [World Bank 2022](https://openknowledge.worldbank.org/handle/10986/36914): Forced Migration, Social Cohesion and Conflict: The 2015 Refugee Inflow in Germany
 - [International Labour Organization 2021](https://www.ilo.org/ilc/ILCSessions/109/reports/reports-to-the-conference/WCMS_792123/lang--en/index.htm): Inequalities and the world of work

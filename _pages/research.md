@@ -34,6 +34,19 @@ All my studies are freely available, either as open-access publications or as pr
 <a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/).
 Feel free to use any material for secondary analyses, teaching, or other purposes. If you can't access something, [let me know](mailto:czymara@nidi.nl).
 
+## Citation Metrics
+
+{% assign s = site.data.scholar %}
+{% if s %}
+<p style="font-size:0.95em;">
+  <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar</strong></a>:&nbsp;
+  Citations: {{ s.citations }} &nbsp;&mdash;&nbsp;
+  H-Index: {{ s.h_index }} &nbsp;&mdash;&nbsp;
+  i10-Index: {{ s.i10_index }}
+  <span style="color:#999; font-size:0.85em;">(updated {{ s.updated }})</span>
+</p>
+{% endif %}
+
 ## Publications
 
 ### Doctoral Dissertation
@@ -448,16 +461,3 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
   </div>
 </div>
 
-
-## Citation Metrics
-
-{% assign s = site.data.scholar %}
-{% if s %}
-<p style="font-size:0.95em;">
-  <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar</strong></a>:&nbsp;
-  Citations: {{ s.citations }} &nbsp;&mdash;&nbsp;
-  H-Index: {{ s.h_index }} &nbsp;&mdash;&nbsp;
-  i10-Index: {{ s.i10_index }}
-  <span style="color:#999; font-size:0.85em;">(updated {{ s.updated }})</span>
-</p>
-{% endif %}

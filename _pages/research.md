@@ -10,11 +10,11 @@ permalink: /research/
 .pub-num { font-weight: bold; margin-right: 3px; }
 .pub-badge { text-align: center; padding-top: 3px; min-width: 44px; }
 .pub-links { margin: 4px 0 0 0; font-size: 0.82em; }
-.pub-links a { color: #003399; text-decoration: none; margin-right: 12px; display: inline-block; }
+.pub-links a { color: var(--global-link-color); text-decoration: none; margin-right: 12px; display: inline-block; }
 .pub-links a:hover { text-decoration: underline; }
 .section-links { margin: 0.8em 0 2em 0; padding: 0.6em 1em; background: #f8f8f8; border-left: 3px solid #ddd; font-size: 0.8em; line-height: 1.9; }
 .section-links div { margin: 0; padding: 0; }
-.section-links a { color: #003399; text-decoration: none; margin-right: 10px; }
+.section-links a { color: var(--global-link-color); text-decoration: none; margin-right: 10px; }
 .section-links a:hover { text-decoration: underline; }
 .section-links-num { color: #888; margin-right: 4px; min-width: 2em; display: inline-block; }
 .page__content .pub-entry, .page__content .pub-grid, .page__content .pub-text { border-bottom: none !important; border-top: none !important; }

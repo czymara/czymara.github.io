@@ -1,9 +1,12 @@
-name: Update Citations
+name: Update Citations (manual)
 
+# Google Scholar blocks requests from GitHub Actions (Azure cloud IPs).
+# Run update_citations.py locally instead — same approach as Christian Rauh's
+# rvest-based build at https://github.com/ChRauh/ChRauh.github.io
+#
+# This workflow is kept as a manual fallback (workflow_dispatch only).
 on:
-  schedule:
-    - cron: '0 6 * * *'   # daily at 06:00 UTC
-  workflow_dispatch:       # allow manual trigger
+  workflow_dispatch:
 
 jobs:
   update-citations:
@@ -22,83 +25,7 @@ jobs:
         run: pip install requests beautifulsoup4 matplotlib
 
       - name: Fetch citation stats and generate plot
-        run: |
-          python3 - <<'PYEOF'
-          import json, sys, requests
-          from datetime import date
-          from bs4 import BeautifulSoup
-          import matplotlib
-          matplotlib.use('Agg')
-          import matplotlib.pyplot as plt
-          import matplotlib.ticker as ticker
-
-          SCHOLAR_ID = "khPqHmgAAAAJ"
-
-          # Load existing data as fallback
-          try:
-              with open("_data/scholar.json") as f:
-                  existing = json.load(f)
-          except Exception:
-              existing = {}
-
-          # Scrape Google Scholar (same approach as Rauh/rvest)
-          try:
-              url = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
-              headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-              r = requests.get(url, headers=headers, timeout=20)
-              r.raise_for_status()
-              soup = BeautifulSoup(r.text, "html.parser")
-              table = soup.find(id="gsc_rsb_st")
-              if table is None:
-                  raise ValueError("Stats table not found — likely blocked")
-              cells = table.find_all("td", class_="gsc_rsb_std")
-              total     = int(cells[0].text)
-              h_index   = int(cells[2].text)
-              i10_index = int(cells[4].text)
-              cites_per_year = {}
-              for bar in soup.select("a.gsc_g_a"):
-                  year  = bar.get("href", "").split("as_ylo=")[-1].split("&")[0]
-                  count = bar.find("span", class_="gsc_g_al")
-                  if year.isdigit() and count:
-                      cites_per_year[year] = int(count.text)
-              print(f"Fetched from Google Scholar: citations={total}, h={h_index}, i10={i10_index}")
-          except Exception as e:
-              print(f"Could not fetch from Google Scholar: {e}")
-              print("Keeping existing data unchanged.")
-              sys.exit(0)
-
-          # Save updated JSON
-          out = {"citations": total, "h_index": h_index, "i10_index": i10_index,
-                 "updated": str(date.today())}
-          with open("_data/scholar.json", "w") as f:
-              json.dump(out, f, indent=2)
-          print("Saved:", out)
-
-          # Generate bar chart
-          years  = sorted(cites_per_year.keys())
-          counts = [cites_per_year[y] for y in years]
-          if years:
-              updated_str = date.today().strftime("%-d. %B %Y")
-              caption = f"Total citations: {total}  |  H-index: {h_index}  |  Updated: {updated_str}"
-              fig, ax = plt.subplots(figsize=(16/3, 16/3), dpi=300)
-              ax.bar(years, counts, color="#333333", width=0.7)
-              ax.set_facecolor("white")
-              fig.patch.set_facecolor("white")
-              for spine in ax.spines.values():
-                  spine.set_color("black")
-              ax.tick_params(colors="black", which="both")
-              ax.xaxis.set_major_locator(ticker.FixedLocator(years))
-              ax.xaxis.set_tick_params(rotation=45)
-              ax.set_xlabel("")
-              ax.set_ylabel("")
-              ax.set_title("Google Scholar citations", fontsize=11)
-              ax.yaxis.grid(False)
-              ax.xaxis.grid(False)
-              fig.text(0.5, -0.05, caption, ha="center", va="top", fontsize=10, color="black")
-              plt.tight_layout()
-              plt.savefig("code/citations/czymara_scholar_citations.png", bbox_inches="tight", dpi=300)
-              print("Plot saved.")
-          PYEOF
+        run: python3 update_citations.py
 
       - name: Commit updated data and plot
         run: |

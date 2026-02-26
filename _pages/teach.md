@@ -4,7 +4,7 @@ permalink: /teach/
 ---
 
 <div style="width:350px; height:350px; float: right;">
-  <img src="/code/teachingevaluations/out/czymara_courses_logo.png"alt="Czymara Courses Logo" style="display: block; margin: auto;">
+  <img src="/images/czymara_courses_logo.png" alt="Czymara Courses Logo" style="display: block; margin: auto;">
 </div>
 
 I specialize in teaching courses focused on quantitative methods and research design to social science students. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. The student evaluations showcased below reflect the consistent positive reception of my courses.

@@ -3,6 +3,10 @@ title: "Teaching"
 permalink: /teach/
 ---
 
+<div style="width:350px; height:350px; float: right;">
+  <img src="/code/teachingevaluations/out/czymara_courses_logo.png"alt="Czymara Courses Logo" style="display: block; margin: auto;">
+</div>
+
 I specialize in teaching courses focused on quantitative methods and research design to social science students. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. The student evaluations showcased below reflect the consistent positive reception of my courses.
 
 I have provided a curated list of courses below, accompanied by a brief overview of my teaching experience. For a collection of my teaching repositories, please visit [Czymara Courses](https://github.com/czymaraclass).

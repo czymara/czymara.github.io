@@ -24,11 +24,9 @@ permalink: /research/
 
 <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank"><img src="/code/citations/czymara_scholar_citations.png" width="300" height="300" alt="Google Scholar citation count over time" style="float:right; margin-left:1em;"></a>
 
-My research primarily explores migration and conflict, with a focus on public attitudes and political communication. My work has received wide recognition, with *{% if site.data.scholar.citations %}{{ site.data.scholar.citations }}{% else %}1,800{% endif %} citations* on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ) (see plot on the right), ranking in the *top 5%* for citations according to [Web of Science](https://www.webofscience.com/wos/woscc/citation-report/7498adfe-81e2-4bb1-b558-a87d3214a0b8-c9bdcf3b) and in the *top 2%* compared to peers with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). Moreover, most of my papers are in [Altmetric's](https://oxfordjournals.altmetric.com/details/27636896) *top 5%* of all research outputs and among [Scopus'](https://www.scopus.com/authid/detail.uri?authorId=57190279510#tab=metrics) *top 25%* most cited articles globally. These findings were featured in national and international [media](media) and influenced global and EU-level policy institutions.
+I study social cohesion and migration, with a focus on intergroup relations and political communication, using quantitative and computational methods. My work has received wide recognition, with *{% if site.data.scholar.citations %}{{ site.data.scholar.citations }}{% else %}over 1,800{% endif %} citations* on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ) (see plot on the right) and being in the *top 2%* compared to peers with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). The findings are featured in national and international [media](media) and influenced global and EU-level policy institutions.
 
-I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigration and Their Political Consequences](https://www.nwo.nl/en/projects/tqapl20708) funded by the Dutch Research Council (NWO).
-
-I received the [Janet A. Harkness Award of the World Association for Public Opinion Research](https://wapor.org/events/annual-conference/awards-funds/janet-a-harkness-student-paper-award/) and the German [Preis der Fritz Thyssen Stiftung für sozialwissenschaftliche Aufsätze](https://www.fritz-thyssen-stiftung.de/cms/wp-content/uploads/2018/06/Jahresbericht_2017_interaktiv.pdf).
+I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigration and Their Political Consequences](https://www.nwo.nl/en/projects/tqapl20708) funded by the Dutch Research Council. I am also a member of [SOCION](https://socion-program.org/people/christian-czymara/), where I serve as a daily supervisor for PhD project on [social cohesion in ethnically diverse schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/).
 
 All my studies are freely available, either as open-access publications or as preprints. Interested readers can find the PDFs of the published versions in the list below.
 
@@ -42,8 +40,7 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
 <p style="font-size:0.95em;">
   <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar</strong></a>:&nbsp;
   Citations: {{ s.citations }} &nbsp;&mdash;&nbsp;
-  H-Index: {{ s.h_index }} &nbsp;&mdash;&nbsp;
-  i10-Index: {{ s.i10_index }}
+  H-Index: {{ s.h_index }}
   <span style="color:#999; font-size:0.85em;">(updated {{ s.updated }})</span>
 </p>
 {% endif %}

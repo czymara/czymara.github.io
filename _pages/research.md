@@ -28,10 +28,7 @@ I study social cohesion and migration, with a focus on intergroup relations and 
 
 I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigration and Their Political Consequences](https://www.nwo.nl/en/projects/tqapl20708) funded by the Dutch Research Council. I am also a member of [SOCION](https://socion-program.org/people/christian-czymara/), where I serve as a daily supervisor for PhD project on [social cohesion in ethnically diverse schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/).
 
-All my studies are freely available, either as open-access publications or as preprints. Interested readers can find the PDFs of the published versions in the list below.
-
-<a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/).
-Feel free to use any material for secondary analyses, teaching, or other purposes. If you can't access something, [let me know](mailto:czymara@nidi.nl).
+<a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> All my studies are openly accessable below. Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes.
 
 ## Citation Metrics
 
@@ -398,7 +395,7 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
 <div class="pub-entry">
   <div class="pub-grid">
     <div class="pub-text"><span class="pub-num">2.</span> Lee, Y., Piñeyrúa, F., <u>Czymara</u>, C. S., &amp; Weber, M. (2026). Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980–2021). In: Lorenz, J., Keijzer, M., &amp; Bojanowski, M. (eds.), <em><strong>Computational Social Science of Social Cohesion and Polarization</strong></em>, pp. 155–184. Springer VS. ✓</div>
-    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190252453" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190252810" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>

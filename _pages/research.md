@@ -398,7 +398,7 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
 <div class="pub-entry">
   <div class="pub-grid">
     <div class="pub-text"><span class="pub-num">2.</span> Lee, Y., Piñeyrúa, F., <u>Czymara</u>, C. S., &amp; Weber, M. (2026). Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980–2021). In: Lorenz, J., Keijzer, M., &amp; Bojanowski, M. (eds.), <em><strong>Computational Social Science of Social Cohesion and Polarization</strong></em>, pp. 155–184. Springer VS. ✓</div>
-    <div class="pub-badge"></div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="190252453" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>

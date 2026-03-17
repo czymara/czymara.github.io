@@ -55,7 +55,6 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_2018_diss"><i class="fas fa-circle-info"></i> Details</a>
     <a href="/files/Czymara_2018_Discursive%20Determinants%20of%20Attitudes%20towards%20Immigrants.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
   </div>
 </div>
@@ -86,9 +85,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1186/s40878-025-00490-8" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_2025_cms"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1186/s40878-025-00490-8" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2025_Political%20Legacies%20and%20Present%20Perceptions%20of%20Migrants.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2025_Political%20Legacies%20and%20Present%20Perceptions%20of%20Migrants_supplementary%20material.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://doi.org/10.17605/OSF.IO/4YDWN" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -99,9 +98,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/esr/jcaf017" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_etal_2025_esr"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1093/esr/jcaf017" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2025_Antisemitism%20among%20Muslims%20in%20Germany.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2025_Antisemitism%20Among%20Muslims%20in%20Germany_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/eqnw4/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -122,9 +121,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s42001-024-00272-9" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_2024_jcss"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1007/s42001-024-00272-9" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2024_Hostility%20on%20Twitter%20in%20the%20Aftermath%20of%20Terror%20Attacks.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2024_Hostility%20on%20Twitter%20in%20the%20Aftermath%20of%20Terror%20Attacks_supplementary%20material.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://doi.org/10.17605/OSF.IO/ZDT5B" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -135,9 +134,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1111/nana.12985" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/may-czymara_2024_nana"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1111/nana.12985" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/May-Czymara_2024_Careless%20whisper%20Political%20elite%20discourses%20activate%20national%20identities%20for%20far-right%20voting%20preferences.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/May-Czymara_2024_Careless%20whisper%20Political%20elite%20discourses%20activate%20national%20identities%20for%20far-right%20voting%20preferences_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/ntexg/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -148,9 +147,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/09644008.2023.2231353" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_Bauer_2025_gp"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1080/09644008.2023.2231353" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2025_Discursive%20Shifts%20in%20the%20German%20Right%20Wing%20Newspaper%20Junge%20Freiheit.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2025_Discursive%20Shifts%20in%20the%20German%20Right%20Wing%20Newspaper%20Junge%20Freiheit_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/v9e36/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -161,9 +160,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1111/1475-6765.12612" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/naegel_etal_2024_ejpr"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1111/1475-6765.12612" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Naegel-Nivette-Czymara_2024_Do%20jihadist%20terrorist%20attacks%20cause%20changes%20in%20institutional%20trust.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Naegel-Nivette-Czymara_2024_Do%20jihadist%20terrorist%20attacks%20cause%20changes%20in%20institutional%20trust_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/e2mn8/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -174,9 +173,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/15205436.2023.2240307" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_2024_mcas"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1080/15205436.2023.2240307" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2024_Real%20World%20Developments%20Predict%20Immigration%20News%20in%20Right%20Wing%20Media.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2024_Real%20World%20Developments%20Predict%20Immigration%20News%20in%20Right%20Wing%20Media_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/bwh78/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -187,9 +186,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/1369183X.2022.2132222" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/schmidt-catran_czymara_2023_jems"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1080/1369183X.2022.2132222" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Schmidt-Catran-Czymara_2023_Political%20elite%20discourses%20polarize%20attitudes.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Schmidt-Catran-Czymara_2023_Political%20elite%20discourses%20polarize%20attitudes_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/mxncq/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -210,9 +209,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/1369183X.2022.2100552" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_etal_2023_jems"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1080/1369183X.2022.2100552" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
   </div>
 </div>
 
@@ -232,9 +231,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/01419870.2022.2060711" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_mitchell_2023_ers"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1080/01419870.2022.2060711" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2023_All-cops-are-trusted.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2023_All-cops-are-trusted_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://doi.org/10.17605/OSF.IO/BWXEA" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -245,7 +244,6 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.3389/fsoc.2021.785201" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/langenkamp_etal_2022_fsoc"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.3389/fsoc.2021.785201" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Langenkamp_2022_My%20Home%20is%20my%20Castle.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
   </div>
@@ -257,9 +255,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1515/commun-2019-0188" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_klingeren_2022_comm"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1515/commun-2019-0188" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2022_New-perspective.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2022_New-perspective_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/etg5h/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -270,7 +268,6 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.3389/fsoc.2020.538926" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_eisentraut_2020_fsoc"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.3389/fsoc.2020.538926" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2020_A-Threat-to-the-Occident.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/yxr45/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
@@ -283,7 +280,6 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/14616696.2020.1808692" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_etal_2021_REUS"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1080/14616696.2020.1808692" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2021_Cause-for-concerns.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
   </div>
@@ -295,7 +291,6 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.5771/0038-6073-2020-1-2-201" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/schmidt-catran_czymara_2020_sw"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.5771/0038-6073-2020-1-2-201" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Schmidt-Catran-Czymara_2020_Did-you-read-about-Berlin.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/y5u84/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
@@ -308,9 +303,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/sf/soaa055" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_2021_sf"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1093/sf/soaa055" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2021_Attitudes-toward-Refugees-in-Contemporary-Europe.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2021_Attitudes-toward-Refugees-in-Contemporary-Europe_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/rpn92/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -321,9 +316,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1177/0197918319890270" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_2020_imr"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1177/0197918319890270" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2020_Propagated-Preferences.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2020_Propagated-Preferences_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/ew6aj/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -334,9 +329,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/esr/jcy019" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_dochow_2018_esr"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1093/esr/jcy019" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2018_Mass-Media-and-Concerns-about-Immigration-in-Germany.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2018_Mass-Media-and-Concerns-about-Immigration-in-Germany_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/w8uz9/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -357,9 +352,9 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/esr/jcx071" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_schmidt-catran_2017_esr"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1093/esr/jcx071" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2017_Refugees-Unwelcome.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2017_Refugees-Unwelcome_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/veqrh/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
 </div>
@@ -370,7 +365,6 @@ Feel free to use any material for secondary analyses, teaching, or other purpose
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11577-016-0361-x" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="/research/czymara_schmidt-catran_2016_kzfss"><i class="fas fa-circle-info"></i> Details</a>
     <a href="https://doi.org/10.1007/s11577-016-0361-x" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/ebr4h/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>

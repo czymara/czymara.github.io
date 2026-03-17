@@ -14,10 +14,17 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- Fix Altmetric badge popover text color in dark mode -->
+<!-- Fix Altmetric badge in dark mode -->
 <style>
+/* Popover: keep text dark on white background */
 [class*="altmetric-popover"] { color: #222 !important; background-color: #fff !important; }
 [class*="altmetric-popover"] * { color: #222 !important; }
+/* Badge donut: force white background so black score number stays readable */
+html[data-theme="dark"] .altmetric-embed img,
+html[data-theme="dark"] .altmetric-embed a img {
+  background-color: #fff !important;
+  border-radius: 50%;
+}
 </style>
 
 <!-- end custom head snippets -->

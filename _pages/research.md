@@ -71,18 +71,21 @@ I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigrat
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">26.</span> Brodeur, A., &amp; 100+ co-authors (forthcoming). Reproducibility and Robustness of Economics and Political Science Research. <em><strong>Nature</strong></em>.</div>
-    <div class="pub-badge"></div>
+    <div class="pub-text"><span class="pub-num">26.</span> Brodeur, A., &amp; 100+ co-authors (2026). Reproducibility and robustness of economics and political science research. <em><strong>Nature</strong></em> 652: 151–156.</div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41586-026-10251-x" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="https://econpapers.repec.org/paper/zbwi4rdps/107.htm" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+    <a href="https://doi.org/10.1038/s41586-026-10251-x" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">25.</span> Aczel, B., &amp; 100+ co-authors (forthcoming). Investigating the analytical robustness of the social and behavioural sciences. <em><strong>Nature</strong></em>.</div>
-    <div class="pub-badge"></div>
+    <div class="pub-text"><span class="pub-num">25.</span> Aczel, B., &amp; 100+ co-authors (2026). Investigating the analytical robustness of the social and behavioural sciences. <em><strong>Nature</strong></em> 652: 135–142.</div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41586-025-09844-9" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
+  </div>
+  <div class="pub-links">
+    <a href="https://doi.org/10.1038/s41586-025-09844-9" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   </div>
 </div>
 

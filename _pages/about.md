@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (Royal Netherlands Academy of Arts and Sciences), where I work in the *Migration & Migrants* and *Data Infrastructure & Open Science* Departments, and I am affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en).
 
-My [research](research) focuses on social cohesion and migration, employing quantitative and computational methods. My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, Journal of Ethnic and Migration Studies, and Journal of Computational Social Science.
+My [research](research) focuses on social cohesion and migration, employing quantitative and computational methods. My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, among others. I am an Associate Editor of the interdisciplinary [Journal of Computational Social Science](https://link.springer.com/journal/42001) (2024 Impact Factor: 2.3).
 
 I hold a doctoral degree in Social Sciences from the [Cologne Graduate School in Management, Economics and Social Sciences](https://cgs.uni-koeln.de/en/general-information/people/graduates/dissertations-and-placement), and studied Sociology at the Universities of Mannheim and Cologne. 
 

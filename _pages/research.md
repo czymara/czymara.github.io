@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 permalink: /research/
 ---
 
@@ -22,42 +22,9 @@ permalink: /research/
 .page__content h2 + h3 { border-top: none !important; padding-top: 0; margin-top: 0.8em; }
 </style>
 
-<a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank"><img src="/code/citations/czymara_scholar_citations.png" width="300" height="300" alt="Google Scholar citation count over time" style="float:right; margin-left:1em;"></a>
-
-I study social cohesion and migration, with a focus on intergroup relations and political communication, using quantitative and computational methods. My work has received wide recognition, with *{% if site.data.scholar.citations %}{{ site.data.scholar.citations }}{% else %}over 1,800{% endif %} citations* on [Google Scholar](https://scholar.google.com/citations?user=khPqHmgAAAAJ) (see plot on the right) and being in the *top 2%* compared to peers with similar academic age on [ResearchGate](https://www.researchgate.net/profile/Christian-Czymara/stats). The findings are featured in national and international [media](media) and influenced global and EU-level policy institutions.
-
-I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigration and Their Political Consequences](https://www.nwo.nl/en/projects/tqapl20708) funded by the Dutch Research Council. I am also a member of [SOCION](https://socion-program.org/people/christian-czymara/), where I serve as a daily supervisor for PhD project on [social cohesion in ethnically diverse schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/).
-
 <a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> All my studies are openly accessable below. Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes.
 
-## Citation Metrics
-
-{% assign s = site.data.scholar %}
-{% if s %}
-<p style="font-size:0.95em;">
-  <a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank" rel="noopener"><strong>Google Scholar</strong></a>:&nbsp;
-  Citations: {{ s.citations }} &nbsp;&mdash;&nbsp;
-  H-Index: {{ s.h_index }}
-  <span style="color:#999; font-size:0.85em;">(updated {{ s.updated }})</span>
-</p>
-{% endif %}
-
-## Publications
-
-### Doctoral Dissertation
-
-<div class="pub-entry">
-  <div class="pub-grid">
-    <div class="pub-text"><u>Czymara</u>, C. S. (2018). Discursive Determinants of Attitudes towards Immigrants: Political Parties and Mass Media as Contextual Sources of Threat Perceptions. Universitäts- und Stadtbibliothek Köln.</div>
-    <div class="pub-badge"></div>
-  </div>
-  <div class="pub-links">
-    <a href="/files/Czymara_2018_Discursive%20Determinants%20of%20Attitudes%20towards%20Immigrants.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
-  </div>
-</div>
-
-
-### Peer-reviewed Journal Articles
+## Peer-reviewed Journal Articles
 
 <div class="pub-entry">
   <div class="pub-grid">
@@ -381,7 +348,19 @@ I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigrat
   </div>
 </div>
 
-### Book Chapters
+## Doctoral Dissertation
+
+<div class="pub-entry">
+  <div class="pub-grid">
+    <div class="pub-text"><u>Czymara</u>, C. S. (2018). Discursive Determinants of Attitudes towards Immigrants: Political Parties and Mass Media as Contextual Sources of Threat Perceptions. Universitäts- und Stadtbibliothek Köln.</div>
+    <div class="pub-badge"></div>
+  </div>
+  <div class="pub-links">
+    <a href="/files/Czymara_2018_Discursive%20Determinants%20of%20Attitudes%20towards%20Immigrants.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
+
+## Book Chapters
 
 <p style="font-size:0.85em;">✓ <em>indicates peer-reviewed work</em></p>
 
@@ -440,7 +419,7 @@ I am PI of the project [Crossing Boundaries: Migrants' Attitudes Toward Immigrat
 </div>
 
 
-### Preprints
+## Preprints
 
 <div class="pub-entry">
   <div class="pub-grid">

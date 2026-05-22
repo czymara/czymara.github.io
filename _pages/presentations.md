@@ -6,7 +6,7 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Presentation at the [Day of Sociology](https://www.uantwerpen.be/en/conferences/day-of-sociology-2026/), University of Antwerp 🇧🇪 on 26. May 2026 (15:10 – 16:25, Lokaal C.204)
+- [Presentation](https://czymara.com/files/pres/DvdS_26) at the [Day of Sociology](https://www.uantwerpen.be/en/conferences/day-of-sociology-2026/), University of Antwerp 🇧🇪 on 26. May 2026 (15:10 – 16:25, Lokaal C.204)
 - Presentation at the conference of the [European Consortium for Sociological Research](https://www.ecsr2026.net/), Trinity College 🇮🇪 on 15.-17. June 2026
 
 Past Talks (Selection)

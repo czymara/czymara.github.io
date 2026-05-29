@@ -19,5 +19,3 @@ I hold a doctoral degree in Social Sciences from the [Cologne Graduate School in
 Before joining NIDI, I worked at Goethe University Frankfurt am Main, Tel Aviv University, and the University of Cologne, where I have gained extensive experience [teaching](teach) quantitative methods and research design and supervising students. I was also a visiting researcher at Radboud University Nijmegen and the Max Planck Institute for the Study of Societies.
 
 Feel free to contact me at [czymara(at)nidi.nl](mailto:czymara@nidi.nl) or follow me on *Bluesky*: [@christian.czymara.com](https://bsky.app/profile/christian.czymara.com).
-
-<a href="https://scholar.google.com/citations?user=khPqHmgAAAAJ" target="_blank"><img src="/code/citations/czymara_scholar_citations.png" width="350" height="350" alt="Google Scholar citation count over time" style="display:block; margin-top:1.2em;"></a>

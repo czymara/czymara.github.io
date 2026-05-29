@@ -21,9 +21,9 @@ permalink: /research/
 .page__content h3 { margin-top: 2.5em; padding-top: 0.8em; border-top: 1px solid #ddd; }
 .page__content h2 + h3 { border-top: none !important; padding-top: 0; margin-top: 0.8em; }
 
-.pub-abstract { display: none; margin-top: 6px; font-size: 0.82em; line-height: 1.5; }
+.pub-abstract { display: none; margin-top: 6px; font-size: 0.9em; line-height: 1.5; font-style: italic; }
 .pub-abstract.open { display: block; }
-.abstract-toggle { cursor: pointer; color: var(--global-link-color); text-decoration: none; margin-right: 12px; display: inline-block; font-size: 0.82em; }
+.abstract-toggle { cursor: pointer; color: var(--global-link-color); text-decoration: none; margin-right: 12px; display: inline-block; }
 .abstract-toggle:hover { text-decoration: underline; }
 </style>
 

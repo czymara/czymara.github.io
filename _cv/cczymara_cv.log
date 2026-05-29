@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  20 MAY 2026 11:51
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  29 MAY 2026 10:03
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -88,25 +88,9 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
 \c@mn@abspage=\count197
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/sectsty/sectsty.sty
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
-les
-
-
-LaTeX Warning: Command \underbar  has changed.
-               Check if current package is valid.
-
-
-LaTeX Warning: Command \underline  has changed.
-               Check if current package is valid.
-
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/eurosym/eurosym.sty
-Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box51
-)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box52
+\ttl@box=\box51
 \beforetitleunit=\skip50
 \aftertitleunit=\skip51
 \ttl@plus=\dimen148
@@ -115,6 +99,10 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen150
 \titlewidthlast=\dimen151
 \titlewidthfirst=\dimen152
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box52
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
@@ -331,32 +319,32 @@ Package: academicons 2021/11/26 v1.9.1 Academicons Icons
 ) (./cczymara_cv.aux)
 \openout1 = cczymara_cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -392,7 +380,7 @@ LaTeX Font Info:    ... okay on input line 58.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 58.
+Package hyperref Info: Link coloring ON on input line 74.
 (./cczymara_cv.out) (./cczymara_cv.out)
 \@outlinefile=\write3
 
@@ -413,245 +401,238 @@ Package hyperref Info: Link coloring ON on input line 58.
 \everyMPtoPDFconversion=\toks23
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 62.
+(Font)              <12> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 78.
 LaTeX Font Info:    Trying to load font information for TU+academicons on input
- line 71.
+ line 87.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/academicons/tuacademicons.fd)
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 180.
+(Font)              <10.95> on input line 191.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 209--212
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
 
-Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 22
-5.
-Package marginnote Info: right page because not two side mode on input line 225
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 225.
-
-Overfull \hbox (14.86119pt too wide) in paragraph at lines 225--226
-\TU/lmr/m/n/10.95 Led Teams on As-sess-ing Re-search Re-pro-ducibil-ity in Quan-
-ti-ta-tive So-cial Sci-ence.\TU/lmr/bx/it/10.95 Proceedings
- []
-
-Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 22
+Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 23
 6.
-Package marginnote Info: right page because not two side mode on input line 226
+Package marginnote Info: right page because not two side mode on input line 236
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 226.
-Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 22
-7.
-Package marginnote Info: right page because not two side mode on input line 227
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 227.
-Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 22
+Package marginnote Info: xpos seems to be 76.60689pt on input line 236.
+Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 23
 8.
-Package marginnote Info: right page because not two side mode on input line 228
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 228.
-Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 22
-9.
-Package marginnote Info: right page because not two side mode on input line 229
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 229.
-Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 23
-0.
-Package marginnote Info: right page because not two side mode on input line 230
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 230.
-Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 23
-1.
-Package marginnote Info: right page because not two side mode on input line 231
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 231.
-Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 23
-2.
-Package marginnote Info: right page because not two side mode on input line 232
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 232.
-Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 23
-7.
-Package marginnote Info: right page because not two side mode on input line 237
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 237.
-Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 2
-38.
 Package marginnote Info: right page because not two side mode on input line 238
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 238.
-Package marginnote Info: Margin note 3.11 is on absolute page 4 on input line 2
-39.
-Package marginnote Info: right page because not two side mode on input line 239
+Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 24
+0.
+Package marginnote Info: right page because not two side mode on input line 240
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 239.
-[3]
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 24
-3.
-Package marginnote Info: right page because not two side mode on input line 243
+Package marginnote Info: xpos seems to be 76.60689pt on input line 240.
+Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 24
+2.
+Package marginnote Info: right page because not two side mode on input line 242
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 243.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 24
+Package marginnote Info: xpos seems to be 76.60689pt on input line 242.
+Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 24
+4.
+Package marginnote Info: right page because not two side mode on input line 244
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 244.
+Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 24
+6.
+Package marginnote Info: right page because not two side mode on input line 246
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 246.
+Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 24
 8.
 Package marginnote Info: right page because not two side mode on input line 248
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 248.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 24
-9.
-Package marginnote Info: right page because not two side mode on input line 249
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 249.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 25
+Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 25
 0.
 Package marginnote Info: right page because not two side mode on input line 250
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 250.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 25
-1.
-Package marginnote Info: right page because not two side mode on input line 251
+Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 25
+6.
+Package marginnote Info: right page because not two side mode on input line 256
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 251.
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 25
-7.
-Package marginnote Info: right page because not two side mode on input line 257
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 257.
-Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 25
-8.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 256.
+Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 2
+58.
 Package marginnote Info: right page because not two side mode on input line 258
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 258.
-Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 25
-9.
-Package marginnote Info: right page because not two side mode on input line 259
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 259.
-Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 26
-3.
-Package marginnote Info: right page because not two side mode on input line 263
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 263.
-
-Overfull \hbox (1.36537pt too wide) in paragraph at lines 265--266
-[]\TU/lmr/m/n/10.95 Me-dia cov-er-age: [][]faz.net[][]; Frank-furter Neue Presse
- (print); Hochheimer Zeitung (print);
- []
-
-
-Overfull \hbox (4.85846pt too wide) in paragraph at lines 266--267
-[]\TU/lmr/m/n/10.95 Pol-icy doc-u-ments: [][]Eu-ro-pean Com-mis-sion[][]; [][]Eu
--ro-pean Par-lia-ment[][]; [][]In-ter-na-tional Labour
- []
-
-Package marginnote Info: Margin note 4.10 is on absolute page 5 on input line 2
-68.
-Package marginnote Info: right page because not two side mode on input line 268
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 268.
-[4]
-Package marginnote Info: Margin note 5.1 is on absolute page 5 on input line 26
-9.
-Package marginnote Info: right page because not two side mode on input line 269
-.
-Package marginnote Info: xpos seems to be 76.60689pt on input line 269.
-Package marginnote Info: Margin note 5.2 is on absolute page 5 on input line 27
+[3]
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 26
 0.
-Package marginnote Info: right page because not two side mode on input line 270
+Package marginnote Info: right page because not two side mode on input line 260
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 270.
-Package marginnote Info: Margin note 5.3 is on absolute page 5 on input line 27
+Package marginnote Info: xpos seems to be 76.60689pt on input line 260.
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 26
+5.
+Package marginnote Info: right page because not two side mode on input line 265
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 265.
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 27
 1.
 Package marginnote Info: right page because not two side mode on input line 271
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 271.
-Package marginnote Info: Margin note 5.4 is on absolute page 5 on input line 27
-6.
-Package marginnote Info: right page because not two side mode on input line 276
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 27
+3.
+Package marginnote Info: right page because not two side mode on input line 273
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 276.
-Package marginnote Info: Margin note 5.5 is on absolute page 5 on input line 27
+Package marginnote Info: xpos seems to be 76.60689pt on input line 273.
+Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 27
+5.
+Package marginnote Info: right page because not two side mode on input line 275
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 275.
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 27
 7.
 Package marginnote Info: right page because not two side mode on input line 277
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 277.
-Package marginnote Info: Margin note 5.6 is on absolute page 5 on input line 28
-3.
-Package marginnote Info: right page because not two side mode on input line 283
+Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 28
+4.
+Package marginnote Info: right page because not two side mode on input line 284
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 283.
-Package marginnote Info: Margin note 5.7 is on absolute page 5 on input line 29
-2.
-Package marginnote Info: right page because not two side mode on input line 292
+Package marginnote Info: xpos seems to be 76.60689pt on input line 284.
+Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 28
+7.
+Package marginnote Info: right page because not two side mode on input line 287
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 292.
-Package marginnote Info: Margin note 5.8 is on absolute page 5 on input line 29
-3.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 287.
+Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 28
+9.
+Package marginnote Info: right page because not two side mode on input line 289
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 289.
+Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 2
+93.
 Package marginnote Info: right page because not two side mode on input line 293
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 293.
-Package marginnote Info: Margin note 5.9 is on absolute page 6 on input line 29
-4.
-Package marginnote Info: right page because not two side mode on input line 294
+Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 2
+99.
+Package marginnote Info: right page because not two side mode on input line 299
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 294.
- [5]
-Package marginnote Info: Margin note 6.1 is on absolute page 6 on input line 29
+Package marginnote Info: xpos seems to be 76.60689pt on input line 299.
+
+Overfull \hbox (13.93504pt too wide) in paragraph at lines 299--300
+\TU/lmr/m/n/10.95 Per-spec-tive on Cross-national Dif-fer-ences. \TU/lmr/bx/it/
+10.95 So-cial Forces\TU/lmr/m/n/10.95 , \TU/lmr/bx/it/10.95 99\TU/lmr/m/n/10.95
+ (3), 1306--1333. [][]doi.org/10.1093/
+ []
+
+[4]
+Package marginnote Info: Margin note 5.1 is on absolute page 5 on input line 30
+1.
+Package marginnote Info: right page because not two side mode on input line 301
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 301.
+Package marginnote Info: Margin note 5.2 is on absolute page 5 on input line 30
+3.
+Package marginnote Info: right page because not two side mode on input line 303
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 303.
+
+Overfull \hbox (13.35455pt too wide) in paragraph at lines 303--304
+\TU/lmr/m/n/10.95 Open-ness to-ward Mus-lim Im-mi-grants. \TU/lmr/bx/it/10.95 In
+-ter-na-tional Mi-gra-tion Re-view\TU/lmr/m/n/10.95 , \TU/lmr/bx/it/10.95 54\TU
+/lmr/m/n/10.95 (4), 1212--1237.
+ []
+
+Package marginnote Info: Margin note 5.3 is on absolute page 5 on input line 30
 5.
-Package marginnote Info: right page because not two side mode on input line 295
+Package marginnote Info: right page because not two side mode on input line 305
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 295.
-Package marginnote Info: Margin note 6.2 is on absolute page 6 on input line 29
-6.
-Package marginnote Info: right page because not two side mode on input line 296
+Package marginnote Info: xpos seems to be 76.60689pt on input line 305.
+Package marginnote Info: Margin note 5.4 is on absolute page 5 on input line 31
+1.
+Package marginnote Info: right page because not two side mode on input line 311
 .
-Package marginnote Info: xpos seems to be 76.60689pt on input line 296.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 311.
+Package marginnote Info: Margin note 5.5 is on absolute page 5 on input line 31
+3.
+Package marginnote Info: right page because not two side mode on input line 313
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 313.
+Package marginnote Info: Margin note 5.6 is on absolute page 5 on input line 32
+0.
+Package marginnote Info: right page because not two side mode on input line 320
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 320.
+Package marginnote Info: Margin note 5.7 is on absolute page 5 on input line 32
+9.
+Package marginnote Info: right page because not two side mode on input line 329
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 329.
+Package marginnote Info: Margin note 5.8 is on absolute page 5 on input line 33
+1.
+Package marginnote Info: right page because not two side mode on input line 331
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 331.
+Package marginnote Info: Margin note 5.9 is on absolute page 5 on input line 33
+3.
+Package marginnote Info: right page because not two side mode on input line 333
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 333.
+Package marginnote Info: Margin note 5.10 is on absolute page 6 on input line 3
+35.
+Package marginnote Info: right page because not two side mode on input line 335
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 335.
+[5]
+Package marginnote Info: Margin note 6.1 is on absolute page 6 on input line 33
+7.
+Package marginnote Info: right page because not two side mode on input line 337
+.
+Package marginnote Info: xpos seems to be 76.60689pt on input line 337.
  [6] [7]
-Overfull \hbox (13.20457pt too wide) in paragraph at lines 463--464
+Overfull \hbox (13.20457pt too wide) in paragraph at lines 502--503
 []\TU/lmr/m/n/10.95 Berliner Lan-deszen-trale für poli-tis-che Bil-dung, 10 Nov
  2023: [][]Aus-gren-zungsrhetorik etablierter
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 482--486
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 533--534
+Underfull \hbox (badness 10000) in paragraph at lines 521--524
 
  []
 
 [9]
-Overfull \hbox (3.21098pt too wide) in paragraph at lines 537--538
+Underfull \hbox (badness 10000) in paragraph at lines 570--571
+
+ []
+
+
+Overfull \hbox (3.21098pt too wide) in paragraph at lines 574--575
 []\TU/lmr/m/it/10.95 Grant pro-pos-als\TU/lmr/m/n/10.95 : Dutch Re-search Coun-c
 il Open Competition-SSH XS; Volk-swa-gen Stiftung;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 541--542
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--549
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10] [11] (./cczymara_cv.aux)
  ***********
@@ -663,15 +644,15 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13866 strings out of 476447
+ 13755 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 651 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 26 attribute, 53 glue_spec
-, 26 attribute_list, 1 write, 22 pdf_action nodes
-   avail lists: 1:1,2:841,3:412,4:218,5:672,6:89,7:8100,8:2,9:498,10:8,11:650
- 35764 multiletter control sequences out of 65536+600000
- 47 fonts using 3727055 bytes
- 74i,15n,77p,1153b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 641 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 25 attribute, 53 glue_spec
+, 25 attribute_list, 1 write, 21 pdf_action nodes
+   avail lists: 1:1,2:1031,3:374,4:185,5:780,6:89,7:8388,8:2,9:560,10:7,11:608
+ 35658 multiletter control sequences out of 65536+600000
+ 43 fonts using 3201423 bytes
+ 74i,15n,77p,1086b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditali
 c.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmromanslant1
 0-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmrom
@@ -686,10 +667,10 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (11 pages, 110209 bytes).
+Output written on cczymara_cv.pdf (11 pages, 113059 bytes).
 
-PDF statistics: 272 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
+PDF statistics: 273 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
  12 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

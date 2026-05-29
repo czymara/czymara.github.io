@@ -20,6 +20,11 @@ permalink: /research/
 .page__content .pub-entry, .page__content .pub-grid, .page__content .pub-text { border-bottom: none !important; border-top: none !important; }
 .page__content h3 { margin-top: 2.5em; padding-top: 0.8em; border-top: 1px solid #ddd; }
 .page__content h2 + h3 { border-top: none !important; padding-top: 0; margin-top: 0.8em; }
+
+.pub-abstract { display: none; margin-top: 6px; font-size: 0.82em; color: #555; line-height: 1.5; }
+.pub-abstract.open { display: block; }
+.abstract-toggle { cursor: pointer; color: var(--global-link-color); text-decoration: none; margin-right: 12px; display: inline-block; font-size: 0.82em; }
+.abstract-toggle:hover { text-decoration: underline; }
 </style>
 
 <a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> All my studies are openly accessable below. Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes.
@@ -28,12 +33,16 @@ permalink: /research/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">27.</span> Brodeur, A., &amp; 100+ co-authors (forthcoming). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science. <em><strong>Proceedings of the National Academy of Sciences</strong></em>.</div>
-    <div class="pub-badge"></div>
+    <div class="pub-text"><span class="pub-num">27.</span> Brodeur, A., &amp; 100+ co-authors (2026). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. <em><strong>Proceedings of the National Academy of Sciences</strong></em> 123(22).</div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1073/pnas.2524747123" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="https://econpapers.repec.org/paper/zbwi4rdps/195.htm" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+    <a href="https://doi.org/10.1073/pnas.2524747123" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Large Language Models (LLMs) such as ChatGPT are transforming how scientists conduct and validate research. We experimentally test how collaboration between researchers and LLM assistants influences the reproduction of quantitative social science findings across different levels of AI autonomy. Teams reproduced published results, detected coding errors, and proposed robustness checks.</div>
 </div>
 
 <div class="pub-entry">
@@ -66,7 +75,11 @@ permalink: /research/
     <a href="/files/Czymara_2025_Political%20Legacies%20and%20Present%20Perceptions%20of%20Migrants.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2025_Political%20Legacies%20and%20Present%20Perceptions%20of%20Migrants_supplementary%20material.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://doi.org/10.17605/OSF.IO/4YDWN" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">This paper examines the long-term impact of past political processes and ideological legacies on present-day attitudes toward migrants, focusing on Eastern Europe where Soviet-era policies shaped ethnic group hierarchies.</div>
 </div>
 
 <div class="pub-entry">
@@ -79,7 +92,11 @@ permalink: /research/
     <a href="/files/Czymara_2025_Antisemitism%20among%20Muslims%20in%20Germany.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2025_Antisemitism%20Among%20Muslims%20in%20Germany_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/eqnw4/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Antisemitism is a long-standing, yet recently escalating threat to Jews in Europe and beyond. We study antisemitism among Muslims in Germany using survey data and examine the role of religious fundamentalism, discrimination, and integration.</div>
 </div>
 
 <div class="pub-entry">
@@ -89,7 +106,11 @@ permalink: /research/
   </div>
   <div class="pub-links">
     <a href="https://doi.org/10.1098/rsos.241038" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">This study investigates researcher variability in computational reproduction, analyzing whether different researchers produce divergent results when reproducing the same published findings.</div>
 </div>
 
 <div class="pub-entry">
@@ -102,7 +123,11 @@ permalink: /research/
     <a href="/files/Czymara_2024_Hostility%20on%20Twitter%20in%20the%20Aftermath%20of%20Terror%20Attacks.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2024_Hostility%20on%20Twitter%20in%20the%20Aftermath%20of%20Terror%20Attacks_supplementary%20material.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://doi.org/10.17605/OSF.IO/ZDT5B" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">This study investigates the relationship between major Jihadist terror attacks and online hostility on Twitter, examining whether attacks trigger increased anti-Muslim sentiment.</div>
 </div>
 
 <div class="pub-entry">
@@ -115,7 +140,11 @@ permalink: /research/
     <a href="/files/May-Czymara_2024_Careless%20whisper%20Political%20elite%20discourses%20activate%20national%20identities%20for%20far-right%20voting%20preferences.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/May-Czymara_2024_Careless%20whisper%20Political%20elite%20discourses%20activate%20national%20identities%20for%20far-right%20voting%20preferences_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/ntexg/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">While exclusionary national identities are widespread among Europeans, their political consequences are understudied. We show that political elite discourses activate national identities which in turn foster far-right voting preferences.</div>
 </div>
 
 <div class="pub-entry">
@@ -128,7 +157,11 @@ permalink: /research/
     <a href="/files/Czymara_2025_Discursive%20Shifts%20in%20the%20German%20Right%20Wing%20Newspaper%20Junge%20Freiheit.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2025_Discursive%20Shifts%20in%20the%20German%20Right%20Wing%20Newspaper%20Junge%20Freiheit_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/v9e36/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Right-wing media are pivotal for the success of the political right. We investigate the discursive trajectories of the German right-wing newspaper Junge Freiheit using computational text analysis of 26,000+ articles from 1997–2019.</div>
 </div>
 
 <div class="pub-entry">
@@ -141,7 +174,11 @@ permalink: /research/
     <a href="/files/Naegel-Nivette-Czymara_2024_Do%20jihadist%20terrorist%20attacks%20cause%20changes%20in%20institutional%20trust.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Naegel-Nivette-Czymara_2024_Do%20jihadist%20terrorist%20attacks%20cause%20changes%20in%20institutional%20trust_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/e2mn8/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Results from previous research suggest that terrorist attacks lead to reduced trust in institutions. We use a multi-site natural experiment across five European countries to test this argument with longitudinal survey data.</div>
 </div>
 
 <div class="pub-entry">
@@ -154,7 +191,11 @@ permalink: /research/
     <a href="/files/Czymara_2024_Real%20World%20Developments%20Predict%20Immigration%20News%20in%20Right%20Wing%20Media.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2024_Real%20World%20Developments%20Predict%20Immigration%20News%20in%20Right%20Wing%20Media_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/bwh78/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Exclusionist positions on immigration have become a key component of right-wing ideology. We examine how real-world immigration-related events predict news coverage in German right-wing media using time-series analysis.</div>
 </div>
 
 <div class="pub-entry">
@@ -167,7 +208,11 @@ permalink: /research/
     <a href="/files/Schmidt-Catran-Czymara_2023_Political%20elite%20discourses%20polarize%20attitudes.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Schmidt-Catran-Czymara_2023_Political%20elite%20discourses%20polarize%20attitudes_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/mxncq/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Immigration is a hotly-debated topic in many countries. We examine how immigration-related elite discourses polarize public attitudes along ideological lines in a comparative longitudinal analysis of Europe.</div>
 </div>
 
 <div class="pub-entry">
@@ -177,7 +222,11 @@ permalink: /research/
   </div>
   <div class="pub-links">
     <a href="https://doi.org/10.1073/pnas.2203150119" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">This study explores how researchers' analytical choices affect the reliability of findings. Using a many-analysts design, we show that researcher degrees of freedom produce considerable uncertainty in published social science results.</div>
 </div>
 
 <div class="pub-entry">
@@ -189,7 +238,11 @@ permalink: /research/
     <a href="https://doi.org/10.1080/1369183X.2022.2100552" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2023_Catalyst-of-hate-Ethnic-insulting-on-YouTube_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">In the last 20 years, several major terror attacks conducted in the name of political Islam hit Western Europe. We study how these events catalyzed ethnic insulting on YouTube across France, Germany, and the United Kingdom.</div>
 </div>
 
 <div class="pub-entry">
@@ -199,7 +252,11 @@ permalink: /research/
   </div>
   <div class="pub-links">
     <a href="https://doi.org/10.1080/2153599X.2022.2070255" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">The relation between religiosity and well-being is one of the most researched topics in psychology of religion. Using a many-analysts approach, we assess the robustness of this association across diverse analytical strategies.</div>
 </div>
 
 <div class="pub-entry">
@@ -212,7 +269,11 @@ permalink: /research/
     <a href="/files/Czymara_2023_All-cops-are-trusted.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2023_All-cops-are-trusted_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://doi.org/10.17605/OSF.IO/BWXEA" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">The relationship between police and ethnic minorities has been the subject of increasing interest in recent years. We examine how context and time shape immigrants' trust in the police across European countries.</div>
 </div>
 
 <div class="pub-entry">
@@ -223,7 +284,11 @@ permalink: /research/
   <div class="pub-links">
     <a href="https://doi.org/10.3389/fsoc.2021.785201" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Langenkamp_2022_My%20Home%20is%20my%20Castle.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">During the early months of the COVID-19 pandemic in Germany, social restrictions raised new questions about the role of living arrangements. We examine how household composition shaped pandemic experiences.</div>
 </div>
 
 <div class="pub-entry">
@@ -236,7 +301,11 @@ permalink: /research/
     <a href="/files/Czymara_2022_New-perspective.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2022_New-perspective_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/etg5h/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">News media have transformed substantially over recent decades. We compare how migration-related frames occur in online versus traditional news media during Europe's so-called migration crisis.</div>
 </div>
 
 <div class="pub-entry">
@@ -248,7 +317,11 @@ permalink: /research/
     <a href="https://doi.org/10.3389/fsoc.2020.538926" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2020_A-Threat-to-the-Occident.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/yxr45/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">With a growing Muslim population, many European countries need to integrate Muslims into their societies. We compare human values of Muslim immigrants to those of Christian and non-religious natives across Western Europe.</div>
 </div>
 
 <div class="pub-entry">
@@ -259,7 +332,11 @@ permalink: /research/
   <div class="pub-links">
     <a href="https://doi.org/10.1080/14616696.2020.1808692" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2021_Cause-for-concerns.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">COVID-19 is having a tremendous impact on gender relations, as care needs have been magnified by lockdown measures. We examine gender inequality in experiencing the COVID-19 lockdown in Germany.</div>
 </div>
 
 <div class="pub-entry">
@@ -271,7 +348,11 @@ permalink: /research/
     <a href="https://doi.org/10.5771/0038-6073-2020-1-2-201" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Schmidt-Catran-Czymara_2020_Did-you-read-about-Berlin.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/y5u84/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">We analyze whether the Islamist terror attack on the Christmas market in Berlin affected support for refugees in Germany, using online media data and panel survey responses collected before and after the attack.</div>
 </div>
 
 <div class="pub-entry">
@@ -284,7 +365,11 @@ permalink: /research/
     <a href="/files/Czymara_2021_Attitudes-toward-Refugees-in-Contemporary-Europe.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2021_Attitudes-toward-Refugees-in-Contemporary-Europe_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/rpn92/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">In 2015, the number of people seeking asylum in Europe skyrocketed. How did European publics respond? We provide a longitudinal cross-national analysis of attitudes toward refugees using ESS data.</div>
 </div>
 
 <div class="pub-entry">
@@ -297,7 +382,11 @@ permalink: /research/
     <a href="/files/Czymara_2020_Propagated-Preferences.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2020_Propagated-Preferences_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/ew6aj/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Immigration is among the most vividly discussed topics in Europe's national parliaments. We examine how political elite discourses shape public openness toward Muslim immigrants across European countries.</div>
 </div>
 
 <div class="pub-entry">
@@ -310,7 +399,11 @@ permalink: /research/
     <a href="/files/Czymara_2018_Mass-Media-and-Concerns-about-Immigration-in-Germany.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2018_Mass-Media-and-Concerns-about-Immigration-in-Germany_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/w8uz9/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Mass media has long been discussed as an essential determinant of threat perceptions about immigration. We examine how media consumption shapes concerns about immigration in Germany over 15 years.</div>
 </div>
 
 <div class="pub-entry">
@@ -333,7 +426,11 @@ permalink: /research/
     <a href="/files/Czymara_2017_Refugees-Unwelcome.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="/files/Czymara_2017_Refugees-Unwelcome_Appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
     <a href="https://osf.io/veqrh/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Based on an innovative design combining a multi-factorial survey experiment with longitudinal panel data, we examine how public acceptance of immigrants and refugees changed in Germany during Europe's so-called immigration crisis.</div>
 </div>
 
 <div class="pub-entry">
@@ -382,7 +479,11 @@ permalink: /research/
   <div class="pub-links">
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Lee_2026_Linguistic%20Polarization%20in%20Minority%20Representation.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Based on an innovative design combining a multi-factorial survey experiment with longitudinal panel data, we examine how public acceptance of immigrants and refugees changed in Germany during Europe's so-called immigration crisis.</div>
 </div>
 
 <div class="pub-entry">
@@ -404,7 +505,11 @@ permalink: /research/
   <div class="pub-links">
     <a href="https://doi.org/10.4324/9781003533368-8" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2024_Catalyst-of-hate-Ethnic-insulting-on-YouTube.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Mass media has long been discussed as an essential determinant of threat perceptions about immigration. We examine how media consumption shapes concerns about immigration in Germany over 15 years.</div>
 </div>
 
 <div class="pub-entry">
@@ -415,7 +520,11 @@ permalink: /research/
   <div class="pub-links">
     <a href="https://direct.mit.edu/books/oa-edited-volume/5753/chapter-standard/4672090/Processes-and-Pathways-of-Stigmatization-and" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Velasquez_2024_Processes%20and%20Pathways%20of%20Stigmatization%20and%20Destigmatization%20over%20Time.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+  
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
   </div>
+
+  <div class="pub-abstract">Immigration is among the most vividly discussed topics in Europe's national parliaments. We examine how political elite discourses shape public openness toward Muslim immigrants across European countries.</div>
 </div>
 
 
@@ -430,4 +539,16 @@ permalink: /research/
     <a href="https://osf.io/preprints/socarxiv/fkue4_v2" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   </div>
 </div>
+
+
+<script>
+document.querySelectorAll('.abstract-toggle').forEach(function(btn) {
+  btn.addEventListener('click', function(e) {
+    e.preventDefault();
+    var abs = this.closest('.pub-entry').querySelector('.pub-abstract');
+    abs.classList.toggle('open');
+    this.textContent = abs.classList.contains('open') ? '▲ Abstract' : '▼ Abstract';
+  });
+});
+</script>
 

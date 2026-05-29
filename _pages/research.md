@@ -23,6 +23,8 @@ permalink: /research/
 
 .pub-abstract { display: none; margin-top: 6px; font-size: 0.82em; line-height: 1.5; }
 .pub-abstract.open { display: block; }
+.abstract-toggle { cursor: pointer; color: var(--global-link-color); text-decoration: none; margin-right: 12px; display: inline-block; font-size: 0.82em; }
+.abstract-toggle:hover { text-decoration: underline; }
 </style>
 
 <a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> All my studies are openly accessable below. Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes.
@@ -49,10 +51,12 @@ permalink: /research/
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41586-026-10251-x" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
     <a href="https://doi.org/10.1038/s41586-026-10251-x" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   
   </div>
 
+  <div class="pub-abstract">Science aspires to be cumulative. Reproducibility efforts strengthen science by testing the reliability of published findings, promoting self-correction, and informing policy-making. Here we reproduced original analyses and conducted robustness checks of 110 articles published in leading economics and political science journals with mandatory data and code sharing policies. We found that more than 85% of published claims were computationally reproducible. In robustness checks, our reanalyses showed that 72% of statistically significant estimates remain significant and in the same direction, and the median reproduced effect size is nearly the same as the originally published effect size (99% of the published effect size). Additionally, 6 independent research teams examined 12 pre-specified hypotheses about determinants of robustness. Research teams with more experience found lower levels of robustness, and robustness did not correlate with author characteristics or data availability.</div>
 </div>
 
 <div class="pub-entry">
@@ -61,8 +65,10 @@ permalink: /research/
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41586-025-09844-9" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
     <a href="https://doi.org/10.1038/s41586-025-09844-9" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   </div>
+  <div class="pub-abstract">The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts' choices. We examined a stratified random sample of 100 studies published between 2009 and 2018, in which, for one claim per study, at least five reanalysts independently reanalysed the original data. We found that 34% of the independent reanalyses yielded the same result as the original report; with a four times broader tolerance region, this increased to 57%. Of the reanalyses conducted, 74% reached the same conclusion as the original investigation, 24% yielded no effects or inconclusive results and 2% reported the opposite effect. This exploratory study indicates that the common single-path analyses in social and behavioural research should not be simply assumed to be robust to alternative analyses.</div>
 </div>
 
 <div class="pub-entry">
@@ -550,6 +556,7 @@ permalink: /research/
 
 
 <script>
+document.querySelectorAll('.abstract-toggle').forEach(function(btn) {
   btn.addEventListener('click', function(e) {
     e.preventDefault();
     var abs = this.closest('.pub-entry').querySelector('.pub-abstract');

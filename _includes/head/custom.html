@@ -25,6 +25,10 @@ html[data-theme="dark"] .altmetric-embed a img {
   background-color: #fff !important;
   border-radius: 50%;
 }
+/* Invert citation graph in dark mode */
+html[data-theme="dark"] img[src*="czymara_scholar_citations"] {
+  filter: invert(1) hue-rotate(180deg);
+}
 </style>
 
 <!-- end custom head snippets -->

@@ -418,10 +418,12 @@ permalink: /research/
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11577-018-0516-z" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
     <a href="https://doi.org/10.1007/s11577-018-0516-z" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   
   </div>
 
+  <div class="pub-abstract">This research note deals with a design of vignette studies which is based on a single d-efficient vignette sample. To this end, we first discuss the underlying assumption of negligible interaction effects between vignette characteristics. A subsequent simulation demonstrates potential consequences of the violation of this assumption for our vignette study "Who is welcome in Germany?" (KZfSS 2016, 2).</div>
 </div>
 
 <div class="pub-entry">
@@ -447,12 +449,14 @@ permalink: /research/
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11577-016-0361-x" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
     <a href="https://doi.org/10.1007/s11577-016-0361-x" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2016_Wer-ist-in-deutschland-willkommen.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/ebr4h/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   
   </div>
 
+  <div class="pub-abstract">Germany is currently experiencing a huge inflow of migrants. In this vignette study, we analyze how much different kinds of migrants are accepted in Germany. We investigate three different rights for migrants: the right to stay in Germany, the right to work in Germany and the right to receive social benefits. Our results show that people who flee from political persecution are much more accepted compared to migrants who come because of economic reasons. This is particularly true for the right to receive social benefits. On the other hand, our results suggest that there is a strong preference for high-skilled and culturally non-distant migrants. Concerns regarding individual competition on the job market seem to play only a minor role.</div>
 </div>
 
 ## Doctoral Dissertation
@@ -463,8 +467,11 @@ permalink: /research/
     <div class="pub-badge"></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
+    <a href="https://kups.ub.uni-koeln.de/9150/" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Czymara_2018_Discursive%20Determinants%20of%20Attitudes%20towards%20Immigrants.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
   </div>
+  <div class="pub-abstract">Immigration has been a vividly discussed topic in Europe in recent years, leading to increased polarisation in many Western societies. Combining sociology and communication sciences, I argue that immigration-related discourses influence exclusionary attitudes and ethnic resentment beyond actual demographic circumstances, as such discourses are potent activators of feelings of threat, especially regarding specific kinds of ethnic out-groups. I examine effects of mass media, political parties and public speakers on general as well as group-specific attitudes, analysing longitudinal, cross-national, and experimental data sources. General media salience affects general concerns about immigration. Specific kinds of discourses also have group-specific effects, depending on the overall tone and particular content. Discourse effects are significantly stronger for individuals with conservative ideology, lower education, or few daily experiences with foreigners. In sum, social scientists are well advised to pay attention to the discursive and political climate characterising a particular research setting.</div>
 </div>
 
 ## Book Chapters
@@ -473,12 +480,14 @@ permalink: /research/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">1.</span> Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S. (2026). Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century. In: Laycock, J., Humphrey, M., &amp; Faure, J. (eds.), <em><strong>Handbook of Ideology Analysis</strong></em>. Routledge. ✓</div>
+    <div class="pub-text"><span class="pub-num">1.</span> Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S. (2026). Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the 21st century. In: Laycock, J., Humphrey, M., &amp; Faure, J. (eds.), <em><strong>Handbook of Ideology Analysis</strong></em>, pp. 461–487. Routledge. ✓</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.4324/9781003412007-36" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
     <a href="https://doi.org/10.4324/9781003412007-36" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   </div>
+  <div class="pub-abstract">Immigration is a hotly-debated topic in many countries around the world. We examine how immigration-related political elite discourses affect natives' attitudes towards immigration and how these discourses contribute to polarisation along political and socio-economic dimensions. Drawing upon longitudinal cross-national data from the European Social Survey over 18 years and a genuine within-country estimator, our results show that, controlling for actual immigration, anti-immigrant attitudes increase when political elites express more exclusionary sentiments and decrease when elites express more inclusionary sentiments. Exclusionary political elite discourses primarily resonate with voters on the right, whereas inclusionary discourse effects do not vary with political orientation. Our results indicate that ideological and discursive aspects of intergroup conflict are more important than real-world conditions.</div>
 </div>
 
 <div class="pub-entry">
@@ -493,7 +502,7 @@ permalink: /research/
   
   </div>
 
-  <div class="pub-abstract">Based on an innovative design, combining a multi-factorial survey experiment with a longitudinal perspective, we examine changes in the public acceptance of immigrants in Germany from the beginning of the so-called ‘migration crisis’ to after the sexual assaults of New Year’s Eve (NYE) 2015/2016. In contrast to previous studies investigating similar research questions, our approach allows to differentiate changes along various immigrant characteristics. Derived from discussions making up the German immigration discourse during this time, we expect reduced acceptance especially of those immigrants who were explicitly connected to the salient events, like Muslims and the offenders of NYE. Most strikingly, we find that refugees were generally highly accepted and even more so in the second wave, whereas the acceptance of immigrants from Arab or African countries further decreased. Moreover, female respondents’ initial preference for male immigrants disappeared. Contrary to our expectations, we find no changes in the acceptance of Muslims. We conclude that (i) public opinion research is well advised to match the particular political and social context under investigation to a fitting outcome variable to adequately capture the dynamics of anti-immigrant sentiment and that (ii) the vividly discussed upper limits for refugees seem to be contrary to public demands according to our data.</div>
+  <div class="pub-abstract">Political polarization shapes how minority issues are discussed in public and parliamentary discourse, with implications for representation and policy. We examine the representation of migration and sexual minorities in all parliamentary speeches across Germany and the United Kingdom from 1980 to 2021, asking how parties contributed to shifts in the overall salience of the two minority issues, how language use differs between party groups, and how this evolved over time. We employ natural language processing techniques on roughly 143,000 speech parts in total. The results show that speeches on both issues increased notably over time for all parties in both countries. Linguistic polarization concerning the terminology used by political parties has intensified over the years. In both countries, right-leaning parties emphasized economic and security aspects more when discussing migration, whereas left-leaning parties focused more on normative and rights-based issues. Regarding sexual minorities, the rhetoric of left parties more often included terms relating to equality or discrimination, while right parties more often referred to aspects of marriage and morals.</div>
 </div>
 
 <div class="pub-entry">
@@ -502,11 +511,13 @@ permalink: /research/
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/978-3-658-49448-3_12" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
     <a href="https://doi.org/10.1007/978-3-658-49448-3_12" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
     <a href="/files/Langenkamp_2026_Zuwanderung%2C%20Sorgen%20vor%20Islamismus%20und%20AfD-Wahl.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
   
   </div>
 
+  <div class="pub-abstract">Diese Studie untersucht den Zusammenhang zwischen lokalen Migrationsbewegungen auf Gemeindeebene und individueller Wahrnehmung islamistischer Bedrohung sowie der nachgelagerten Wahlpräferenz für die AfD im Bundesland Sachsen. Anhand der Umfrage „Sicherheit und Kriminalität in Sachsen“ aus dem Jahr 2022 analysieren wir Daten von 1559 Personen aus 22 Gemeinden. Entgegen der Konflikttheorie zeigen unsere Ergebnisse, dass Personen in Gemeinden mit höherer Zuwanderung in den letzten zehn Jahren weniger Sorgen vor Islamismus äußerten. Zudem wählen Personen in diesen Regionen mit geringerer Wahrscheinlichkeit die AfD, was teilweise über geringere Bedrohungswahrnehmungen vermittelt wird. Diese Befunde stützen die Kontakttheorie, die einen Abbau von Vorurteilen durch interethnischen Kontakt annimmt.</div>
 </div>
 
 <div class="pub-entry">
@@ -536,7 +547,7 @@ permalink: /research/
   
   </div>
 
-  <div class="pub-abstract">Immigration is among the most vividly discussed topics in Europe’s national parliaments in recent years, often with a particular emphasis on the inflow of Muslims. This article examines the link between articulations of national political parties (political elite discourses) and natives’ attitudes toward immigrants in Europe. It provides a nuanced view of this relationship by (i) distinguishing more (inclusionary) from less (exclusionary) immigration-friendly political elites and (ii) isolating natives’ openness toward two specific groups: Muslim immigrants and ethnically similar immigrants. Combining the European Social Survey with party manifesto data and other sources, the analysis reveals that political elite discourses perform better in explaining natives’ attitudes compared to national demographic or economic aspects. Native Europeans’ attitudes toward Muslim immigrants are more hostile in countries where political elites are more exclusionary and more welcoming where political elites are more inclusionary. In contrast, Europeans’ views on ethnically similar immigrants seem largely unaffected by exclusionary political elites. These findings suggest that political elites can play an important role in fostering or impeding immigrant integration by shaping public opinion, particularly toward more marginalized immigrant groups.</div>
+  <div class="pub-abstract">This chapter advances a theoretical framework to understand within- and between-country variation in the level of stigmatization experienced by immigrant groups and their descendants over time. Since processes of stigmatization and destigmatization may unfold over generations, it is imperative for research to adopt a longer time horizon to identify the factors that lead to the emergence, persistence, and/or dissipation of stigma. Based on the observation that the labeling of some groups as 'migrants' does not always follow from actual histories of immigration, this framework treats 'migrant' as a social category. To guide future empirical research, this chapter introduces two analytical models. The first identifies the factors and processes responsible for stigmatization or destigmatization over time. The second presents five ideal-typical pathways that immigrants and their descendants may experience in relation to stigma: non-emergence, increase, reinforcement, reduction, and status reversal.</div>
 </div>
 
 

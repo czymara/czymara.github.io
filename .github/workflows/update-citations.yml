@@ -19,9 +19,12 @@ jobs:
           r-version: '4.3'
 
       - name: Install dependencies
-        run: |
-          install.packages(c("scholar", "ggplot2", "ggtext"), repos = "https://cloud.r-project.org")
-        shell: Rscript {0}
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::scholar
+            any::ggplot2
+            any::ggtext
 
       - name: Generate citation plot
         working-directory: code/citations

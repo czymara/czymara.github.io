@@ -11,7 +11,7 @@ cit <- get_citation_history(id) # citations
 fsize <- 16 # font size
 
 # Plot
-clr <- "#888888"
+clr <- "#494e52"
 
 ggplot(cit, aes(x = year, y = cites)) +
   geom_bar(stat = "identity", fill = clr) +

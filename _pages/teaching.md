@@ -1,6 +1,8 @@
 ---
 title: "Teaching"
-permalink: /teach/
+permalink: /teaching/
+redirect_from:
+  - /teach/
 ---
 
 <style>.page__title { display: none; }</style>
@@ -48,29 +50,33 @@ Evaluations
 
 <img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" alt="Teaching evaluation scores over time" style="float:right; margin-left:1em;">
 
-- Winter 2024/25: Computational Social Science
-- Oct 2023: Workshops for Ukraine: Introduction to Topic Modelling in R and Python
-- Aug 2023: DeZIM Summer School: Einführung in die Panelregression
-- Jul 2023: BIGSSS Summer School on Computational Social Science of Democratic Debate: Topic 
-Models
-- Summer 2022: Längsschnittdatenanalyse in R
-- Winter 2021/22: Vergleichende Sozialforschung mit Mehrebenenmodellen in R
-- Aug 2021: Frankfurt Digital Summer School: Multilevel Analysis
-- Summer 2021: Lägsschnittdatenanalyse und Kausalität
-- Winter 2020/21: Längsschnittdatenanalyse und Kausalität
+- Apr 2026: Introduction to Migration & Migrants Research (PhD course), NIDI
+- Jan 2026: Migration, Families and Households (MA Population Studies, guest lecture), University of Groningen
+- Jun 2025: Von Nationen und Narrativen: Identitäten in multiethnischen Gesellschaften (Ringvorlesung), Johannes Gutenberg University Mainz
+- Winter 2024/25: Computational Social Science, Goethe University Frankfurt (GU)
+- Oct 2023: Introduction to Topic Modelling in R and Python, Workshops for Ukraine (online)
+- Aug 2023: Einführung in die Panelregression, DeZIM Summer School
+- Jul 2023: BIGSSS Summer School on Computational Social Science of Democratic Debate: Topic Models, Constructor University
+- Jan 2023: IGS3 Excellence group (guest lecture), Tel Aviv University
+- Summer 2022: Längsschnittdatenanalyse in R, GU
+- Winter 2021/22: Vergleichende Sozialforschung mit Mehrebenenmodellen in R, GU
+- Aug 2021: Multilevel Analysis, Frankfurt Digital Summer School
+- Summer 2021: Lägsschnittdatenanalyse und Kausalität, GU
+- Jun 2021: Politische Soziologie I (guest lecture), University of Bamberg (online)
+- Winter 2020/21: Längsschnittdatenanalyse und Kausalität, GU
 
 <div style="width:350px; height:350px; float: right;">
   <img src="/code/teachingevaluations/out/lehrewordcloud.png" width="350" height="350" alt="Student evaluations" style="display: block; margin: auto;">
   <figcaption style="text-align: center;">Student evaluations of my courses</figcaption>
 </div>
 
-- Summer 2020: Längsschnittdatenanalyse und Kausalität
-- Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen
-- Summer 2019: Analyzing longitudinal data and the issue of causality
-- Winter 2018/19: Quantitative comparative social research with multi-level modeling
-- Summer 2018: An applied introduction into quantitative comparative social research
-- Winter 2017/18: Analysis of cross-sectional data (as tutor)
-- Summer 2017: Analysis of longitudinal data (as tutor)
-- Winter 2016/17: Analysis of cross-sectional data (as tutor)
-- Summer 2016: Analysis of longitudinal data (as tutor)
+- Summer 2020: Längsschnittdatenanalyse und Kausalität, GU
+- Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen, GU
+- Summer 2019: Analyzing longitudinal data and the issue of causality, GU
+- Winter 2018/19: Quantitative comparative social research with multi-level modeling, GU
+- Summer 2018: An applied introduction into quantitative comparative social research, GU
+- Winter 2017/18: Analysis of cross-sectional data (as tutor), University of Cologne (UzK)
+- Summer 2017: Analysis of longitudinal data (as tutor), UzK
+- Winter 2016/17: Analysis of cross-sectional data (as tutor), UzK
+- Summer 2016: Analysis of longitudinal data (as tutor), UzK
 

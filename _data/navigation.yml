@@ -4,7 +4,7 @@ main:
     url: /cv/
 
   - title: "Publications"
-    url: /research/
+    url: /publications/
 
   - title: "Media"
     url: /media/
@@ -13,5 +13,5 @@ main:
     url: /presentations/
 
   - title: "Teaching"
-    url: /teach/
+    url: /teaching/
 

@@ -10,8 +10,7 @@ cit <- get_citation_history(id) # citations
 
 fsize <- 16 # font size
 
-# Plot
-clr <- "#494e52"
+clr <- "#2a2e31"
 
 ggplot(cit, aes(x = year, y = cites)) +
   geom_bar(stat = "identity", fill = clr) +
@@ -21,7 +20,7 @@ ggplot(cit, aes(x = year, y = cites)) +
     y = NULL,
     caption = paste0("<b>Total citations: ", profile$total_cites, "</b>",
                      "; H-index: ", profile$h_index,
-                     " (", format(Sys.time(), "%B %Y)"))) +
+                     "<br>", format(Sys.time(), "%B %Y"))) +
   xlab(NULL) +
   scale_x_continuous(breaks = unique(cit$year)) +
   theme(
@@ -35,7 +34,7 @@ ggplot(cit, aes(x = year, y = cites)) +
     panel.background = element_blank(),
     axis.text.x = element_text(angle = 45, hjust = 1),
     # plot.title = element_text(size = fsize),
-    plot.caption = ggtext::element_markdown(size = fsize, hjust = 0.5, color = clr),
+    plot.caption = ggtext::element_markdown(size = fsize * 1.5 hjust = 0.5, color = clr),
     plot.background = element_rect(fill = "transparent", color = NA))
 
 png("czymara_scholar_citations.png",

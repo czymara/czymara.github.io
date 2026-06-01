@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  29 MAY 2026 22:32
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  31 MAY 2026 12:37
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -412,12 +412,6 @@ LaTeX Font Info:    Trying to load font information for TU+academicons on input
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 178.
-LaTeX Font Info:    Font shape `U/eurosym/m/sc' in size <10.95> not available
-(Font)              Font shape `U/eurosym/m/n' tried instead on input line 178.
-
-
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 224--226
 
@@ -443,6 +437,8 @@ Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 24
 Package marginnote Info: right page because not two side mode on input line 246
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 246.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 246.
 Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 24
 8.
 Package marginnote Info: right page because not two side mode on input line 248
@@ -647,14 +643,14 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13755 strings out of 476447
+ 13754 strings out of 476447
  125027,1977958 words of node,token memory allocated
  641 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 25 attribute, 53 glue_spec
 , 25 attribute_list, 1 write, 21 pdf_action nodes
    avail lists: 1:1,2:1032,3:374,4:192,5:779,6:88,7:8293,8:2,9:555,10:7,11:658
- 35659 multiletter control sequences out of 65536+600000
- 43 fonts using 3201743 bytes
+ 35658 multiletter control sequences out of 65536+600000
+ 43 fonts using 3201423 bytes
  74i,15n,77p,1086b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditali
 c.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmromanslant1
@@ -670,7 +666,7 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (10 pages, 111315 bytes).
+Output written on cczymara_cv.pdf (10 pages, 110546 bytes).
 
 PDF statistics: 265 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams

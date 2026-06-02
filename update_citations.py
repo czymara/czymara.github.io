@@ -85,9 +85,10 @@ except Exception as e:
     print(f"✗ Could not fetch from Google Scholar: {e}")
     if existing:
         print(f"  Keeping existing data from {existing.get('updated','unknown')}.")
+        sys.exit(0)
     else:
         print("  No existing data to fall back on.")
-    sys.exit(1)
+        sys.exit(1)
 
 # ── save JSON ────────────────────────────────────────────────────────────────
 out = {

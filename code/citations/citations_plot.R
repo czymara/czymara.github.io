@@ -1,47 +1,12 @@
 library(scholar)
 library(ggplot2)
 library(ggtext)
-library(jsonlite)
 
 id <- "khPqHmgAAAAJ"
 
-# Try to fetch from Google Scholar; fall back to cached data if blocked
-scholar_blocked <- FALSE
-profile <- NULL
-cit <- NULL
+profile <- get_profile(id) # profile
 
-tryCatch({
-  profile <- get_profile(id)
-  cit <- get_citation_history(id)
-  message("✓ Fetched live data from Google Scholar")
-}, error = function(e) {
-  message("✗ Could not fetch from Google Scholar: ", conditionMessage(e))
-  message("  Using cached data from _data/scholar.json")
-  scholar_blocked <<- TRUE
-})
-
-# If Scholar blocked, read from cached JSON
-if (scholar_blocked) {
-  json_path <- "../../_data/scholar.json"
-  if (file.exists(json_path)) {
-    scholar_data <- fromJSON(json_path, simplifyVector = FALSE)
-    # Convert to list and extract values properly
-    profile <- list(
-      total_cites = as.integer(scholar_data$citations),
-      h_index = as.integer(scholar_data$h_index)
-    )
-    # Create approximate citation history using cached total
-    # In reality, this plot will be stale, but that's better than failing
-    years <- 2015:as.integer(format(Sys.Date(), "%Y"))
-    # Simple linear-ish growth approximation
-    total_cites <- as.integer(scholar_data$citations)
-    base_growth <- seq(5, total_cites, length.out = length(years))
-    cit <- data.frame(year = years, cites = as.integer(base_growth))
-    message("✓ Using cached profile and generated citation history")
-  } else {
-    stop("No cached data available in _data/scholar.json")
-  }
-}
+cit <- get_citation_history(id) # citations
 
 fsize <- 16 # font size
 

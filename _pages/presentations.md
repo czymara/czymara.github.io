@@ -6,7 +6,7 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Presentation at the conference of the [European Consortium for Sociological Research](https://www.ecsr2026.net/), Trinity College 🇮🇪 on 15.-17. June 2026
+TBA
 
 Past Talks (Selection)
 ------

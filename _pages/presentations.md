@@ -6,7 +6,7 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-TBA
+- Presentation at the *Jahrestreﬀen des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen*, 22. Oct 2026, Universität Münster 🇩🇪.
 
 Past Talks (Selection)
 ------

@@ -13,8 +13,8 @@ Professional Experience (since PhD)
 | Period               | Position               | Institution                                                                                                                        |
 |----------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Feb 2025 – present   | Senior Researcher      | Netherlands Interdisciplinary Demographic Institute 🇳🇱                                                 |
-| Oct 2022 – Sep 2024  | Postdoctoral Fellow    | Tel Aviv University 🇮🇱                                                                                                                     |
 | May 2018 – Jan 2025  | Researcher and Lecturer | Goethe University Frankfurt 🇩🇪                                                                                                             |
+| Oct 2022 – Sep 2024  | Postdoctoral Fellow    | Tel Aviv University 🇮🇱                                                                                                                     |
 
 Education
 ------
@@ -28,4 +28,6 @@ Education
 Full CV
 ------
 
-<iframe src="https://czymara.com/cv/cczymara_cv.pdf" width="900" height="600"></iframe>
+[Download my full CV (PDF)](https://czymara.com/cv/cczymara_cv.pdf)
+
+<iframe src="https://czymara.com/cv/cczymara_cv.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Curriculum Vitae of Christian S. Czymara"></iframe>

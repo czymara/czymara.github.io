@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "nl"
+locale                   : "en"
 site_theme               : "default" # The available themes are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Christian S. Czymara"
 title_separator          : "-"
 name                     : &name "Dr. Christian S. Czymara"
-description              : &description "Social Cohesion, Migration, Intergroup Relations, Data Analysis, Computational Social Science"
+description              : &description "Senior Researcher at NIDI studying social cohesion and migration with quantitative and computational methods"
 url                      : https://www.czymara.com # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "czymara/czymara.github.io"
@@ -140,7 +140,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "/images/christian_czymara_web.jpg"  # Open Graph/Twitter default site image
-og_description           :  # Social media default site description
+og_description           : *description  # Social media default site description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

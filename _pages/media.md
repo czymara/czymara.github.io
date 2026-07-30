@@ -1,5 +1,5 @@
 ---
-title: "Features in Media and Politics"
+title: "Features in Media and Policy"
 permalink: /media/
 ---
 
@@ -18,6 +18,7 @@ Policy institutions
 Media coverage: Migration
 ------
 
+- [Science Media Center Germany, 20 Jul 2026](https://sciencemediacenter.de/angebote/kann-politische-rhetorik-einstellungen-zu-migration-veraendern-26175): Kann politische Rhetorik Einstellungen zu Migration verändern?
 - [Die Zeit Was jetzt? Podcast, 30 Aug 2025](https://www.zeit.de/gesellschaft/2025-08/gefluechtete-2015-wir-schaffen-das-10-jahre-migration-nachrichtenpodcast): Geflüchtete von 2015: "Man hat gedacht, dass man zu Hause ist"
 - [El País, 12 Aug 2025](https://elpais.com/opinion/2025-08-12/opiniones-migrantes.html): Opiniones migrantes
 - [Katapult, 03 Apr 2025](https://katapult-magazin.de/de/karten/artikel/rechtsextremismus-bekaempfen/8.jpg): Rechtsextremismus bekämpfen
@@ -26,19 +27,20 @@ Media coverage: Migration
 - [The Hill, 07 May 2024](https://thehill.com/opinion/international/4754571-french-election-national-rally/): The far right is gaining ground in France’s elections, and its opponents paved the way
 - [Alternatives Economiques, 01 Mar 2024](https://www.alternatives-economiques.fr/imiter-lextreme-lui-prendre-voix-un-tres-mauvais-calcul-ele/00109847): Imiter l’extrême droite pour lui prendre des voix, un très mauvais calcul électoral
 - [ReliefWeb, 17 Jan 2024](https://reliefweb.int/report/world/why-integration-monitoring-matters-and-how-implement-it-effectively): Why integration monitoring matters and how to implement it effectively
+- [Berliner Landeszentrale für politische Bildung, 10 Nov 2023](https://www.berlin.de/politische-bildung/politikportal/blog/artikel.1383638.php): Ausgrenzungsrhetorik etablierter Parteien stärkt Rückhalt für rechtsextreme Parteien
 - [blogs.lse.ac.uk, 08 Jun 2023](https://blogs.lse.ac.uk/psychologylse/2023/06/08/building-bridges-how-to-overcome-polarisation/): Building bridges: How to overcome polarisation
 - [verfassungsblog.de, 26 May 2023](https://verfassungsblog.de/soviel-zum-thema-interkulturelle-kompetenz/): Soviel zum Thema Interkulturelle Kompetenz
 - [higgs.ch, 31 May 2022](https://www.higgs.ch/warum-gefluechtete-der-polizei-mit-der-zeit-weniger-vertrauen/51458/): Warum Geflüchtete der Polizei mit der Zeit weniger vertrauen
 - [phys.org, 20 May 2022](https://phys.org/news/2022-05-immigrants-police-locals-wanes.html): Study finds immigrants initially trust police more than locals, but that trust wanes over time
-- Rhein-Main Zeitung (print), May 2022, Migranten verlieren Vertrauen in Polizei
+- Rhein-Main Zeitung (print), May 2022: Migranten verlieren Vertrauen in Polizei
 - [csmonitor.com, 28 Apr 2022](https://www.csmonitor.com/World/Europe/2022/0428/Moral-nation-Why-Germany-changed-course-so-radically-on-Russia): Moral nation? Why Germany changed course so radically on Russia
 - Frankfurter Allgemeine Zeitung (print), 10 Aug 2016: Kulturferne Migranten, nein danke?
 
 Media coverage: COVID-19
 ------
 
-- ProSieben (tv), 27 Jan 2021: [Deutschland fragt zu Corona](https://www.facebook.com/ProSieben/photos/a.437610102920/10158221703007921)
+- [ProSieben (tv), 27 Jan 2021](https://www.facebook.com/ProSieben/photos/a.437610102920/10158221703007921): Deutschland fragt zu Corona
 - Hochheimer Zeitung (print), 18 Sep 2020: Sorgen und Ängste; studie Auswirkungen der Pandemie-Verordnung auf Männer und Frauen
-- Frankfurter Neue Presse (print): 14 Sep 2020, Soziologen: Frauen sind die Corona-Verlierer
+- Frankfurter Neue Presse (print), 14 Sep 2020: Soziologen: Frauen sind die Corona-Verlierer
 - [faz.net, 12 Sep 2020](https://www.faz.net/aktuell/rhein-main/soziologen-der-uni-frankfurt-corona-krise-bestaetigt-traditionelle-rollenmuster-16948955.html): Frauen sorgen sich um Kinder, Männer um das Geld
 

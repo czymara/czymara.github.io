@@ -6,7 +6,7 @@ permalink: /presentations/
 Upcoming Talks
 ------
 
-- Presentation at the *Jahrestreﬀen des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen*, 22. Oct 2026, Universität Münster 🇩🇪.
+- Presentation at the *Jahrestreffen des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen*, 22 Oct 2026, University of Münster 🇩🇪.
 
 Past Talks (Selection)
 ------

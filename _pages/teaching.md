@@ -8,9 +8,9 @@ redirect_from:
 <style>.page__title { display: none; }</style>
 <img src="/images/czymara_courses_logo.png" alt="Czymara Courses Logo" style="width: 100%; display: block; margin-bottom: 1.2em;">
 
-I specialize in teaching courses focused on quantitative methods and research design to social science students. My teaching portfolio spans several years and includes experience at multiple institutions and in diverse educational formats. The student evaluations showcased below reflect the consistent positive reception of my courses.
+I teach quantitative methods and research design to social science students (full-semester courses, condensed research trainings, summer schools, and workshops) at Goethe University Frankfurt, the University of Cologne, and elsewhere, with a mean student evaluation of 1.5 (1.0 being the best score).
 
-I have provided a curated list of courses below, accompanied by a brief overview of my teaching experience. For a collection of my teaching repositories, please visit [Czymara Courses](https://github.com/czymaraclass).
+Below is a selection of courses with materials in open access. For a collection of my teaching repositories, please visit [Czymara Courses](https://github.com/czymaraclass).
 
 Open-access Full Courses and Research Trainings
 ======
@@ -38,45 +38,47 @@ Open-access Short Courses
 Introductions to R and Python
 ------
 
-If you're interested in mastering the basics of R and Python, I've created interactive Colabs to help you build an intuitive understanding of [R](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_R.ipynb)'s core logic and essential functions, along with their [Python](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_Python.ipynb). equivalents.
+If you're interested in mastering the basics of R and Python, I've created interactive Colabs to help you build an intuitive understanding of [R](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_R.ipynb)'s core logic and essential functions, along with their [Python](https://colab.research.google.com/github/czymaraclass/intros/blob/main/Intro_to_Python.ipynb) equivalents.
 
 Topic Modelling
 ------
 
 My workshop [Topic Modelling in R and Python](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.k2gh03lf4lre), part of the [Workshops for Ukraine](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine) series, is freely accessible. You can find the workshop slides [here](https://czymaraclass.github.io/TopicModelling/topic_models_Ukraine_23.html#/title-slide). For a hands-on experience, explore the interactive Colab notebooks: the first Colab focuses on [R implementations](https://colab.research.google.com/github/czymaraclass/TopicModelling/blob/main/topic_models_R.ipynb), the second covers [Python applications](https://colab.research.google.com/github/czymaraclass/TopicModelling/blob/main/topic_models_BERTopic.ipynb). These materials provide practical guidance for applying topic modeling techniques in both R and Python, using real newspaper texts as examples.
 
-Evaluations
+Courses Taught
 ======
+
+*Student evaluations in parentheses; 1.0 is the best possible score. Goethe University Frankfurt used a 1–6 scale, the University of Cologne a 1–5 scale.*
 
 <img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" alt="Teaching evaluation scores over time" style="float:right; margin-left:1em;">
 
 - Apr 2026: Introduction to Migration & Migrants Research (PhD course), NIDI
 - Jan 2026: Migration, Families and Households (MA Population Studies, guest lecture), University of Groningen
-- Jun 2025: Von Nationen und Narrativen: Identitäten in multiethnischen Gesellschaften (Ringvorlesung), Johannes Gutenberg University Mainz
-- Winter 2024/25: Computational Social Science, Goethe University Frankfurt (GU)
+- Jun 2025: Von Nationen und Narrativen: Identitäten in multiethnischen Gesellschaften (*Of Nations and Narratives: Identities in Multi-ethnic Societies*, Ringvorlesung), Johannes Gutenberg University Mainz
+- Winter 2024/25: Computational Social Science, Goethe University Frankfurt (GU) (1.2/6)
 - Oct 2023: Introduction to Topic Modelling in R and Python, Workshops for Ukraine (online)
-- Aug 2023: Einführung in die Panelregression, DeZIM Summer School
+- Aug 2023: Einführung in die Panelregression (*Introduction to Panel Regression*), DeZIM Summer School
 - Jul 2023: BIGSSS Summer School on Computational Social Science of Democratic Debate: Topic Models, Constructor University
 - Jan 2023: IGS3 Excellence group (guest lecture), Tel Aviv University
-- Summer 2022: Längsschnittdatenanalyse in R, GU
-- Winter 2021/22: Vergleichende Sozialforschung mit Mehrebenenmodellen in R, GU
+- Summer 2022: Längsschnittdatenanalyse in R (*Longitudinal Data Analysis in R*), GU (1.5/6)
+- Winter 2021/22: Vergleichende Sozialforschung mit Mehrebenenmodellen in R (*Comparative Social Research with Multilevel Models in R*), GU (1.8/6)
 - Aug 2021: Multilevel Analysis, Frankfurt Digital Summer School
-- Summer 2021: Lägsschnittdatenanalyse und Kausalität, GU
-- Jun 2021: Politische Soziologie I (guest lecture), University of Bamberg (online)
-- Winter 2020/21: Längsschnittdatenanalyse und Kausalität, GU
+- Summer 2021: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.2/6)
+- Jun 2021: Politische Soziologie I (*Political Sociology I*, guest lecture), University of Bamberg (online)
+- Winter 2020/21: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.2/6)
 
 <div style="width:350px; height:350px; float: right;">
   <img src="/code/teachingevaluations/out/lehrewordcloud.png" width="350" height="350" alt="Student evaluations" style="display: block; margin: auto;">
   <figcaption style="text-align: center;">Student evaluations of my courses</figcaption>
 </div>
 
-- Summer 2020: Längsschnittdatenanalyse und Kausalität, GU
-- Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen, GU
-- Summer 2019: Analyzing longitudinal data and the issue of causality, GU
-- Winter 2018/19: Quantitative comparative social research with multi-level modeling, GU
-- Summer 2018: An applied introduction into quantitative comparative social research, GU
-- Winter 2017/18: Analysis of cross-sectional data (as tutor), University of Cologne (UzK)
+- Summer 2020: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.4/6)
+- Winter 2019/20: Vergleichende Sozialforschung mit Mehrebenenmodellen (*Comparative Social Research with Multilevel Models*), GU (1.5/6)
+- Summer 2019: Analyzing longitudinal data and the issue of causality, GU (1.4/6)
+- Winter 2018/19: Quantitative comparative social research with multi-level modeling, GU (1.6/6)
+- Summer 2018: An applied introduction into quantitative comparative social research, GU (1.7/5)
+- Winter 2017/18: Analysis of cross-sectional data (as tutor), University of Cologne (UzK) (1.4/5)
 - Summer 2017: Analysis of longitudinal data (as tutor), UzK
-- Winter 2016/17: Analysis of cross-sectional data (as tutor), UzK
-- Summer 2016: Analysis of longitudinal data (as tutor), UzK
+- Winter 2016/17: Analysis of cross-sectional data (as tutor), UzK (1.6/5)
+- Summer 2016: Analysis of longitudinal data (as tutor), UzK (2.0/5)
 

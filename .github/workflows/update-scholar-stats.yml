@@ -29,6 +29,11 @@ jobs:
         run: pip install scholarly pyyaml matplotlib
 
       - name: Fetch Google Scholar stats
+        # Being blocked by Scholar is the normal case, not a broken build.
+        # continue-on-error keeps the run green so you don't get a failure
+        # email four times a day; the step log still shows what happened,
+        # and the commit step below simply finds nothing to commit.
+        continue-on-error: true
         run: python scripts/fetch_scholar_stats.py
 
       - name: Commit updated stats (if changed)

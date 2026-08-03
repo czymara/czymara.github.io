@@ -4,3 +4,4 @@ files/pres/*.qmd
 .Rhistory
 domain_settings.txt
 evaluations.txt
+__pycache__/

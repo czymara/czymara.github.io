@@ -27,7 +27,7 @@ permalink: /publications/
 .abstract-toggle:hover { text-decoration: underline; }
 </style>
 
-<a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> All my studies are openly accessible below. Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes. For a thematic overview of what these studies argue, see my [research](/research/) page.
+<a href="https://osf.io/b3ugm/" target="_blank"><img src="/images/materials_highQuality.png" width="100" height="100" alt="Open Science Framework badge" style="float:left; margin-right:1em;"></a> All my studies are openly accessible below. Adhering to the idea of transparent and replicable research, I always upload the code of my published studies to the [Open Science Framework](https://osf.io/b3ugm/). Feel free to use any material for secondary analyses, teaching, or other purposes.
 
 ## Peer-reviewed Journal Articles
 

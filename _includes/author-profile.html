@@ -47,11 +47,29 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
         {% assign scholar = site.data.scholar %}
-        {% if scholar and scholar.citations > 0 %}
-        <li style="list-style:none; padding: 6px 0 0 0;">
-          <a href="{{ author.googlescholar }}" target="_blank">
-            <img src="/code/citations/czymara_scholar_citations.png" alt="Citation count over time" style="width:100%; max-width:200px; display:block;">
+        {% if scholar and scholar.citations_all > 0 %}
+        <li class="scholar-stats-item">
+          <div class="scholar-stats">
+            <div class="scholar-stat">
+              <span class="scholar-stat-value">{{ scholar.citations_all }}</span>
+              <span class="scholar-stat-label">Citations</span>
+              <span class="scholar-stat-sub">{{ scholar.citations_recent }} since {{ scholar.since_year }}</span>
+            </div>
+            <div class="scholar-stat">
+              <span class="scholar-stat-value">{{ scholar.hindex_all }}</span>
+              <span class="scholar-stat-label">h-index</span>
+              <span class="scholar-stat-sub">{{ scholar.hindex_recent }} since {{ scholar.since_year }}</span>
+            </div>
+            <div class="scholar-stat">
+              <span class="scholar-stat-value">{{ scholar.i10index_all }}</span>
+              <span class="scholar-stat-label">i10-index</span>
+              <span class="scholar-stat-sub">{{ scholar.i10index_recent }} since {{ scholar.since_year }}</span>
+            </div>
+          </div>
+          <a href="{{ scholar.profile_url | default: author.googlescholar }}" target="_blank" rel="noopener">
+            <img src="{{ base_path }}/code/citations/czymara_scholar_citations.png" alt="Citations per year" class="scholar-chart">
           </a>
+          <p class="scholar-caption">Source: Google Scholar &middot; updated {{ scholar.last_updated }}</p>
         </li>
         {% endif %}
       {% endif %}

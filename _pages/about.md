@@ -18,7 +18,7 @@ redirect_from:
 
 I am a Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (Royal Netherlands Academy of Arts and Sciences), working in the *Migration* and *Open Science* Departments, and affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en).
 
-My [research](/research/) focuses on social cohesion in ethnically diverse societies, and I approach it from two directions. The first examines what mass media and political elites say about migration, what the public thinks, and how the two are connected. The second concerns relations among ethinic minority groups and the views they hold. Methodologically, I combine advanced survey analysis with computational text analysis.
+My [research](/research/) focuses on social cohesion in ethnically diverse societies, and I approach it from two directions. The first examines what the public thinks about migration, what the media writes, and how the two are connected. The second concerns relations among ethinic minority groups and the views they hold. Methodologically, I combine advanced survey analysis with computational social science methods.
 
 Two current projects carry this agenda forward: [Crossing Boundaries](https://www.nwo.nl/en/projects/tqapl20708), funded by the Dutch Research Council, and [social cohesion in ethnically diverse schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/) as part of [SOCION](https://socion-program.org/people/christian-czymara/).
 

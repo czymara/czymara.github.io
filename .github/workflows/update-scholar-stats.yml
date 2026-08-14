@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # needed to dispatch the Pages build below
 
 concurrency:
   group: scholar-stats
@@ -37,6 +38,8 @@ jobs:
         run: python scripts/fetch_scholar_stats.py
 
       - name: Commit updated stats (if changed)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -44,9 +47,13 @@ jobs:
           if git diff --cached --quiet; then
             echo "No change in citation stats today."
           else
-            # No [skip ci] here on purpose: the commit must trigger
-            # jekyll.yml so the new numbers actually reach the live site.
             git commit -m "Update Google Scholar stats"
             git pull --rebase origin master
             git push
+            # A push made with GITHUB_TOKEN deliberately does NOT trigger
+            # other workflows, so jekyll.yml would never see this commit and
+            # the live site would keep serving the old numbers. workflow_dispatch
+            # is exempt from that rule, so we kick off the Pages build by hand.
+            gh workflow run jekyll.yml --ref master
+            echo "Triggered Pages rebuild."
           fi

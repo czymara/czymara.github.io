@@ -26,10 +26,10 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 
 SCHOLAR_USER_ID = "khPqHmgAAAAJ"
-ATTEMPTS = 4          # Scholar blocks intermittently, so retry a few times
+ATTEMPTS = 6          # Scholar blocks intermittently, so retry a few times
 BACKOFF_SECONDS = 20
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -39,18 +39,61 @@ CHART_PATH = os.path.join(REPO_ROOT, "code", "citations", "czymara_scholar_citat
 BAR_COLOR = "#2a2e31"  # inverted to light by the dark-mode CSS in _includes/head/custom.html
 
 
+def _enable_free_proxies():
+    """Route scholarly through free public proxies.
+
+    Google Scholar blocks GitHub's IP ranges, which is why a direct request
+    from Actions usually fails. Requests routed through a proxy come from a
+    different address and often get through. The proxy list is free and
+    flaky, so this is best-effort: it returns False if no usable proxy is
+    found and the caller just carries on directly.
+    """
+    try:
+        pg = ProxyGenerator()
+        if pg.FreeProxies():
+            scholarly.use_proxy(pg)
+            return True
+        print("No usable free proxy found.", file=sys.stderr)
+    except Exception as exc:
+        print(f"Could not set up proxies: {exc}", file=sys.stderr)
+    return False
+
+
+def _fetch_once():
+    author = scholarly.search_author_id(SCHOLAR_USER_ID)
+    return scholarly.fill(author, sections=["indices", "counts"])
+
+
 def fetch_author():
-    """Fetch and fill the Scholar profile, retrying on transient blocks."""
+    """Fetch the Scholar profile: once directly, then via rotating proxies.
+
+    The direct attempt is fast and clean on the rare runs where Scholar
+    isn't blocking. Every attempt after that goes through a different free
+    proxy, which is what gets us past the block on the usual runs.
+    """
     last_error = None
+    proxies_on = False
+
     for attempt in range(1, ATTEMPTS + 1):
         try:
-            author = scholarly.search_author_id(SCHOLAR_USER_ID)
-            return scholarly.fill(author, sections=["indices", "counts"])
+            return _fetch_once()
         except Exception as exc:  # scholarly raises a variety of types
             last_error = exc
-            print(f"Attempt {attempt}/{ATTEMPTS} failed: {exc}", file=sys.stderr)
-            if attempt < ATTEMPTS:
-                time.sleep(BACKOFF_SECONDS * attempt)
+            route = "via proxy" if proxies_on else "direct"
+            print(f"Attempt {attempt}/{ATTEMPTS} ({route}) failed: {exc}", file=sys.stderr)
+
+            if attempt >= ATTEMPTS:
+                break
+
+            # After the direct attempt fails, switch to proxies and stay on
+            # them; each retry picks up a different address.
+            if not proxies_on:
+                proxies_on = _enable_free_proxies()
+                if proxies_on:
+                    print("Retrying through free proxies.", file=sys.stderr)
+                    continue  # try immediately on the new route, no backoff
+            time.sleep(BACKOFF_SECONDS)
+
     raise RuntimeError(f"Could not fetch Google Scholar profile: {last_error}")
 
 

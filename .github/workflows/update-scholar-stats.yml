@@ -19,15 +19,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install scholarly pyyaml matplotlib
+        # httpx must stay below 0.28: it dropped the `proxies` argument that
+        # scholarly's ProxyGenerator still passes, which breaks FreeProxies()
+        # with "Client.__init__() got an unexpected keyword argument 'proxies'".
+        run: pip install scholarly pyyaml matplotlib "httpx<0.28"
 
       - name: Fetch Google Scholar stats
         # Being blocked by Scholar is the normal case, not a broken build.

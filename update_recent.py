@@ -48,10 +48,10 @@ for entry in entries[:N]:
     venue = html.unescape(re.sub(r"<[^>]+>", "", venue.group(1)).strip()) if venue else ""
 
     # title: between the year in parentheses and the venue
-    title = re.search(r"\(\d{4}[a-z]?\)\.\s*(.*?)\.\s*$", citation.split(venue)[0].strip())
+    title = re.search(r"\((?:\d{4}[a-z]?|forthcoming)\)\.\s*(.*?)\.\s*$", citation.split(venue)[0].strip())
     title = title.group(1).strip() if title else ""
 
-    year = re.search(r"\((\d{4})[a-z]?\)", citation)
+    year = re.search(r"\((\d{4}|forthcoming)[a-z]?\)", citation)
     year = year.group(1) if year else ""
 
     link = re.search(r'href="(https?://(?:doi\.org|osf\.io)[^"]*)"', entry)

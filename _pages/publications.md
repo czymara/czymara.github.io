@@ -33,6 +33,25 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
+    <div class="pub-text"><span class="pub-num">29.</span> de Lange, M., &amp; <u>Czymara</u>, C. S. (forthcoming). Hoe Nederlanders met én zonder migratieachtergrond naar immigranten kijken. <em><strong>DEMOS: Bulletin over Bevolking en Samenleving</strong></em>.</div>
+    <div class="pub-badge"></div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-grid">
+    <div class="pub-text"><span class="pub-num">28.</span> <u>Czymara</u>, C. S. (forthcoming). Public responses to jihadist terrorism on social media. <em><strong>Social Sciences &amp; Humanities Open</strong></em>.</div>
+    <div class="pub-badge"></div>
+  </div>
+  <div class="pub-links">
+    <a href="https://osf.io/preprints/socarxiv/fkue4_v2" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> Preprint</a>
+  
+  </div>
+
+</div>
+
+<div class="pub-entry">
+  <div class="pub-grid">
     <div class="pub-text"><span class="pub-num">27.</span> Brodeur, A., &amp; 100+ co-authors (2026). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. <em><strong>Proceedings of the National Academy of Sciences</strong></em> 123(22).</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1073/pnas.2524747123" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
@@ -548,21 +567,6 @@ permalink: /publications/
   </div>
 
   <div class="pub-abstract">This chapter advances a theoretical framework to understand within- and between-country variation in the level of stigmatization experienced by immigrant groups and their descendants over time. Since processes of stigmatization and destigmatization may unfold over generations, it is imperative for research to adopt a longer time horizon to identify the factors that lead to the emergence, persistence, and/or dissipation of stigma. Based on the observation that the labeling of some groups as 'migrants' does not always follow from actual histories of immigration, this framework treats 'migrant' as a social category. To guide future empirical research, this chapter introduces two analytical models. The first identifies the factors and processes responsible for stigmatization or destigmatization over time. The second presents five ideal-typical pathways that immigrants and their descendants may experience in relation to stigma: non-emergence, increase, reinforcement, reduction, and status reversal.</div>
-</div>
-
-
-## Preprints
-
-<div class="pub-entry">
-  <div class="pub-grid">
-    <div class="pub-text"><u>Czymara</u>, C. S. Public Responses to Jihadist Terrorism on Social Media. <em><strong>SocArXiv</strong></em>.</div>
-    <div class="pub-badge"></div>
-  </div>
-  <div class="pub-links">
-    <a href="https://osf.io/preprints/socarxiv/fkue4_v2" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
-  
-  </div>
-
 </div>
 
 

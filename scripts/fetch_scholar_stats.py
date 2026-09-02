@@ -104,6 +104,8 @@ def build_stats(author):
         "citations_recent": author.get("citedby5y", 0),
         "hindex_all": author.get("hindex", 0),
         "hindex_recent": author.get("hindex5y", 0),
+        "i10_all": author.get("i10index", 0),
+        "i10_recent": author.get("i10index5y", 0),
         "since_year": current_year - 5,
         "profile_url": f"https://scholar.google.de/citations?user={SCHOLAR_USER_ID}",
     }

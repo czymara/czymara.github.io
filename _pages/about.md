@@ -32,7 +32,7 @@ Before joining NIDI, I worked at Goethe University Frankfurt, Tel Aviv Universit
 <div class="recent">
   <div class="recent-head">Recent publications</div>
   {% for item in site.data.recent %}
-  <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="venue"><em>{{ item.venue }}</em>, {{ item.year }}</span></p>
+  <p>{% if item.url != blank %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %} <span class="venue"><em>{{ item.venue }}</em>, {{ item.year }}</span></p>
   {% endfor %}
 </div>
 {% endif %}

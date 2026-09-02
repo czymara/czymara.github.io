@@ -33,21 +33,25 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">29.</span> de Lange, M., &amp; <u>Czymara</u>, C. S. (forthcoming). Hoe Nederlanders met én zonder migratieachtergrond naar immigranten kijken. <em><strong>DEMOS: Bulletin over Bevolking en Samenleving</strong></em>.</div>
+    <div class="pub-text"><span class="pub-num">29.</span> de Lange, M., &amp; <u>Czymara</u>, C. S. (forthcoming). Hoe Nederlanders met én zonder migratieachtergrond naar immigranten kijken. <em><strong>Demos: Bulletin over Bevolking en Samenleving</strong></em>.</div>
     <div class="pub-badge"></div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">28.</span> <u>Czymara</u>, C. S. (forthcoming). Public responses to jihadist terrorism on social media. <em><strong>Social Sciences &amp; Humanities Open</strong></em>.</div>
-    <div class="pub-badge"></div>
+    <div class="pub-text"><span class="pub-num">28.</span> <u>Czymara</u>, C. S. (2026). Public responses to jihadist terrorism on social media. <em><strong>Social Sciences &amp; Humanities Open</strong></em> 14: 103569.</div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1016/j.ssaho.2026.103569" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
-    <a href="https://osf.io/preprints/socarxiv/fkue4_v2" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> Preprint</a>
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
+    <a href="https://doi.org/10.1016/j.ssaho.2026.103569" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+    <a href="/files/Czymara_2026_Public%20responses%20to%20jihadist%20terrorism%20on%20social%20media.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
+    <a href="/files/Czymara_2026_Public%20responses%20to%20jihadist%20terrorism%20on%20social%20media_appendix.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Appendix</a>
   
   </div>
 
+  <div class="pub-abstract">Over the past decade, several major Jihadist terror attacks have shaken Europe. This study examines how social media users respond to Jihadist terrorism when discussing immigration-related issues from a comparative perspective. The theoretical predictions, derived from integrating theories of terror management, group threat, and social resilience, are empirically tested using LLM-validated Keyword-Assisted Topic Modeling (keyATM). Unlike traditional topic modeling approaches, keyATM is a semi-supervised method that combines data-driven discovery with theory-driven guidance. It incorporates pre-specified keywords, enhancing both the precision and interpretability of results while mitigating the impact of researcher subjectivity. The study is based on over 100,000 time-stamped and geo-coded Tweets on immigration and related issues across four languages in the week following eleven major Islamist terrorist attacks in nine European cities. Consistent with the theoretical predictions, the findings reveal that both threat-related and tolerance-related topics emerge prominently across all four languages. Deeper analyses uncover temporal shifts in the post-attack discourse: While initial reactions often reflect nationalist views (but not prejudice), later stages show a rise in inclusionary and tolerance-oriented topics. These results highlight the dynamic nature of social media debates on migration issues after dramatic events, where initial threat-driven responses often give way to more inclusive and tolerance-oriented discussions as time progresses.</div>
 </div>
 
 <div class="pub-entry">

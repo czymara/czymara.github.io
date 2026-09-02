@@ -3,7 +3,8 @@
 Generate _data/recent.yml for the "Recent" block on the landing page.
 
 Reads _pages/publications.md — the canonical, hand-curated list — and writes
-the newest N peer-reviewed journal articles to _data/recent.yml, which
+the newest N *published* peer-reviewed journal articles to _data/recent.yml
+(entries marked "(forthcoming)" or without a DOI/repository link are skipped), which
 _pages/about.md renders. Nothing is duplicated by hand: edit publications.md
 as usual, run this, commit.
 
@@ -32,11 +33,24 @@ section = source[start:end if end != -1 else len(source)]
 entries = re.findall(r'<div class="pub-entry">(.*?)\n</div>', section, re.S)
 
 items = []
-for entry in entries[:N]:
+for entry in entries:
+    if len(items) == N:
+        break
+
     text = re.search(r'<div class="pub-text">(.*?)</div>', entry, re.S)
     if not text:
         continue
     raw = text.group(1)
+
+    # Only published work belongs here. Accepted-but-unpublished entries carry
+    # "(forthcoming)" instead of a year, and may link only to a preprint.
+    if "(forthcoming)" in raw:
+        continue
+
+    link = re.search(r'href="(https?://(?:doi\.org|osf\.io)[^"]*)"', entry)
+    if not link:
+        continue
+    link = link.group(1)
 
     # citation text without the leading number and without markup
     citation = re.sub(r'<span class="pub-num">.*?</span>', "", raw)
@@ -53,9 +67,6 @@ for entry in entries[:N]:
 
     year = re.search(r"\((\d{4}|forthcoming)[a-z]?\)", citation)
     year = year.group(1) if year else ""
-
-    link = re.search(r'href="(https?://(?:doi\.org|osf\.io)[^"]*)"', entry)
-    link = link.group(1) if link else ""
 
     items.append({"title": title, "venue": venue, "year": year, "url": link})
 

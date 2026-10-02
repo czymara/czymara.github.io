@@ -49,7 +49,7 @@ permalink: /publications/
     <a href="/files/de%20Lange_2026_Hoe%20Nederlanders%20met%20en%20zonder%20migratieachtergrond%20naar%20immigranten%20kijken.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
   </div>
 
-  <div class="pub-abstract">Dit onderzoek is gebaseerd op het project “Crossing boundaries: Migrants’ attitudes toward immigration and their political consequences”. De survey is in maart 2026 uitgevoerd door Ipsos I&amp;O in opdracht van het NIDI-KNAW en gefinancierd door NWO. Het is een grootschalige steekproef die representatief is voor de Nederlandse bevolking zonder migratieachtergrond (1.709 respondenten), en oververtegenwoordigd voor de bevolking met een migratieachtergrond (1.023 eerste-generatie- en 1.129 tweede-generatie-migranten). Van de 11.261 uitgenodigde panelleden leverden er 3.861 een bruikbare vragenlijst op (34 procent), hun antwoorden liggen ten grondslag aan de analyses in dit artikel. Hiermee konden meningsverschillen tussen mensen met en zonder migratieachtergrond worden bestudeerd.</div>
+  <div class="pub-abstract">Meer dan een kwart van de mensen in Nederland heeft een migratieachtergrond, maar hun stem klinkt nauwelijks door in het verhitte migratiedebat. Hoe kijken zij zelf naar migranten, en verschilt dat van mensen zonder migratieachtergrond? Op basis van een enquête onder circa 3.900 Nederlanders met en zonder migratieachtergrond laten we zien dat werk zwaarder weegt dan herkomst of religie, en dat dit geldt voor mensen met én zonder migratieachtergrond — al wegen deze kenmerken bij mensen zonder migratieachtergrond wel zwaarder.</div>
 </div>
 
 <div class="pub-entry">

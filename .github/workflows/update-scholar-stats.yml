@@ -30,7 +30,9 @@ jobs:
         # httpx must stay below 0.28: it dropped the `proxies` argument that
         # scholarly's ProxyGenerator still passes, which breaks FreeProxies()
         # with "Client.__init__() got an unexpected keyword argument 'proxies'".
-        run: pip install scholarly pyyaml matplotlib "httpx<0.28"
+        run: pip install scholarly pyyaml matplotlib "httpx<0.28" "bibtexparser<2"
+        # bibtexparser must stay below 2: 2.x removed bibtexparser.bibdatabase,
+        # which scholarly still imports.
 
       - name: Fetch Google Scholar stats
         # Being blocked by Scholar is the normal case, not a broken build.

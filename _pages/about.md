@@ -16,17 +16,15 @@ redirect_from:
 .recent .venue { color: #555; }
 </style>
 
-I am a Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (Royal Netherlands Academy of Arts and Sciences), working in the *Migration* and *Open Science* Departments, and affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en).
+I am a social scientist researching migration, integration, and social cohesion in ethnically diverse societies. One part of my [research](/research/) examines what the public thinks about migration, what the media writes about it, and how the two are connected. Another part of my research is about the relations between ethnic minority groups and how they perceive each other. Methodologically, I combine advanced survey analysis with computational social science methods.
 
-My [research](/research/) focuses on social cohesion in ethnically diverse societies, and I approach it from two directions. The first examines what the public thinks about migration, what the media writes, and how the two are connected. The second concerns relations among ethinic minority groups and the views they hold. Methodologically, I combine advanced survey analysis with computational social science methods.
+I work as a Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (Royal Netherlands Academy of Arts and Sciences), in the *Migration* and *Open Science* Departments, and I am affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en). Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
 
-Two current projects carry this agenda forward: [Crossing Boundaries](https://www.nwo.nl/en/projects/tqapl20708), funded by the Dutch Research Council, and [social cohesion in ethnically diverse schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/) as part of [SOCION](https://socion-program.org/people/christian-czymara/).
+At the moment, I have two projects: [Crossing Boundaries](https://www.nwo.nl/en/projects/tqapl20708), funded by the Dutch Research Council, and [Rethinking Social Cohesion in Ethnically Diverse Schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/) within the [SOCION](https://socion-program.org/people/christian-czymara/) consortium.
 
-My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/media/). I serve as an Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
+My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/media/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
 
-My [course materials](/teaching/) on multilevel modelling, panel data analysis, and computational social science are openly available.
-
-Before joining NIDI, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
+My [teaching materials](/teaching/) on computational social science, panel data analysis, and multilevel modelling are openly available.
 
 {% if site.data.recent %}
 <div class="recent">

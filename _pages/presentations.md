@@ -7,6 +7,7 @@ Upcoming Talks
 ------
 
 - Presentation at the *Jahrestreffen des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen*, 22 Oct 2026, University of Münster 🇩🇪.
+- Session organizer: *Measuring and Analyzing Social Cohesion in Diverse Societies*, joint 12th *European Survey Research Association* (ESRA) and 80th *World Association for Public Opinion Research* (WAPOR) Conference, 19–23 July 2027, Paris 🇫🇷.
 
 Past Talks (Selection)
 ------

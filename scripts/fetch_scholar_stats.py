@@ -37,6 +37,7 @@ DATA_PATH = os.path.join(REPO_ROOT, "_data", "scholar.yml")
 CHART_PATH = os.path.join(REPO_ROOT, "code", "citations", "czymara_scholar_citations.png")
 
 BAR_COLOR = "#2a2e31"  # inverted to light by the dark-mode CSS in _includes/head/custom.html
+CURRENT_YEAR_COLOR = "#8d9296"  # muted: the current year is still accumulating citations
 
 
 def _enable_free_proxies():
@@ -121,13 +122,17 @@ def render_chart(author, path):
     years = sorted(cites_per_year)
     counts = [cites_per_year[y] for y in years]
 
+    # The running year is incomplete, so it gets a lighter bar.
+    this_year = datetime.datetime.now(timezone.utc).year
+    colors = [CURRENT_YEAR_COLOR if y == this_year else BAR_COLOR for y in years]
+
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
     fig, ax = plt.subplots(figsize=(4.6, 1.9), dpi=200)
-    ax.bar(range(len(years)), counts, color=BAR_COLOR, width=0.65)
+    ax.bar(range(len(years)), counts, color=colors, width=0.65)
 
     ax.set_xticks(range(len(years)))
-    ax.set_xticklabels([str(y) for y in years], fontsize=7, rotation=45, ha="right")
+    ax.set_xticklabels([str(y) for y in years], fontsize=15, rotation=45, ha="right")
     ax.set_yticks([])
     ax.tick_params(axis="x", colors=BAR_COLOR, length=0)
     for spine in ("top", "right", "left"):

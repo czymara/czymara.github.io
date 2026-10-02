@@ -33,8 +33,18 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">29.</span> de Lange, M., &amp; <u>Czymara</u>, C. S. (forthcoming). Hoe Nederlanders met én zonder migratieachtergrond naar immigranten kijken. <em><strong>Demos: Bulletin over Bevolking en Samenleving</strong></em>.</div>
+    <div class="pub-text"><span class="pub-num">30.</span> <u>Czymara</u>, C. S., &amp; Leszczensky, L. (forthcoming). Attitudes toward Jews Among Muslim Youth in Germany: The Diverging Roles of German, Origin, and Religious Identification. <em><strong>Kölner Zeitschrift für Soziologie und Sozialpsychologie</strong></em>.</div>
     <div class="pub-badge"></div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-grid">
+    <div class="pub-text"><span class="pub-num">29.</span> de Lange, M., &amp; <u>Czymara</u>, C. S. (2026). Hoe Nederlanders met én zonder migratieachtergrond naar immigranten kijken. <em><strong>Demos: Bulletin over Bevolking en Samenleving</strong></em> 42(6): 4–7.</div>
+    <div class="pub-badge"></div>
+  </div>
+  <div class="pub-links">
+    <a href="https://nidi.nl/demos/hoe-nederlanders-met-en-zonder-migratieachtergrond-naar-immigranten-kijken/" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
   </div>
 </div>
 

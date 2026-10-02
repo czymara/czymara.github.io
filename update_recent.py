@@ -4,7 +4,7 @@ Generate _data/recent.yml for the "Recent" block on the landing page.
 
 Reads _pages/publications.md — the canonical, hand-curated list — and writes
 the newest N *published* peer-reviewed journal articles to _data/recent.yml
-(entries marked "(forthcoming)" or without a DOI/repository link are skipped), which
+(entries marked "(forthcoming)" or without a "View" link are skipped), which
 _pages/about.md renders. Nothing is duplicated by hand: edit publications.md
 as usual, run this, commit.
 
@@ -43,11 +43,12 @@ for entry in entries:
     raw = text.group(1)
 
     # Only published work belongs here. Accepted-but-unpublished entries carry
-    # "(forthcoming)" instead of a year, and may link only to a preprint.
+    # "(forthcoming)" instead of a year.
     if "(forthcoming)" in raw:
         continue
 
-    link = re.search(r'href="(https?://(?:doi\.org|osf\.io)[^"]*)"', entry)
+    # use whatever the "View" button points to (DOI or other publisher page)
+    link = re.search(r'<a href="(https?://[^"]*)"[^>]*>\s*<i class="fas fa-arrow-up-right-from-square"></i>\s*View</a>', entry)
     if not link:
         continue
     link = link.group(1)

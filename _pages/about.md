@@ -16,7 +16,7 @@ redirect_from:
 .recent .venue { color: #555; }
 </style>
 
-I am a social scientist researching migration, integration, and social cohesion in ethnically diverse societies. One part of my [research](/research/) examines what the public thinks about migration, what the media writes about it, and how the two are connected. Another part of my research is about the relations between ethnic minority groups and how they perceive each other. Methodologically, I combine advanced survey analysis with computational social science methods.
+I am a social scientist researching migration, integration, and social cohesion in ethnically diverse societies. One part of my [research](/research/) examines what the public thinks about migration, what the media writes about it, and how the two are connected. Another part of my research is about the relations between ethnic minority groups and how they perceive each other. Methodologically, I combine advanced survey analysis with computational social science methods. I practice Open Science by making the materials of my publications openly available and by contributing to collaborative work on the robustness of empirical findings.
 
 I work as a Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (Royal Netherlands Academy of Arts and Sciences), in the *Migration* and *Open Science* Departments, and I am affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en). Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
 

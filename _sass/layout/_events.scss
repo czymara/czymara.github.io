@@ -66,6 +66,11 @@ html[data-theme="dark"] .events-sidebar {
 
 /* wide screens: box sits to the right of the text */
 @include breakpoint($large) {
+  /* pages without the box use the full width (the theme reserves 2/12 on the right by default) */
+  .page {
+    padding-right: 0;
+  }
+
   .page--events {
     padding-right: 230px;
   }

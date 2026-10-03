@@ -25,7 +25,7 @@ At the moment, I have two projects: [Crossing Boundaries](https://www.nwo.nl/en/
 
 My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/outreach/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
 
-My [teaching materials](/teaching/) on computational social science, panel data analysis, and multilevel modelling are openly available.
+My [teaching materials](/courses/) on computational social science, panel data analysis, and multilevel modelling are openly available.
 
 {% if site.data.recent %}
 <div class="recent">

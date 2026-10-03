@@ -53,7 +53,7 @@ Open-access Full Courses and Research Trainings
 Computational Social Science
 ------
 
-This full-semester course provides an introduction to computational social science and equips students with the skills to analyze large datasets, apply machine learning models, and use natural language processing for text analysis. It covers the full pipeline of computational data analysis, from data collection and preprocessing to data analysis and interpretation - all based on publicly available data. The course materials are openly accessible in this [GitHub repository](https://github.com/czymaracourses/CSS_WS24).
+This full-semester course provides an introduction to computational social science and equips students with the skills to analyze large datasets, apply machine learning models, and use natural language processing for text analysis. It covers the full pipeline of computational data analysis, from data collection and preprocessing to data analysis and interpretation - all based on publicly available data. The course materials are openly accessible in this [GitHub repository](https://github.com/czymaracourses/CSS).
 
 Longitudinal Data Analysis
 ------

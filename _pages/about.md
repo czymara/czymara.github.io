@@ -9,14 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.recent { margin: 1.6em 0 0 0; padding: 0.8em 1.1em; background: #f8f8f8; border-left: 3px solid #ddd; font-size: 0.88em; line-height: 1.5; }
-.recent .recent-head { font-variant: small-caps; letter-spacing: 0.04em; color: #666; margin-bottom: 0.5em; }
-.recent p { margin: 0 0 0.55em 0; }
-.recent p:last-child { margin-bottom: 0; }
-.recent .venue { color: #555; }
-</style>
-
 I am a social scientist researching migration, integration, and social cohesion in ethnically diverse societies. One part of my [research](/research/) examines what the public thinks about migration, what the media writes about it, and how the two are connected. Another part of my research is about the relations between ethnic minority groups and how they perceive each other. Methodologically, I combine advanced survey analysis with computational social science methods. I practice Open Science by making the materials of my publications openly available and by contributing to collaborative work on the robustness of empirical findings.
 
 I work as a Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (Royal Netherlands Academy of Arts and Sciences), in the *Migration* and *Open Science* Departments, and I am affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en). Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
@@ -28,10 +20,13 @@ My work has been published in journals like Social Forces, European Sociological
 My [teaching materials](/courses/) on computational social science, panel data analysis, and multilevel modelling are openly available.
 
 {% if site.data.recent %}
-<div class="recent">
-  <div class="recent-head">Recent publications</div>
+<div class="recent-box">
+  <div class="recent-box__title">Recent publications</div>
   {% for item in site.data.recent %}
-  <p>{% if item.url != blank %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %} <span class="venue"><em>{{ item.venue }}</em>, {{ item.year }}</span></p>
+  <div class="recent-item">
+    <span class="recent-title">{% if item.url != blank %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</span>
+    <span class="recent-venue"><em>{{ item.venue }}</em></span>
+  </div>
   {% endfor %}
 </div>
 {% endif %}

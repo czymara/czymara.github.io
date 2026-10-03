@@ -1,23 +1,26 @@
 /* ==========================================================================
-   Upcoming events box (_includes/events-sidebar.html)
+   Upcoming events box (_includes/events-sidebar.html) and
+   Recent publications box (_pages/about.md), which share the same card style
    ========================================================================== */
 
 #main {
   position: relative;
 }
 
-.events-sidebar {
+.events-sidebar,
+.recent-box {
   clear: both;
   margin: 1.5em 0;
   padding: 0.9em 1em;
-  background: #f8f8f8;  /* same as the "Recent publications" box (_pages/about.md) */
+  background: #f8f8f8;
   border: 1px solid #ddd;
   border-radius: 6px;
   font-size: $type-size-6;
   line-height: 1.4;
 }
 
-.events-sidebar__title {
+.events-sidebar__title,
+.recent-box__title {
   font-size: 0.85em;
   font-weight: bold;
   text-transform: uppercase;
@@ -28,7 +31,8 @@
   border-bottom: 2px solid var(--global-base-color);
 }
 
-.event-item {
+.event-item,
+.recent-item {
   margin-bottom: 0.7em;
   padding-bottom: 0.7em;
   border-bottom: 1px solid var(--global-dark-border-color);
@@ -46,12 +50,14 @@
   color: var(--global-base-color);
 }
 
-.event-name {
+.event-name,
+.recent-title {
   display: block;
   color: var(--global-text-color);
 }
 
-.event-place {
+.event-place,
+.recent-venue {
   display: block;
   font-size: 0.9em;
   color: var(--global-text-color);
@@ -59,7 +65,8 @@
 }
 
 /* dark mode: keep the dark card */
-html[data-theme="dark"] .events-sidebar {
+html[data-theme="dark"] .events-sidebar,
+html[data-theme="dark"] .recent-box {
   background: var(--global-footer-bg-color);
   border-color: var(--global-border-color);
 }

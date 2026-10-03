@@ -4,6 +4,7 @@ title: "Welcome"
 excerpt: "About me"
 author_profile: true
 events_sidebar: true
+recent_sidebar: true
 redirect_from: 
   - /about/
   - /about.html
@@ -18,15 +19,3 @@ At the moment, I have two projects: [Crossing Boundaries](https://www.nwo.nl/en/
 My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/outreach/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
 
 My [teaching materials](/courses/) on computational social science, panel data analysis, and multilevel modelling are openly available.
-
-{% if site.data.recent %}
-<div class="recent-box">
-  <div class="recent-box__title">Recent publications</div>
-  {% for item in site.data.recent %}
-  <div class="recent-item">
-    <span class="recent-title">{% if item.url != blank %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</span>
-    <span class="recent-venue"><em>{{ item.venue }}</em></span>
-  </div>
-  {% endfor %}
-</div>
-{% endif %}

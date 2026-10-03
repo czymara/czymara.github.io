@@ -1,6 +1,7 @@
 /* ==========================================================================
    Upcoming events box (_includes/events-sidebar.html) and
-   Recent publications box (_pages/about.md), which share the same card style
+   Recent publications box (_includes/recent-sidebar.html), which share the same
+   card style and sit stacked in .right-column (_layouts/single.html)
    ========================================================================== */
 
 #main {
@@ -71,7 +72,7 @@ html[data-theme="dark"] .recent-box {
   border-color: var(--global-border-color);
 }
 
-/* wide screens: box sits to the right of the text */
+/* wide screens: boxes sit to the right of the text, events on top */
 @include breakpoint($large) {
   /* pages without the box use the full width (the theme reserves 2/12 on the right by default) */
   .page {
@@ -82,11 +83,15 @@ html[data-theme="dark"] .recent-box {
     padding-right: 230px;
   }
 
-  .events-sidebar {
+  .right-column {
     position: absolute;
     top: 0;
     right: 1em;
     width: 200px;
-    margin: 0;
+  }
+
+  .events-sidebar,
+  .recent-box {
+    margin: 0 0 1.5em 0;
   }
 }

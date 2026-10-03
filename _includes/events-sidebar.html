@@ -1,0 +1,30 @@
+{% comment %}
+  Upcoming events box, placed to the right of the page content on wide screens
+  and below it on narrow ones. Data: _data/events.yml.
+  Past events are dropped at build time and, between builds, hidden in the browser.
+{% endcomment %}
+{% assign now = site.time | date: "%Y-%m-%d" %}
+{% assign upcoming = site.data.events | where_exp: "e", "e.end >= now" %}
+{% if upcoming.size > 0 %}
+<aside class="events-sidebar" aria-label="Upcoming events">
+  <div class="events-sidebar__title">Upcoming events</div>
+  {% for item in upcoming %}
+  <div class="event-item" data-end="{{ item.end }}">
+    <span class="event-date">{{ item.date }}</span>
+    <span class="event-name">{% if item.url %}<a href="{{ item.url }}">{% endif %}{{ item.name | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if item.url %}</a>{% endif %}</span>
+    <span class="event-place">{{ item.place }}</span>
+  </div>
+  {% endfor %}
+</aside>
+<script>
+(function () {
+  var d = new Date(), today = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  var box = document.querySelector(".events-sidebar");
+  var items = box.querySelectorAll(".event-item[data-end]"), shown = 0;
+  for (var i = 0; i < items.length; i++) {
+    if (items[i].getAttribute("data-end") < today) { items[i].style.display = "none"; } else { shown++; }
+  }
+  if (shown === 0) { box.style.display = "none"; }
+})();
+</script>
+{% endif %}

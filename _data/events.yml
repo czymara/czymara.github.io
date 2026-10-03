@@ -1,0 +1,26 @@
+# Upcoming events shown in the right-hand box on the landing page
+# (rendered by _includes/events-sidebar.html).
+# Add new entries here, in chronological order. An entry disappears
+# automatically once its "end" date has passed.
+#
+# Fields:
+#   date:  date as displayed (free text)
+#   end:   last day of the event, "YYYY-MM-DD" (used to hide past events)
+#   name:  short label (markdown allowed)
+#   place: city / institution
+#   url:   optional link for the name
+
+- date: "22 Oct 2026"
+  end: "2026-10-22"
+  name: "Talk: Netzwerk empirisch-analytische Sozialforschung zu Muslim:innen"
+  place: "University of Münster 🇩🇪"
+
+- date: "4 Jan 2027"
+  end: "2027-01-04"
+  name: "Guest lecture in the course *Migration, Families and Households*"
+  place: "University of Groningen 🇳🇱"
+
+- date: "19–23 Jul 2027"
+  end: "2027-07-23"
+  name: "Session organizer: *Measuring and Analyzing Social Cohesion in Diverse Societies*, ESRA/WAPOR Conference"
+  place: "Paris 🇫🇷"

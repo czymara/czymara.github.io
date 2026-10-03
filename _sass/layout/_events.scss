@@ -1,0 +1,80 @@
+/* ==========================================================================
+   Upcoming events box (_includes/events-sidebar.html)
+   ========================================================================== */
+
+#main {
+  position: relative;
+}
+
+.events-sidebar {
+  clear: both;
+  margin: 1.5em 0;
+  padding: 0.9em 1em;
+  background: #f8f8f8;  /* same as the "Recent publications" box (_pages/about.md) */
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: $type-size-6;
+  line-height: 1.4;
+}
+
+.events-sidebar__title {
+  font-size: 0.85em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--global-text-color);
+  margin-bottom: 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--global-base-color);
+}
+
+.event-item {
+  margin-bottom: 0.7em;
+  padding-bottom: 0.7em;
+  border-bottom: 1px solid var(--global-dark-border-color);
+
+  &:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+.event-date {
+  display: block;
+  font-weight: bold;
+  color: var(--global-base-color);
+}
+
+.event-name {
+  display: block;
+  color: var(--global-text-color);
+}
+
+.event-place {
+  display: block;
+  font-size: 0.9em;
+  color: var(--global-text-color);
+  opacity: 0.7;
+}
+
+/* dark mode: keep the dark card */
+html[data-theme="dark"] .events-sidebar {
+  background: var(--global-footer-bg-color);
+  border-color: var(--global-border-color);
+}
+
+/* wide screens: box sits to the right of the text */
+@include breakpoint($large) {
+  .page--events {
+    padding-right: 230px;
+  }
+
+  .events-sidebar {
+    position: absolute;
+    top: 0;
+    right: 1em;
+    width: 200px;
+    margin: 0;
+  }
+}

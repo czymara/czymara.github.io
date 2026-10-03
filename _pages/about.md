@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome"
 excerpt: "About me"
 author_profile: true
+events_sidebar: true
 redirect_from: 
   - /about/
   - /about.html
@@ -22,7 +23,7 @@ I work as a Senior Researcher at the [Netherlands Interdisciplinary Demographic 
 
 At the moment, I have two projects: [Crossing Boundaries](https://www.nwo.nl/en/projects/tqapl20708), funded by the Dutch Research Council, and [Rethinking Social Cohesion in Ethnically Diverse Schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/) within the [SOCION](https://socion-program.org/people/christian-czymara/) consortium.
 
-My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/media/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
+My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/outreach/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
 
 My [teaching materials](/teaching/) on computational social science, panel data analysis, and multilevel modelling are openly available.
 

@@ -1,6 +1,8 @@
 ---
 title: "Features in Media and Policy"
-permalink: /media/
+permalink: /outreach/
+redirect_from:
+  - /media/
 ---
 
 My research has been featured in prominent national and international news outlets, websites, and in various policy institutions. Occasionally, I also participate in interviews, some of which are featured in newspapers. Below is a selection of my media appearances and features in policy documents.

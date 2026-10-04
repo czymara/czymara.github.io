@@ -30,7 +30,7 @@ My [teaching materials](/courses/) on computational social science, panel data a
 
 ### Majority attitudes toward immigrants
 
-I study how people view [immigrants and refugees](https://doi.org/10.1093/esr/jcx071), [which groups meet more opposition and why](https://doi.org/10.1007/s11577-016-0361-x). A central interest is how such attitudes [change over time](https://doi.org/10.1093/sf/soaa055) and how they depend on the socio-political contexts, such as [political elite discourses](https://doi.org/10.1177/0197918319890270) or major events like [terrorist attacks](https://doi.org/10.5771/0038-6073-2020-1-2-201). I also examine how views on immigration differ between [demographic and ideological groups](https://doi.org/10.1080/1369183X.2022.2132222) and how they relate to [political behavior](https://doi.org/10.1111/nana.12985).
+I study how people view [immigrants and refugees](https://doi.org/10.1093/esr/jcx071), [which groups meet more opposition and why](https://doi.org/10.1007/s11577-016-0361-x). A central interest is how such attitudes [change over time](https://doi.org/10.1093/sf/soaa055) and how they depend on the [socio-political contexts](https://doi.org/10.1186/s40878-025-00490-8), such as [political elite discourses](https://doi.org/10.1177/0197918319890270). I also examine how views on immigration differ between [demographic and ideological groups](https://doi.org/10.1080/1369183X.2022.2132222) and how they relate to [political behavior](https://doi.org/10.1111/nana.12985).
 
 ### Relations among minority groups
 
@@ -38,7 +38,7 @@ Intergroup attitudes are usually studied as something majorities hold about mino
 
 ### Computational social science
 
-In addition to survey-based studies, I use computational methods to study how migration and minorities are discussed in [mass media](https://doi.org/10.1515/commun-2019-0188), [politics](https://doi.org/10.1007/978-3-032-01373-6_7), and on [social media](https://doi.org/10.1007/s42001-024-00272-9). I am interested in [what drives these debates](https://doi.org/10.1080/15205436.2023.2240307), [how they change over time](https://doi.org/10.1080/09644008.2023.2231353), and how they relate to [individual attitudes](https://doi.org/10.1093/esr/jcy019). This work combines large text corpora with methods such as machine learning and large language models.
+In addition to survey-based studies, I use computational methods to study how migration and minorities are discussed in [mass media](https://doi.org/10.1515/commun-2019-0188), [politics](https://doi.org/10.1007/978-3-032-01373-6_7), and on [social media](https://doi.org/10.1007/s42001-024-00272-9). I am interested in [what drives these debates](https://doi.org/10.1080/15205436.2023.2240307), [how they change over time](https://doi.org/10.1080/09644008.2023.2231353), how they relate to [individual attitudes](https://doi.org/10.1093/esr/jcy019), and [how people react online](https://doi.org/10.1016/j.ssaho.2026.103569) to events such as [terrorist attacks](https://doi.org/10.1080/1369183X.2022.2100552). This work combines large text corpora with methods such as machine learning and large language models.
 
 ### Replication and robustness
 

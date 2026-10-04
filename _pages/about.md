@@ -30,7 +30,7 @@ My [teaching materials](/courses/) on computational social science, panel data a
 
 ### Majority attitudes toward immigrants
 
-I study how people view immigrants and refugees, [which groups meet more opposition and why](https://doi.org/10.1007/s11577-016-0361-x). A central interest is how such attitudes [change over time](https://doi.org/10.1093/sf/soaa055) and how they depend on the socio-political contexts, such as [political elite discourses](https://doi.org/10.1177/0197918319890270) or major events like [terrorist attacks](https://doi.org/10.5771/0038-6073-2020-1-2-201). I also examine how views on immigration differ between [demographic and ideological groups](https://doi.org/10.1080/1369183X.2022.2132222) and how they relate to [political behavior](https://doi.org/10.1111/nana.12985).
+I study how people view [immigrants and refugees](https://doi.org/10.1093/esr/jcx071), [which groups meet more opposition and why](https://doi.org/10.1007/s11577-016-0361-x). A central interest is how such attitudes [change over time](https://doi.org/10.1093/sf/soaa055) and how they depend on the socio-political contexts, such as [political elite discourses](https://doi.org/10.1177/0197918319890270) or major events like [terrorist attacks](https://doi.org/10.5771/0038-6073-2020-1-2-201). I also examine how views on immigration differ between [demographic and ideological groups](https://doi.org/10.1080/1369183X.2022.2132222) and how they relate to [political behavior](https://doi.org/10.1111/nana.12985).
 
 ### Relations among minority groups
 

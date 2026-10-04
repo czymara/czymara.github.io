@@ -17,6 +17,10 @@ redirect_from:
 .courses-banner__tags li { margin: 0; padding: 0.15em 0.65em; font-size: 0.72em; color: var(--global-base-color); border: 1px solid var(--global-base-color); border-radius: 999px; }
 .courses-banner__art { flex: 0 0 auto; width: 170px; height: 110px; color: var(--global-base-color); }
 @media (max-width: 700px) { .courses-banner__art { display: none; } }
+.course-fig { float: right; clear: right; width: 360px; max-width: 100%; margin: 0.3em 0 1.2em 1.5em; }
+.course-fig svg { display: block; width: 100%; height: auto; }
+.course-fig__caption { margin-top: 0.1em; font-size: 0.75em; text-align: center; color: var(--global-fig-caption-color); }
+@media (max-width: 700px) { .course-fig { float: none; width: 100%; margin: 1em 0; } }
 </style>
 
 <div class="courses-banner">
@@ -84,7 +88,9 @@ Courses Taught
 
 *Student evaluations in parentheses; 1.0 is the best possible score. Goethe University Frankfurt used a 1–6 scale, the University of Cologne a 1–5 scale.*
 
-<img src="/code/teachingevaluations/out/evalovertime.png" width="350" height="350" alt="Teaching evaluation scores over time" style="float:right; margin-left:1em;">
+<div class="course-fig" role="img" aria-label="Teaching evaluation scores over time">
+{% include teaching/evalovertime.svg %}
+</div>
 
 - Apr 2026: Introduction to Migration & Migrants Research (PhD course), NIDI
 - Jan 2026: Migration, Families and Households (MA Population Studies, guest lecture), University of Groningen
@@ -101,9 +107,9 @@ Courses Taught
 - Jun 2021: Politische Soziologie I (*Political Sociology I*, guest lecture), University of Bamberg (online)
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.2/6)
 
-<div style="width:350px; height:350px; float: right;">
-  <img src="/code/teachingevaluations/out/lehrewordcloud.png" width="350" height="350" alt="Student evaluations" style="display: block; margin: auto;">
-  <figcaption style="text-align: center;">Student evaluations of my courses</figcaption>
+<div class="course-fig" role="img" aria-label="Word cloud of student evaluations">
+{% include teaching/lehrewordcloud.svg %}
+<div class="course-fig__caption">Student evaluations of my courses</div>
 </div>
 
 - Summer 2020: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.4/6)

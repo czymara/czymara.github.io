@@ -497,3 +497,29 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-top: 8px;
 }
+
+/* Research stream icons on the home page: line icons in the accent colour,
+   drawn as masks so they follow light/dark mode. Selectors use the heading
+   ids kramdown generates, so renaming a heading in about.md drops its icon.
+   ========================================================================== */
+
+.page__content h3:is(#majority-attitudes-toward-immigrants, #relations-among-minority-groups, #computational-social-science, #replication-and-robustness) {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+
+  &::before {
+    content: "";
+    flex: none;
+    width: 26px;
+    height: 26px;
+    background-color: var(--global-base-color);
+    -webkit-mask: var(--stream-icon) center / contain no-repeat;
+    mask: var(--stream-icon) center / contain no-repeat;
+  }
+}
+
+#majority-attitudes-toward-immigrants { --stream-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2'/%3E%3Ccircle cx='9' cy='7' r='4'/%3E%3Cpath d='M22 21v-2a4 4 0 0 0-3-3.87'/%3E%3Cpath d='M16 3.13a4 4 0 0 1 0 7.75'/%3E%3C/svg%3E"); }
+#relations-among-minority-groups { --stream-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='8.5' cy='12' r='5.5'/%3E%3Ccircle cx='15.5' cy='12' r='5.5'/%3E%3C/svg%3E"); }
+#computational-social-science { --stream-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z'/%3E%3Cpath d='M14 2v6h6'/%3E%3Cpath d='m10 13-2 2 2 2'/%3E%3Cpath d='m14 17 2-2-2-2'/%3E%3C/svg%3E"); }
+#replication-and-robustness { --stream-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8'/%3E%3Cpath d='M3 3v5h5'/%3E%3Cpath d='M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16'/%3E%3Cpath d='M16 16h5v5'/%3E%3C/svg%3E"); }

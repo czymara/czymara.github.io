@@ -25,16 +25,39 @@ toks <-  tokens_remove(toks, stopwords(), case_insensitive = TRUE, padding = FAL
 DFM <- dfm(toks)
 
 
-### wordcloud
-win.metafile("out/eval_wordcloud.wmf")
+### wordcloud (website): inline SVG that follows the site's light/dark theme
+library(ggplot2)
+library(dplyr)
+library(ggwordcloud)
+col_base  <- "#4B2E83" # -> var(--global-base-color)
+col_light <- "#9DA1A4" # -> var(--global-text-color-light)
+fnt <- "IBM Plex Sans" # site font; needs to be installed locally
 
-textplot_wordcloud(DFM,
-                  # min_size = 1.5,
-                 #  min_count = 3,
-                   color = "black",
-                 adjust = )
-# dev.copy(png, width = 350, height = 350, "C:/Users/czymara.local/Nextcloud/teaching/teachingevaluations/out/eval_wordcloud.png")
-dev.off()
+words <- data.frame(word = names(topfeatures(DFM, 150)),
+                    n = unname(topfeatures(DFM, 150))) %>%
+  mutate(top = n >= quantile(n, 0.8), # most frequent words in violet, rest in grey
+         angle = ifelse(row_number() %% 6 == 0, 90, 0))
+
+set.seed(42)
+p_cloud <- ggplot(words, aes(label = word, size = n, colour = top, angle = angle)) +
+  geom_text_wordcloud(family = fnt, shape = "circle", eccentricity = 0.65,
+                      rm_outside = TRUE, grid_margin = 1.2) +
+  scale_size_area(max_size = 11) +
+  scale_colour_manual(values = c("TRUE" = col_base, "FALSE" = col_light), guide = "none") +
+  theme_void(base_family = fnt) +
+  theme(plot.margin = margin(4, 14, 4, 14))
+
+# standalone file (placeholder colours)
+ggsave("out/lehrewordcloud.svg", p_cloud, device = svglite::svglite,
+       width = 4, height = 3.4, bg = "transparent")
+
+# themed copy that the courses page includes inline
+svg_cloud <- readLines("out/lehrewordcloud.svg", encoding = "UTF-8")
+svg_cloud <- svg_cloud[!grepl("^<\\?xml", svg_cloud) & svg_cloud != ""]
+svg_cloud <- gsub(col_base, "var(--global-base-color)", svg_cloud, ignore.case = TRUE)
+svg_cloud <- gsub(col_light, "var(--global-text-color-light)", svg_cloud, ignore.case = TRUE)
+dir.create("../../_includes/teaching", showWarnings = FALSE)
+writeLines(svg_cloud, "../../_includes/teaching/lehrewordcloud.svg", useBytes = TRUE)
 
 
 ### positive and negative terms

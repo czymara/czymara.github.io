@@ -18,7 +18,7 @@ redirect_from:
 
 One part of my [research](#research) examines what the public thinks about migration, what the media writes about it, and how the two are connected. Another part of my research is about the relations between ethnic minority groups and how they perceive each other. Methodologically, I combine advanced survey analysis with computational social science methods. I practice Open Science by making the materials of my publications openly available and by contributing to collaborative work on the robustness of empirical findings.
 
-At NIDI, I work in the *Migration* and *Open Science* Departments. Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
+At NIDI, I work in the [*Migration*](https://nidi.nl/en/research/themegroups/migration-migrants/) and [*Open Science*](https://nidi.nl/en/research/themegroups/data-infrastructure-open-science/) Departments. Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
 
 At the moment, I have two projects: [Crossing Boundaries](https://www.nwo.nl/en/projects/tqapl20708), funded by the Dutch Research Council, and [Rethinking Social Cohesion in Ethnically Diverse Schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/) within the [SOCION](https://socion-program.org/people/christian-czymara/) consortium.
 

@@ -3,7 +3,7 @@
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #0ea1c5;
+$primary-color              : #B39DDB; /* light lavender: CV violet lightened for the dark background */
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -13,13 +13,13 @@ $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link                       : #C4B1E8;
+$link-dark                  : mix(#fff, $link, 40%); /* hover: lighter, since the background is dark */
+$link-light                 : $link; /* visited: same as link, keeps contrast on the dark background */
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
+$info-color                 : #4B2E83;
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
@@ -37,8 +37,11 @@ $sidebar-screen-min-width   : 1024px;
 /* Dark theme for the site */
 html[data-theme="dark"] {
     --global-base-color                 : #{$primary-color};
+    --global-on-base-color              : #2a1f40; /* dark text on the light lavender */
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
+    --global-box-bg-color               : #4f4a59;
+    --global-box-border-color           : #6a6378;
     --global-border-color               : #{$light-gray};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;

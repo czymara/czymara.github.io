@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #fff;
+        color: var(--global-on-base-color);
         background: var(--global-base-color);
       }
 
@@ -345,13 +345,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: var(--global-on-base-color);
     font-weight: bold;
     background: var(--global-base-color);
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: var(--global-on-base-color);
     }
   }
 }
@@ -391,7 +391,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: var(--global-on-base-color);
     font-size: $type-size-6;
     background: var(--global-base-color);
     border-top-left-radius: $border-radius;

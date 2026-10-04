@@ -12,13 +12,13 @@ permalink: /publications/
 .pub-links { margin: 4px 0 0 0; font-size: 0.82em; }
 .pub-links a { color: var(--global-link-color); text-decoration: none; margin-right: 12px; display: inline-block; }
 .pub-links a:hover { text-decoration: underline; }
-.section-links { margin: 0.8em 0 2em 0; padding: 0.6em 1em; background: #f8f8f8; border-left: 3px solid #ddd; font-size: 0.8em; line-height: 1.9; }
+.section-links { margin: 0.8em 0 2em 0; padding: 0.6em 1em; background: var(--global-box-bg-color); border-left: 3px solid var(--global-base-color); font-size: 0.8em; line-height: 1.9; }
 .section-links div { margin: 0; padding: 0; }
 .section-links a { color: var(--global-link-color); text-decoration: none; margin-right: 10px; }
 .section-links a:hover { text-decoration: underline; }
-.section-links-num { color: #888; margin-right: 4px; min-width: 2em; display: inline-block; }
+.section-links-num { color: var(--global-text-color); opacity: 0.6; margin-right: 4px; min-width: 2em; display: inline-block; }
 .page__content .pub-entry, .page__content .pub-grid, .page__content .pub-text { border-bottom: none !important; border-top: none !important; }
-.page__content h3 { margin-top: 2.5em; padding-top: 0.8em; border-top: 1px solid #ddd; }
+.page__content h3 { margin-top: 2.5em; padding-top: 0.8em; border-top: 1px solid var(--global-box-border-color); }
 .page__content h2 + h3 { border-top: none !important; padding-top: 0; margin-top: 0.8em; }
 
 .pub-abstract { display: none; margin-top: 6px; font-size: 0.9em; line-height: 1.5; font-style: italic; }

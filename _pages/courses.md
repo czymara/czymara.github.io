@@ -8,7 +8,7 @@ redirect_from:
 
 <style>.page__title { display: none; }</style>
 <style>
-.courses-banner { position: relative; overflow: hidden; display: flex; align-items: center; justify-content: space-between; gap: 1.5em; margin: 0 0 1.6em 0; padding: 1.3em 1.5em; background: #f8f8f8; border: 1px solid #ddd; border-left: 4px solid var(--global-base-color); border-radius: 6px; }
+.courses-banner { position: relative; overflow: hidden; display: flex; align-items: center; justify-content: space-between; gap: 1.5em; margin: 0 0 1.6em 0; padding: 1.3em 1.5em; background: var(--global-box-bg-color); border: 1px solid var(--global-box-border-color); border-left: 4px solid var(--global-base-color); border-radius: 6px; }
 .courses-banner__label { font-size: 0.75em; font-weight: bold; text-transform: uppercase; letter-spacing: 0.12em; color: var(--global-base-color); margin: 0 0 0.3em 0; }
 .courses-banner__title { font-size: 1.5em; font-weight: bold; line-height: 1.25; margin: 0 0 0.35em 0; color: var(--global-text-color); }
 .courses-banner__meta { font-size: 0.8em; color: var(--global-text-color); opacity: 0.75; margin: 0 0 0.8em 0; }
@@ -16,7 +16,6 @@ redirect_from:
 .courses-banner__tags { display: flex; flex-wrap: wrap; gap: 0.4em; margin: 0; padding: 0; list-style: none; }
 .courses-banner__tags li { margin: 0; padding: 0.15em 0.65em; font-size: 0.72em; color: var(--global-base-color); border: 1px solid var(--global-base-color); border-radius: 999px; }
 .courses-banner__art { flex: 0 0 auto; width: 170px; height: 110px; color: var(--global-base-color); }
-html[data-theme="dark"] .courses-banner { background: var(--global-footer-bg-color); border-color: var(--global-border-color); border-left-color: var(--global-base-color); }
 @media (max-width: 700px) { .courses-banner__art { display: none; } }
 </style>
 

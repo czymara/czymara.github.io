@@ -30,4 +30,4 @@ Full CV
 
 [Download my full CV (PDF)](https://czymara.com/cv/cczymara_cv.pdf)
 
-<iframe src="https://czymara.com/cv/cczymara_cv.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Curriculum Vitae of Christian S. Czymara"></iframe>
+<iframe src="https://czymara.com/cv/cczymara_cv.pdf" style="width:100%; height:80vh; border:1px solid var(--global-box-border-color);" title="Curriculum Vitae of Christian S. Czymara"></iframe>

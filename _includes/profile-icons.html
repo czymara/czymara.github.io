@@ -1,0 +1,17 @@
+{% comment %}
+  Row of profile icons (email, Google Scholar, ORCID, ...), used in the author
+  sidebar and in the home page hero. Only fields filled in under "author" in
+  _config.yml are shown.
+{% endcomment %}
+{% assign author = site.author %}
+<ul class="profile-icons">
+  {% if author.email %}<li><a href="mailto:{{ author.email }}" title="Email" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.googlescholar %}<li><a href="{{ author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.orcid %}<li><a href="{{ author.orcid }}" title="ORCID" aria-label="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.researchgate %}<li><a href="{{ author.researchgate }}" title="ResearchGate" aria-label="ResearchGate"><i class="fab fa-researchgate" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.github %}<li><a href="https://github.com/{{ author.github }}" title="GitHub" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.bluesky %}<li><a href="https://bsky.app/profile/{{ author.bluesky }}" title="Bluesky" aria-label="Bluesky"><i class="fab fa-bluesky" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="LinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.mastodon %}<li><a href="{{ author.mastodon }}" title="Mastodon" aria-label="Mastodon"><i class="fab fa-mastodon" aria-hidden="true"></i></a></li>{% endif %}
+  {% if author.twitter %}<li><a href="https://twitter.com/{{ author.twitter }}" title="X" aria-label="X"><i class="fab fa-x-twitter" aria-hidden="true"></i></a></li>{% endif %}
+</ul>

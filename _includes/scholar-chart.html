@@ -1,0 +1,30 @@
+{% comment %}
+  Google Scholar numbers and citations-per-year bars. Data: _data/scholar.yml,
+  written daily by scripts/fetch_scholar_stats.py. The bars are drawn in HTML so
+  they follow the light/dark colours; if the per-year counts are missing, the
+  PNG made by the same script is shown instead.
+{% endcomment %}
+{% assign scholar = site.data.scholar %}
+{% if scholar and scholar.citations_all > 0 %}
+{% assign scholar_url = scholar.profile_url | default: site.author.googlescholar %}
+<div class="scholar-box">
+  <div class="scholar-nums">
+    <div><b>{{ scholar.citations_all }}</b>Citations</div>
+    <div><b>{{ scholar.hindex_all }}</b>h-index</div>
+    {% if scholar.i10_all and scholar.i10_all > 0 %}<div><b>{{ scholar.i10_all }}</b>i10</div>{% endif %}
+  </div>
+  {% if scholar.cites_per_year and scholar.cites_max > 0 %}
+  {% assign this_year = site.time | date: "%Y" | plus: 0 %}
+  <a class="cite-bars" href="{{ scholar_url }}" target="_blank" rel="noopener" aria-label="Citations per year on Google Scholar">
+    {% for item in scholar.cites_per_year %}
+    {% assign h = item.count | times: 100.0 | divided_by: scholar.cites_max | round: 1 %}
+    <span class="cite-bar{% if item.year == this_year %} cite-bar--current{% endif %}" style="--h: {{ h }}%" title="{{ item.year }}: {{ item.count }} citations{% if item.year == this_year %} so far{% endif %}"><i></i><small>'{{ item.year | slice: 2, 2 }}</small></span>
+    {% endfor %}
+  </a>
+  {% else %}
+  <a href="{{ scholar_url }}" target="_blank" rel="noopener">
+    <img src="{{ base_path }}/code/citations/czymara_scholar_citations.png" alt="Citations per year" class="scholar-chart">
+  </a>
+  {% endif %}
+</div>
+{% endif %}

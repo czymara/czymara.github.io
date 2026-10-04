@@ -100,6 +100,10 @@ def fetch_author():
 
 def build_stats(author):
     current_year = datetime.datetime.now(timezone.utc).year
+    cites_per_year = author.get("cites_per_year") or {}
+    # Per-year counts for the bar chart the site draws in HTML
+    # (_includes/scholar-chart.html); a list keeps the years in order.
+    per_year = [{"year": int(y), "count": int(cites_per_year[y])} for y in sorted(cites_per_year)]
     return {
         "citations_all": author.get("citedby", 0),
         "citations_recent": author.get("citedby5y", 0),
@@ -109,6 +113,8 @@ def build_stats(author):
         "i10_recent": author.get("i10index5y", 0),
         "since_year": current_year - 5,
         "profile_url": f"https://scholar.google.de/citations?user={SCHOLAR_USER_ID}",
+        "cites_max": max([d["count"] for d in per_year], default=0),
+        "cites_per_year": per_year,
     }
 
 

@@ -14,17 +14,21 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.hero %}
+  {% include home-hero.html %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <article class="page{% if page.events_sidebar or page.recent_sidebar %} page--events{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="page{% if page.events_sidebar or page.recent_sidebar %} page--events{% endif %}{% if page.hero %} page--hero{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
+      {% unless page.header.overlay_color or page.header.overlay_image or page.hero %}
         <header>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
@@ -97,6 +101,12 @@ layout: default
   <div class="right-column">
     {% if page.events_sidebar %}{% include events-sidebar.html %}{% endif %}
     {% if page.recent_sidebar %}{% include recent-sidebar.html %}{% endif %}
+    {% if page.citations_sidebar %}
+    <div class="recent-box citations-box">
+      <div class="recent-box__title">Citations</div>
+      {% include scholar-chart.html %}
+    </div>
+    {% endif %}
   </div>
   <script>
   /* on wide screens the right column is taken out of the flow, so keep the footer below it */

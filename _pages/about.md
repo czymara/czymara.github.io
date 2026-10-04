@@ -30,18 +30,18 @@ My [teaching materials](/courses/) on computational social science, panel data a
 
 ### Majority attitudes toward immigrants
 
-I study how people view immigrants and refugees, which groups meet more opposition and why. A central interest is how such attitudes change over time and how they depend on the socio-political contexts, such as political elite discourses or major events like terrorist attacks. I also examine how views on immigration differ between demographic and ideological groups and how they relate to political behavior.
+I study how people view immigrants and refugees, [which groups meet more opposition and why](https://doi.org/10.1007/s11577-016-0361-x). A central interest is how such attitudes [change over time](https://doi.org/10.1093/sf/soaa055) and how they depend on the socio-political contexts, such as [political elite discourses](https://doi.org/10.1177/0197918319890270) or major events like [terrorist attacks](https://doi.org/10.5771/0038-6073-2020-1-2-201). I also examine how views on immigration differ between [demographic and ideological groups](https://doi.org/10.1080/1369183X.2022.2132222) and how they relate to [political behavior](https://doi.org/10.1111/nana.12985).
 
 ### Relations among minority groups
 
-Intergroup attitudes are usually studied as something majorities hold about minorities. I study how minority groups view one another, for example how people with a migration background view immigration or attitudes toward Jews among Muslims, and which factors shape these views, such as religion, identities, and social networks. I am also interested in how minorities relate to the host society, for example in their trust in institutions.
+Intergroup attitudes are usually studied as something majorities hold about minorities. I study how minority groups view one another, for example [how people with a migration background view immigration](https://nidi.nl/demos/hoe-nederlanders-met-en-zonder-migratieachtergrond-naar-immigranten-kijken/) or [attitudes toward Jews among Muslims](https://doi.org/10.1093/esr/jcaf017), and which factors shape these views, such as [religion](https://doi.org/10.3389/fsoc.2020.538926), identities, and social networks. I am also interested in how minorities relate to the host society, for example in their [trust in institutions](https://doi.org/10.1080/01419870.2022.2060711).
 
 ### Computational social science
 
-In addition to survey-based studies, I use computational methods to study how migration and minorities are discussed in mass media, politics, and on social media. I am interested in what drives these debates, how they change over time, and how they relate to individual attitudes. This work combines large text corpora with methods such as machine learning and large language models.
+In addition to survey-based studies, I use computational methods to study how migration and minorities are discussed in [mass media](https://doi.org/10.1515/commun-2019-0188), [politics](https://doi.org/10.1007/978-3-032-01373-6_7), and on [social media](https://doi.org/10.1007/s42001-024-00272-9). I am interested in [what drives these debates](https://doi.org/10.1080/15205436.2023.2240307), [how they change over time](https://doi.org/10.1080/09644008.2023.2231353), and how they relate to [individual attitudes](https://doi.org/10.1093/esr/jcy019). This work combines large text corpora with methods such as machine learning and large language models.
 
 ### Replication and robustness
 
-In large collaborative studies, I examine how robust and reproducible findings in the social sciences are. These studies look at how much results depend on the analytical choices researchers make and what helps make research more reproducible.
+In large collaborative studies, I examine how [robust](https://doi.org/10.1038/s41586-025-09844-9) and [reproducible](https://doi.org/10.1098/rsos.241038) findings in the social sciences are. These studies look at how much results depend on the [analytical choices researchers make](https://doi.org/10.1073/pnas.2203150119) and [what helps make research more reproducible](https://doi.org/10.1038/s41586-026-10251-x).
 
 A complete chronological list is on the [publications](/publications/) page.

@@ -16,7 +16,7 @@ redirect_from:
   - /about.html
 ---
 
-One part of my [research](#research) examines what the public thinks about migration, what the media writes about it, and how the two are connected. Another part of my research is about the relations between ethnic minority groups and how they perceive each other. Methodologically, I combine advanced survey analysis with computational social science methods. I practice Open Science by making the materials of my publications openly available and by contributing to collaborative work on the robustness of empirical findings.
+My [research](#research) addresses questions of migration, integration, and social cohesion, combining advanced survey analysis with computational social science methods.
 
 At NIDI, I work in the [*Migration*](https://nidi.nl/en/research/themegroups/migration-migrants/) and [*Open Science*](https://nidi.nl/en/research/themegroups/data-infrastructure-open-science/) Departments. Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
 
@@ -42,6 +42,6 @@ In addition to survey-based studies, I use computational methods to study how mi
 
 ### Replication and robustness
 
-In large collaborative studies, I examine how [robust](https://doi.org/10.1038/s41586-025-09844-9) and [reproducible](https://doi.org/10.1098/rsos.241038) findings in the social sciences are. These studies look at how much results depend on the [analytical choices researchers make](https://doi.org/10.1073/pnas.2203150119) and [what helps make research more reproducible](https://doi.org/10.1038/s41586-026-10251-x).
+In large collaborative studies, I examine how [robust](https://doi.org/10.1038/s41586-025-09844-9) and [reproducible](https://doi.org/10.1098/rsos.241038) findings in the social sciences are. These studies look at how much results depend on the [analytical choices researchers make](https://doi.org/10.1073/pnas.2203150119) and [what helps make research more reproducible](https://doi.org/10.1038/s41586-026-10251-x). In my own work, I practice Open Science by making the materials of my publications [openly available](https://osf.io/b3ugm/).
 
 A complete chronological list is on the [publications](/publications/) page.

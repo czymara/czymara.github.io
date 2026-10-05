@@ -108,8 +108,8 @@ Courses Taught
 - Winter 2020/21: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.2/6)
 
 <div class="course-fig" role="img" aria-label="Word cloud of student evaluations">
-{% include teaching/lehrewordcloud.svg %}
-<div class="course-fig__caption">Student evaluations of my courses</div>
+{% include teaching/wordcloud_en.svg %}
+<div class="course-fig__caption">Student evaluations of my courses (translated)</div>
 </div>
 
 - Summer 2020: Längsschnittdatenanalyse und Kausalität (*Longitudinal Data Analysis and Causality*), GU (1.4/6)

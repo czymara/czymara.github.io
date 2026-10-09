@@ -270,8 +270,10 @@ h1, h2, h3, h4, h5, h6 {
     width: auto;
 
     img {
-      width: 150px;
-      height: 150px;
+      /* shrinks with a narrow sidebar column instead of being cut off */
+      width: min(150px, calc(100% - 14px));
+      height: auto;
+      aspect-ratio: 1;
       max-width: none;
       padding: 0;
       border: 0;
@@ -296,7 +298,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0.9em 0 0.2em;
     font-family: $header-font-family !important;
     font-size: 1.12em !important;
-    white-space: nowrap;
+    /* one line where it fits; wraps instead of being cut off where it doesn't
+       (narrow windows, larger font rendering, e.g. Edge on Windows) */
+    white-space: normal;
+    text-wrap: balance;
     font-weight: 600;
   }
 
@@ -323,6 +328,28 @@ h1, h2, h3, h4, h5, h6 {
 
   .scholar-nums {
     justify-content: space-around;
+  }
+}
+
+/* Inner pages on wide screens: author card on the left, text on the right */
+@include breakpoint($large) {
+  /* hide the sidebar's own scrollbar (it still scrolls): browsers with
+     always-visible scrollbars, e.g. Edge/Chrome on Windows, otherwise take
+     ~17px from the narrow column and cut off the author card */
+  .sidebar {
+    overflow-x: hidden;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  /* more space between the author card and the page text (not on the home page),
+     also enough that hovered (enlarged) publication entries stay clear of the card */
+  .page:not(.page--hero),
+  .archive {
+    padding-left: 12%;
   }
 }
 

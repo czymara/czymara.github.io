@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  5 OCT 2026 11:41
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  16 OCT 2026 13:13
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -622,10 +622,10 @@ Package rerunfilecheck Info: File `cczymara_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  13757 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 686 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 29 attribute, 54 glue_spec
-, 29 attribute_list, 1 write, 25 pdf_action nodes
-   avail lists: 1:1,2:1143,3:537,4:196,5:787,6:144,7:8851,8:39,9:618,10:7,11:608
+ 676 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 28 attribute, 54 glue_spec
+, 28 attribute_list, 1 write, 24 pdf_action nodes
+   avail lists: 1:1,2:1151,3:537,4:196,5:787,6:145,7:8939,8:39,9:618,10:7,11:608
 
  35660 multiletter control sequences out of 65536+600000
  38 fonts using 2751295 bytes
@@ -644,10 +644,10 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (11 pages, 115032 bytes).
+Output written on cczymara_cv.pdf (11 pages, 115060 bytes).
 
-PDF statistics: 275 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
+PDF statistics: 274 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
  12 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

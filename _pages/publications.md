@@ -54,7 +54,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">28.</span> <u>Czymara</u>, C. S. (2026). Public responses to jihadist terrorism on social media. <em><strong>Social Sciences &amp; Humanities Open</strong></em> 14: 103569.</div>
+    <div class="pub-text"><span class="pub-num">28.</span> <u>Czymara</u>, C. S. (2026). Public responses to jihadist terrorism on social media. <em><strong>Social Sciences &amp; Humanities Open</strong></em> 14: Article 103569.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1016/j.ssaho.2026.103569" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -70,7 +70,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">27.</span> Brodeur, A., &amp; 100+ co-authors (2026). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. <em><strong>Proceedings of the National Academy of Sciences</strong></em> 123(22).</div>
+    <div class="pub-text"><span class="pub-num">27.</span> Brodeur, A., &amp; 100+ co-authors (2026). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. <em><strong>Proceedings of the National Academy of Sciences</strong></em> 123(22): Article e2524747123.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1073/pnas.2524747123" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -110,7 +110,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">24.</span> <u>Czymara</u>, C. S., Gorodzeisky, A., &amp; Leykin, I. (2025). Political Legacies and Present Perceptions of Migrants. <em><strong>Comparative Migration Studies</strong></em>.</div>
+    <div class="pub-text"><span class="pub-num">24.</span> <u>Czymara</u>, C. S., Gorodzeisky, A., &amp; Leykin, I. (2025). Political Legacies and Present Perceptions of Migrants. <em><strong>Comparative Migration Studies</strong></em> 13: Article 63.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1186/s40878-025-00490-8" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -144,7 +144,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">22.</span> Breznau, N., &amp; 100+ co-authors (2025). The Reliability of Replications: A Study in Computational Reproductions. <em><strong>Royal Society Open Science</strong></em> 12(3): 1–23.</div>
+    <div class="pub-text"><span class="pub-num">22.</span> Breznau, N., &amp; 100+ co-authors (2025). The Reliability of Replications: A Study in Computational Reproductions. <em><strong>Royal Society Open Science</strong></em> 12(3): Article 241038.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1098/rsos.241038" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -260,7 +260,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">15.</span> Breznau, N., &amp; 100+ co-authors (2022). Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. <em><strong>Proceedings of the National Academy of Sciences</strong></em> 119(44): 1–8.</div>
+    <div class="pub-text"><span class="pub-num">15.</span> Breznau, N., &amp; 100+ co-authors (2022). Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty. <em><strong>Proceedings of the National Academy of Sciences</strong></em> 119(44): Article e2203150119.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1073/pnas.2203150119" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -321,7 +321,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">11.</span> Langenkamp, A., Cano, T., &amp; <u>Czymara</u>, C. S. (2022). My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany. <em><strong>Frontiers in Sociology</strong></em> 6: 1–14.</div>
+    <div class="pub-text"><span class="pub-num">11.</span> Langenkamp, A., Cano, T., &amp; <u>Czymara</u>, C. S. (2022). My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany. <em><strong>Frontiers in Sociology</strong></em> 6: Article 785201.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.3389/fsoc.2021.785201" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -353,7 +353,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">9.</span> <u>Czymara</u>, C. S. &amp; Eisentraut, M. (2020). 'A threat to the Occident'? Comparing human values of Muslim immigrants, Christian and non-religious natives in Western Europe. <em><strong>Frontiers in Sociology</strong></em> 5: 1–15.</div>
+    <div class="pub-text"><span class="pub-num">9.</span> <u>Czymara</u>, C. S. &amp; Eisentraut, M. (2020). 'A threat to the Occident'? Comparing human values of Muslim immigrants, Christian and non-religious natives in Western Europe. <em><strong>Frontiers in Sociology</strong></em> 5: Article 538926.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.3389/fsoc.2020.538926" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -369,7 +369,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">8.</span> <u>Czymara</u>, C. S., Langenkamp, A., &amp; Cano, T. (2021). Cause for Concern: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany. <em><strong>European Societies</strong></em> 23(S1): 68–81.</div>
+    <div class="pub-text"><span class="pub-num">8.</span> <u>Czymara</u>, C. S., Langenkamp, A., &amp; Cano, T. (2021). Cause for Concern: Gender Inequality in Experiencing the COVID-19 Lockdown in Germany. <em><strong>European Societies</strong></em> 23(S1): S68–S81.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1080/14616696.2020.1808692" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -384,7 +384,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">7.</span> Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S. (2020). 'Did you read about Berlin?' Terrorist attacks, online media reporting and support for refugees in Germany. <em><strong>Soziale Welt</strong></em> 71(2–3): 305–337.</div>
+    <div class="pub-text"><span class="pub-num">7.</span> Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S. (2020). 'Did you read about Berlin?' Terrorist attacks, online media reporting and support for refugees in Germany. <em><strong>Soziale Welt</strong></em> 71(1–2): 201–232.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.5771/0038-6073-2020-1-2-201" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
@@ -482,7 +482,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-grid">
-    <div class="pub-text"><span class="pub-num">1.</span> <u>Czymara</u>, C. S. &amp; Schmidt-Catran, A. W. (2016). Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants). <em><strong>Kölner Zeitschrift für Soziologie und Sozialpsychologie</strong></em> 68(2): 1–35.</div>
+    <div class="pub-text"><span class="pub-num">1.</span> <u>Czymara</u>, C. S. &amp; Schmidt-Catran, A. W. (2016). Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants). <em><strong>Kölner Zeitschrift für Soziologie und Sozialpsychologie</strong></em> 68(2): 193–227.</div>
     <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11577-016-0361-x" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">

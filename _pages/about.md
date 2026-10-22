@@ -7,9 +7,9 @@ events_sidebar: true
 recent_sidebar: true
 citations_sidebar: true
 hero:
-  kicker: "Integration · Migration · Quantitative Methods · Computational Social Science"
+  kicker: "Migration · Integration · Quantitative Methods · Computational Social Science"
   title: "Social cohesion in ethnically diverse societies"
-  lede: "I study what the public thinks about migration, what the media writes about it, and how minority groups relate to and perceive each other."
+  lede: "I study how people think about migration, how minority groups see each other, and how migration is debated in politics, news, and social media."
   meta: "Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (NIDI, Royal Netherlands Academy of Arts and Sciences) · affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en)"
 redirect_from: 
   - /about/

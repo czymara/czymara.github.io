@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  16 OCT 2026 13:13
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.2.6)  22 OCT 2026 15:35
  restricted system commands enabled.
 **cczymara_cv.tex
 (./cczymara_cv.tex
@@ -599,13 +599,13 @@ Package marginnote Info: right page because not two side mode on input line 408
 .
 Package marginnote Info: xpos seems to be 76.60689pt on input line 408.
  [6] [7] [8]
-Underfull \hbox (badness 1596) in paragraph at lines 547--547
+Underfull \hbox (badness 1596) in paragraph at lines 548--548
 []\TU/lmr/m/n/10.95 Längss-chnitt-da-te-n-anal-yse und Kausal-ität (Lon-gi-tu-
 di-nal Data Anal-y-sis and
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 549--549
+Underfull \hbox (badness 1596) in paragraph at lines 550--550
 []\TU/lmr/m/n/10.95 Längss-chnitt-da-te-n-anal-yse und Kausal-ität (Lon-gi-tu-
 di-nal Data Anal-y-sis and
  []
@@ -644,7 +644,7 @@ ee-Solid-900.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lm
 romancaps10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/eur
 osym/feymr10.pfb>
-Output written on cczymara_cv.pdf (11 pages, 115060 bytes).
+Output written on cczymara_cv.pdf (11 pages, 115077 bytes).
 
 PDF statistics: 274 PDF objects out of 1000 (max. 8388607)
  226 compressed objects within 3 object streams

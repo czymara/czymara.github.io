@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Masthead: wordmark left, menu right, violet underline on current page
+/* Masthead: wordmark left, menu right, accent-colour underline on current page
    ========================================================================== */
 
 .masthead__menu {
@@ -464,8 +464,14 @@ h1, h2, h3, h4, h5, h6 {
 
   &:hover {
     transform: scale(1.04);
-    box-shadow: 0 10px 24px rgba(75, 46, 131, 0.16);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14);
   }
+}
+
+/* events and recent publications have no box, so no shadow either */
+.events-sidebar:hover,
+.recent-box:hover {
+  box-shadow: none;
 }
 
 .courses-banner:hover {
@@ -487,7 +493,7 @@ h1, h2, h3, h4, h5, h6 {
   &:hover {
     transform: scale(1.02);
     background: var(--global-box-bg-color);
-    box-shadow: 0 8px 20px rgba(75, 46, 131, 0.12);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   }
 }
 
@@ -525,7 +531,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 8px;
 }
 
-/* Research stream icons on the home page: line icons in the accent colour,
+/* Research stream icons on the home page: small line icons in the text colour,
    drawn as masks so they follow light/dark mode. Selectors use the heading
    ids kramdown generates, so renaming a heading in about.md drops its icon.
    ========================================================================== */
@@ -538,9 +544,9 @@ h1, h2, h3, h4, h5, h6 {
   &::before {
     content: "";
     flex: none;
-    width: 26px;
-    height: 26px;
-    background-color: var(--global-base-color);
+    width: 18px;
+    height: 18px;
+    background-color: var(--global-text-color);
     -webkit-mask: var(--stream-icon) center / contain no-repeat;
     mask: var(--stream-icon) center / contain no-repeat;
   }

@@ -3,7 +3,7 @@
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #B39DDB; /* light lavender: CV violet lightened for the dark background */
+$primary-color              : #a9bfd9; /* light ink blue for the dark background */
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -13,13 +13,13 @@ $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #C4B1E8;
+$link                       : #a9bfd9;
 $link-dark                  : mix(#fff, $link, 40%); /* hover: lighter, since the background is dark */
 $link-light                 : $link; /* visited: same as link, keeps contrast on the dark background */
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #4B2E83;
+$info-color                 : #2b4c7e;
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
@@ -37,11 +37,11 @@ $sidebar-screen-min-width   : 1024px;
 /* Dark theme for the site */
 html[data-theme="dark"] {
     --global-base-color                 : #{$primary-color};
-    --global-on-base-color              : #2a1f40; /* dark text on the light lavender */
+    --global-on-base-color              : #1b2a3d; /* dark text on the light blue */
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
-    --global-box-bg-color               : #4f4a59;
-    --global-box-border-color           : #6a6378;
+    --global-box-bg-color               : #505050;
+    --global-box-border-color           : #666666;
     --global-border-color               : #{$light-gray};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;

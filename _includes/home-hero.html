@@ -5,8 +5,8 @@
 {% assign author = site.author %}
 <section class="home-hero">
   <div class="home-hero__text">
-    {% if page.hero.kicker %}<p class="home-hero__kicker">{{ page.hero.kicker }}</p>{% endif %}
     <h1 class="home-hero__title">{{ page.hero.title }}</h1>
+    {% if page.hero.kicker %}<p class="home-hero__kicker">{{ page.hero.kicker }}</p>{% endif %}
     {% if page.hero.lede %}<p class="home-hero__lede">{{ page.hero.lede }}</p>{% endif %}
     {% if page.hero.meta %}<p class="home-hero__meta">{{ page.hero.meta | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{% endif %}
     {% include profile-icons.html %}

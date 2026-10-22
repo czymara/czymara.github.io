@@ -2,7 +2,7 @@
     DEFAULT THEME - LIGHT VERSION
     ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #4B2E83; /* dark violet, same as link colour in the CV */
+$primary-color              : #2b4c7e; /* muted ink blue */
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -11,7 +11,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #4B2E83;
+$info-color                 : #2b4c7e;
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
@@ -31,9 +31,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-base-color                 : #{$primary-color};
     --global-on-base-color              : #fff; /* text on base-colour backgrounds */
     --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f5f3f9;
-    --global-box-bg-color               : #f7f5fb;
-    --global-box-border-color           : #e2dcee;
+    --global-footer-bg-color            : #f5f6f7;
+    --global-box-bg-color               : #f6f7f8;
+    --global-box-border-color           : #e3e5e8;
     --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;

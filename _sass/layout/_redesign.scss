@@ -513,8 +513,8 @@ h1, h2, h3, h4, h5, h6 {
   &::before {
     content: "";
     flex: none;
-    width: 1.2em; /* the icon artwork has padding, so this makes it match the text height */
-    height: 1.2em;
+    width: 1.1em; /* the icon artwork has padding, so this makes it match the text height */
+    height: 1.1em;
     background-color: var(--global-text-color);
     -webkit-mask: var(--stream-icon) center / contain no-repeat;
     mask: var(--stream-icon) center / contain no-repeat;

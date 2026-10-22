@@ -67,10 +67,6 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.01em;
   color: var(--global-text-color) !important;
   white-space: nowrap;
-
-  span {
-    color: var(--global-base-color);
-  }
 }
 
 .masthead__menu .greedy-nav {
@@ -454,30 +450,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 9px;
 }
 
-/* Boxes (events, recent publications, citations, courses banner): grow on hover
-   ========================================================================== */
-
-.events-sidebar,
-.recent-box,
-.courses-banner {
-  transition: transform 0.2s, box-shadow 0.2s;
-
-  &:hover {
-    transform: scale(1.04);
-    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14);
-  }
-}
-
-/* events and recent publications have no box, so no shadow either */
-.events-sidebar:hover,
-.recent-box:hover {
-  box-shadow: none;
-}
-
-.courses-banner:hover {
-  transform: scale(1.015);
-}
-
 .citations-box .scholar-nums {
   margin-bottom: 4px;
 }
@@ -513,9 +485,6 @@ h1, h2, h3, h4, h5, h6 {
   .profile-icons a,
   .home-hero__photo,
   .author-card .author__avatar img,
-  .events-sidebar,
-  .recent-box,
-  .courses-banner,
   .pub-entry,
   .cite-bar i,
   .masthead__menu .greedy-nav .visible-links a {
@@ -544,8 +513,8 @@ h1, h2, h3, h4, h5, h6 {
   &::before {
     content: "";
     flex: none;
-    width: 18px;
-    height: 18px;
+    width: 1.2em; /* the icon artwork has padding, so this makes it match the text height */
+    height: 1.2em;
     background-color: var(--global-text-color);
     -webkit-mask: var(--stream-icon) center / contain no-repeat;
     mask: var(--stream-icon) center / contain no-repeat;

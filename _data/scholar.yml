@@ -1,5 +1,5 @@
-citations_all: 2305
-citations_recent: 2127
+citations_all: 2308
+citations_recent: 2130
 hindex_all: 19
 hindex_recent: 19
 i10_all: 25
@@ -17,7 +17,7 @@ cites_per_year:
 - year: 2020
   count: 76
 - year: 2021
-  count: 181
+  count: 182
 - year: 2022
   count: 235
 - year: 2023

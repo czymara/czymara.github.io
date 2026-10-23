@@ -815,8 +815,9 @@ document.querySelectorAll('.abstract-toggle').forEach(function(btn) {
   });
 });
 
-// Timeline: group the entries of each section by their data-year (the print year),
-// keeping the source order within a year, then number them from newest down
+/* Timeline: group the entries of each section by their data-year (the print year),
+   keeping the source order within a year, then number them from newest down.
+   Block comments only: the compress layout puts the page on one line. */
 (function() {
   function yearOf(entry) { return entry.dataset.year || ''; }
   function rank(y) { return /^\d{4}$/.test(y) ? +y : 9999; }

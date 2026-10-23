@@ -9,20 +9,17 @@ citations_sidebar: true
 hero:
   kicker: "Migration · Integration · Quantitative Methods · Computational Social Science"
   title: "Christian S. Czymara"
-  lede: "I study how people think about migration, how minority groups see each other, and how migration is debated in politics, news, and social media."
-  meta: "Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (NIDI, Royal Netherlands Academy of Arts and Sciences) · affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en)"
+  lede: "Senior Researcher at the [Netherlands Interdisciplinary Demographic Institute](https://nidi.nl/en/employees/christian-czymara/) (NIDI-KNAW) and affiliated with the [University of Groningen](https://www.rug.nl/staff/c.s.czymara/?lang=en). My research is on intergroup relations and social cohesion in ethnically diverse societies."
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My [research](#research) addresses questions of migration, integration, and social cohesion, combining advanced survey analysis with computational social science methods.
-
 At NIDI, I work in the [*Migration*](https://nidi.nl/en/research/themegroups/migration-migrants/) and [*Open Science*](https://nidi.nl/en/research/themegroups/data-infrastructure-open-science/) Departments. Before that, I worked at Goethe University Frankfurt, Tel Aviv University, and the University of Cologne, where I did my PhD.
 
 At the moment, I have two projects: [Crossing Boundaries](https://www.nwo.nl/en/projects/tqapl20708), funded by the Dutch Research Council, and [Rethinking Social Cohesion in Ethnically Diverse Schools](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/) within the [SOCION](https://socion-program.org/people/christian-czymara/) consortium.
 
-My work has been published in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/outreach/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
+My work has appeared in journals like Social Forces, European Sociological Review, European Journal of Political Research, and Journal of Ethnic and Migration Studies, and has been taken up by policy institutions and international news [media](/outreach/). I am Associate Editor of the [Journal of Computational Social Science](https://link.springer.com/journal/42001).
 
 My [teaching materials](/courses/) on computational social science, panel data analysis, and multilevel modelling are openly available.
 

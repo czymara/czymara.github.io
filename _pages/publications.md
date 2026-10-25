@@ -18,16 +18,16 @@ permalink: /publications/
   .pub-entry > .pub-links, .pub-entry > .pub-abstract { margin-left: 0; }
 }
 .pub-timeline { margin-top: 1.2em; }
-.pub-year-group { display: grid; grid-template-columns: 58px 1fr; }
+.pub-year-group { display: grid; grid-template-columns: 50px 1fr; }
 .pub-year { font-size: 0.8em; font-variant-numeric: tabular-nums; letter-spacing: 0.02em; color: var(--global-text-color); opacity: 0.6; line-height: 1.55; }
-.pub-year-items { position: relative; border-left: 1px solid var(--global-box-border-color); padding: 0 0 1.6em 20px; }
+.pub-year-items { position: relative; border-left: 1px solid var(--global-box-border-color); padding: 0 0 1.6em 32px; }
 .pub-year-items::before { content: ""; position: absolute; left: -4px; top: 0.45em; width: 7px; height: 7px; border-radius: 50%; background: var(--global-base-color); }
 .pub-year-group:last-child .pub-year-items { padding-bottom: 0; }
 .pub-year-items .pub-entry:last-child { margin-bottom: 0; }
 @media (max-width: 600px) {
   .pub-year-group { display: block; }
   .pub-year { margin-bottom: 0.4em; }
-  .pub-year-items { padding-left: 12px; }
+  .pub-year-items { padding-left: 22px; }
 }
 .pub-text { line-height: 1.55; }
 .pub-num { font-weight: normal; margin-right: 3px; opacity: 0.6; }

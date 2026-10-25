@@ -1,12 +1,12 @@
-citations_all: 2308
-citations_recent: 2130
+citations_all: 2313
+citations_recent: 2135
 hindex_all: 19
 hindex_recent: 19
-i10_all: 25
-i10_recent: 25
+i10_all: 26
+i10_recent: 26
 since_year: 2021
 profile_url: https://scholar.google.de/citations?user=khPqHmgAAAAJ
-cites_max: 515
+cites_max: 518
 cites_per_year:
 - year: 2017
   count: 8
@@ -27,4 +27,4 @@ cites_per_year:
 - year: 2025
   count: 453
 - year: 2026
-  count: 515
+  count: 518

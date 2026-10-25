@@ -167,13 +167,18 @@ h1, h2, h3, h4, h5, h6 {
   gap: 1em 3em;
   align-items: center;
   margin-top: 0;
-  padding: 1.5em 1em 2em;
+  padding: 1.5em 1em 0.5em;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+}
+
+/* the body text follows the intro directly */
+.home-hero + #main {
+  margin-top: 1em;
 }
 
 /* the container mixin adds clearfix pseudo-elements, which would become extra grid rows */
@@ -232,7 +237,7 @@ h1, h2, h3, h4, h5, h6 {
   .home-hero {
     grid-template-columns: 1fr;
     gap: 1em;
-    padding: 1em 1em 2em;
+    padding: 1em 1em 0.5em;
   }
   .home-hero__kicker {
     order: -2;

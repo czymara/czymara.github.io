@@ -84,7 +84,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1016/j.ssaho.2026.103569" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/ssho.jpg" alt="Social Sciences &amp; Humanities Open cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Public responses to jihadist terrorism on social media</div>
+      <div class="pub-title">Public Responses to Jihadist Terrorism on Social Media</div>
       <div class="pub-authors"><u>Czymara</u>, C. S.</div>
       <div class="pub-venue"><em>Social Sciences &amp; Humanities Open</em></div>
     </div>
@@ -106,7 +106,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1073/pnas.2524747123" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/pnas.jpg" alt="Proceedings of the National Academy of Sciences cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science</div>
+      <div class="pub-title">AI-Assisted Teams Outperform AI-Led Teams but Not Human-Only Teams in Assessing Research Reproducibility in Quantitative Social Science</div>
       <div class="pub-authors">Brodeur, A., &amp; 100+ co-authors</div>
       <div class="pub-venue"><em>Proceedings of the National Academy of Sciences</em></div>
     </div>
@@ -125,7 +125,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1038/s41586-026-10251-x" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/nature.jpg" alt="Nature cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Reproducibility and robustness of economics and political science research</div>
+      <div class="pub-title">Reproducibility and Robustness of Economics and Political Science Research</div>
       <div class="pub-authors">Brodeur, A., &amp; 100+ co-authors</div>
       <div class="pub-venue"><em>Nature</em></div>
     </div>
@@ -144,7 +144,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1038/s41586-025-09844-9" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/nature.jpg" alt="Nature cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Investigating the analytical robustness of the social and behavioural sciences</div>
+      <div class="pub-title">Investigating the Analytical Robustness of the Social and Behavioural Sciences</div>
       <div class="pub-authors">Aczel, B., &amp; 100+ co-authors</div>
       <div class="pub-venue"><em>Nature</em></div>
     </div>
@@ -334,7 +334,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1080/1369183X.2022.2132222" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/jems.jpg" alt="Journal of Ethnic and Migration Studies cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A comparative longitudinal analysis of Europe in the twenty-first century</div>
+      <div class="pub-title">Political Elite Discourses Polarize Attitudes toward Immigration Along Ideological Lines. A Comparative Longitudinal Analysis of Europe in the Twenty-First Century</div>
       <div class="pub-authors">Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S.</div>
       <div class="pub-venue"><em>Journal of Ethnic and Migration Studies</em></div>
     </div>
@@ -375,7 +375,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1080/1369183X.2022.2100552" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/jems.jpg" alt="Journal of Ethnic and Migration Studies cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017</div>
+      <div class="pub-title">Catalyst of Hate? Ethnic Insulting on YouTube in the Aftermath of Terror Attacks in France, Germany and the United Kingdom 2014–2017</div>
       <div class="pub-authors"><u>Czymara</u>, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Şimşek, M., &amp; Spörlein, C.</div>
       <div class="pub-venue"><em>Journal of Ethnic and Migration Studies</em></div>
     </div>
@@ -397,7 +397,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1080/2153599X.2022.2070255" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/rbb.jpg" alt="Religion, Brain and Behavior cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">A many-analysts approach to the relation between religiosity and well-being</div>
+      <div class="pub-title">A Many-Analysts Approach to the Relation between Religiosity and Well-Being</div>
       <div class="pub-authors">Hoogeveen, S., &amp; 100+ co-authors</div>
       <div class="pub-venue"><em>Religion, Brain and Behavior</em></div>
     </div>
@@ -416,7 +416,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1080/01419870.2022.2060711" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/ers.jpg" alt="Ethnic and Racial Studies cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">All Cops are Trusted? How Context and Time Shape Immigrants' Trust in the Police in Europe</div>
+      <div class="pub-title">All Cops Are Trusted? How Context and Time Shape Immigrants’ Trust in the Police in Europe</div>
       <div class="pub-authors"><u>Czymara</u>, C. S. &amp; Mitchell, J.</div>
       <div class="pub-venue"><em>Ethnic and Racial Studies</em></div>
     </div>
@@ -438,7 +438,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.3389/fsoc.2021.785201" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/fsoc.jpg" alt="Frontiers in Sociology cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">My Home is my Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany</div>
+      <div class="pub-title">My Home Is My Castle? The Role of Living Arrangements on Experiencing the COVID-19 Pandemic: Evidence From Germany</div>
       <div class="pub-authors">Langenkamp, A., Cano, T., &amp; <u>Czymara</u>, C. S.</div>
       <div class="pub-venue"><em>Frontiers in Sociology</em></div>
     </div>
@@ -459,7 +459,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1515/commun-2019-0188" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/comm.jpg" alt="Communications cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">New perspective? Comparing Frame Occurrence in Online and Traditional News Media Reporting on Europe's 'Migration Crisis'</div>
+      <div class="pub-title">New Perspective? Comparing Frame Occurrence in Online and Traditional News Media Reporting on Europe’s “Migration Crisis”</div>
       <div class="pub-authors"><u>Czymara</u>, C. S. &amp; van Klingeren, M.</div>
       <div class="pub-venue"><em>Communications: The European Journal of Communication Research</em></div>
     </div>
@@ -481,7 +481,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.3389/fsoc.2020.538926" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/fsoc.jpg" alt="Frontiers in Sociology cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">'A threat to the Occident'? Comparing human values of Muslim immigrants, Christian and non-religious natives in Western Europe</div>
+      <div class="pub-title">‘A Threat to the Occident’? Comparing Human Values of Muslim Immigrants, Christian and Non-religious Natives in Western Europe</div>
       <div class="pub-authors"><u>Czymara</u>, C. S. &amp; Eisentraut, M.</div>
       <div class="pub-venue"><em>Frontiers in Sociology</em></div>
     </div>
@@ -523,7 +523,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.5771/0038-6073-2020-1-2-201" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/soziale-welt.jpg" alt="Soziale Welt cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">'Did you read about Berlin?' Terrorist attacks, online media reporting and support for refugees in Germany</div>
+      <div class="pub-title">“Did You Read about Berlin?” Terrorist Attacks, Online Media Reporting and Support for Refugees in Germany</div>
       <div class="pub-authors">Schmidt-Catran, A. W., &amp; <u>Czymara</u>, C. S.</div>
       <div class="pub-venue"><em>Soziale Welt</em></div>
     </div>
@@ -566,7 +566,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1177/0197918319890270" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/imr.jpg" alt="International Migration Review cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Propagated Preferences? Political Elite Discourses and Europeans' Openness toward Muslim Immigrants</div>
+      <div class="pub-title">Propagated Preferences? Political Elite Discourses and Europeans’ Openness toward Muslim Immigrants</div>
       <div class="pub-authors"><u>Czymara</u>, C. S.</div>
       <div class="pub-venue"><em>International Migration Review</em></div>
     </div>
@@ -630,7 +630,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1093/esr/jcx071" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/esr.jpg" alt="European Sociological Review cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe's 'Immigration Crisis'</div>
+      <div class="pub-title">Refugees Unwelcome? Changes in the Public Acceptance of Immigrants and Refugees in Germany in the Course of Europe’s “Immigration Crisis”</div>
       <div class="pub-authors"><u>Czymara</u>, C. S. &amp; Schmidt-Catran, A. W.</div>
       <div class="pub-venue"><em>European Sociological Review</em></div>
     </div>
@@ -652,7 +652,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.1007/s11577-016-0361-x" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/kzfss.jpg" alt="Kölner Zeitschrift für Soziologie und Sozialpsychologie cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is welcome in Germany? A Vignette Study on the Acceptance of Immigrants)</div>
+      <div class="pub-title">Wer ist in Deutschland willkommen? Eine Vignettenanalyse zur Akzeptanz von Einwanderern (Who is Welcome in Germany? A Vignette Study on the Acceptance of Immigrants)</div>
       <div class="pub-authors"><u>Czymara</u>, C. S. &amp; Schmidt-Catran, A. W.</div>
       <div class="pub-venue"><em>Kölner Zeitschrift für Soziologie und Sozialpsychologie</em></div>
     </div>
@@ -673,7 +673,7 @@ permalink: /publications/
 
 <div class="pub-entry" data-year="2018">
   <div class="pub-grid">
-    <div class="pub-cover"><a href="https://kups.ub.uni-koeln.de/9150/" target="_blank" rel="noopener" tabindex="-1"><span class="pub-cover-text">Doctoral Dissertation</span></a></div>
+    <div class="pub-cover"><a href="https://kups.ub.uni-koeln.de/9150/" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/dissertation.jpg" alt="Doctoral dissertation cover" loading="lazy"></a></div>
     <div class="pub-text">
       <div class="pub-title">Discursive Determinants of Attitudes towards Immigrants: Political Parties and Mass Media as Contextual Sources of Threat Perceptions</div>
       <div class="pub-authors"><u>Czymara</u>, C. S.</div>
@@ -756,7 +756,7 @@ permalink: /publications/
   <div class="pub-grid">
     <div class="pub-cover"><a href="https://doi.org/10.4324/9781003533368-8" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/book-cremes.jpg" alt="Computational Research in Ethnic and Migration Studies cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Catalyst of hate? Ethnic insulting on YouTube in the aftermath of terror attacks in France, Germany and the United Kingdom 2014–2017</div>
+      <div class="pub-title">Catalyst of Hate? Ethnic Insulting on YouTube in the Aftermath of Terror Attacks in France, Germany and the United Kingdom 2014–2017</div>
       <div class="pub-authors"><u>Czymara</u>, C. S., Dochow-Sondershaus, S., Drouhot, L. G., Şimşek, M., &amp; Spörlein, C.</div>
       <div class="pub-venue">In: <em>Computational Research in Ethnic and Migration Studies</em> (Routledge) ✓</div>
     </div>

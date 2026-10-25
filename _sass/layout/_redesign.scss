@@ -479,6 +479,75 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* Year timelines (publications, outreach, teaching)
+   ========================================================================== */
+
+.timeline { margin-top: 1.2em; }
+
+.timeline__group {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.timeline__year {
+  font-size: 0.8em;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  line-height: 1.55;
+  color: var(--global-text-color);
+  opacity: 0.6;
+}
+
+.timeline__items {
+  position: relative;
+  border-left: 1px solid var(--global-box-border-color);
+  padding: 0 0 1.6em 32px;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -4px;
+    top: 0.45em;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--global-base-color);
+  }
+}
+
+.timeline__group:last-child .timeline__items { padding-bottom: 0; }
+
+/* rem, so dates and labels are the same size wherever they sit in an entry */
+.timeline__date {
+  margin-left: 6px;
+  font-size: 0.8rem;
+  font-weight: normal;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.6;
+}
+
+.timeline__tag {
+  margin-left: 6px;
+  padding: 1px 6px;
+  font-size: 0.7rem;
+  font-weight: normal;
+  border: 1px solid var(--global-box-border-color);
+  border-radius: 3px;
+  opacity: 0.8;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .timeline__group { display: block; }
+  .timeline__year { margin-bottom: 0.4em; }
+  .timeline__items { padding-left: 22px; }
+}
+
+/* tables (CV) use the same size as the secondary lines in the timelines */
+.page__content table {
+  font-size: 0.88em;
+}
+
 /* Footer
    ========================================================================== */
 

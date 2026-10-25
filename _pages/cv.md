@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Curriculum Vitæ"
 permalink: /cv/
 author_profile: true

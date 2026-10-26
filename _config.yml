@@ -241,6 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sticky_headings: true
 
 
 # Sass/SCSS

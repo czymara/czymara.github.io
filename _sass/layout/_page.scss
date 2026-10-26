@@ -402,7 +402,7 @@
 
 
 /*
-   Sticky headings (front matter: sticky_headings: true): while scrolling,
+   Sticky headings (front matter: sticky_headings, on for all pages in _config.yml): while scrolling,
    the current h2 stays below the masthead and the current h3 below that.
    --sticky-top and --sticky-h2 are measured in _layouts/single.html
    ========================================================================== */
@@ -414,6 +414,8 @@
     position: sticky;
     z-index: 5;
     background-color: var(--global-bg-color);
+    /* widen the background to also cover things that stick out of the text column, like citation badges */
+    box-shadow: -1em 0 0 var(--global-bg-color), 1em 0 0 var(--global-bg-color);
   }
 
   h2 {

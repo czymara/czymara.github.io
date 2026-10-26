@@ -403,9 +403,25 @@
 
 /*
    Sticky headings (front matter: sticky_headings, on for all pages in _config.yml): while scrolling,
-   the current h2 stays below the masthead and the current h3 below that.
-   --sticky-top and --sticky-h2 are measured in _layouts/single.html
+   the page title stays below the masthead, the current h2 below the title and the current h3 below that.
+   --sticky-top, --sticky-h1 and --sticky-h2 are measured in _layouts/single.html
    ========================================================================== */
+
+.page--sticky-headings .page__inner-wrap > header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: var(--sticky-top, #{$masthead-height});
+  z-index: 6;
+  /* the title's bottom margin becomes padding, so the stuck title keeps a little room below it */
+  padding-bottom: 0.3em;
+  margin-bottom: 0.7em;
+  background-color: var(--global-bg-color);
+  box-shadow: -1em 0 0 var(--global-bg-color), 1em 0 0 var(--global-bg-color);
+
+  .page__title {
+    margin-bottom: 0;
+  }
+}
 
 .page--sticky-headings .page__content {
   h2,
@@ -419,11 +435,11 @@
   }
 
   h2 {
-    top: var(--sticky-top, #{$masthead-height});
+    top: calc(var(--sticky-top, #{$masthead-height}) + var(--sticky-h1, 0px));
   }
 
   h3 {
-    top: calc(var(--sticky-top, #{$masthead-height}) + var(--sticky-h2, 0px));
+    top: calc(var(--sticky-top, #{$masthead-height}) + var(--sticky-h1, 0px) + var(--sticky-h2, 0px));
     padding: 0.4em 0;
   }
 }

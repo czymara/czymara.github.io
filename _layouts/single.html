@@ -99,14 +99,16 @@ layout: default
 
   {% if page.sticky_headings %}
   <script>
-  /* sticky headings sit right below the masthead, and h3s below the h2 */
+  /* sticky headings sit right below the masthead: the page title first, then the h2, then the h3 */
   (function () {
-    var root = document.documentElement, masthead = document.querySelector(".masthead"), h2 = document.querySelector(".page__content h2");
+    var root = document.documentElement, masthead = document.querySelector(".masthead"), h1 = document.querySelector(".page__inner-wrap > header"), h2 = document.querySelector(".page__content h2");
     function fit() {
       root.style.setProperty("--sticky-top", (masthead ? Math.floor(masthead.getBoundingClientRect().height) : 0) + "px");
+      root.style.setProperty("--sticky-h1", (h1 ? h1.offsetHeight : 0) + "px");
       root.style.setProperty("--sticky-h2", (h2 ? h2.offsetHeight : 0) + "px");
     }
     fit(); window.addEventListener("load", fit); window.addEventListener("resize", fit);
+    if (window.ResizeObserver && h1) { new ResizeObserver(fit).observe(h1); }
   })();
   </script>
   {% endif %}

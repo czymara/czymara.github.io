@@ -443,3 +443,23 @@
     padding: 0.4em 0;
   }
 }
+
+/* timeline years (publications, outreach, teaching) stay below the stuck headings while their entries scroll by */
+.page--sticky-headings .timeline__year {
+  position: -webkit-sticky;
+  position: sticky;
+  top: calc(var(--sticky-top, #{$masthead-height}) + var(--sticky-h1, 0px) + var(--sticky-h2, 0px) + 0.5em);
+  align-self: start;
+  z-index: 4;
+
+  /* on phones the year sits above the entries, so it sticks flush under the headings with a background for them to scroll under */
+  @media (max-width: 600px) {
+    top: calc(var(--sticky-top, #{$masthead-height}) + var(--sticky-h1, 0px) + var(--sticky-h2, 0px));
+    padding: 0.3em 0;
+    /* the year is normally muted with opacity, which would also make the background see-through */
+    opacity: 1;
+    color: color-mix(in srgb, var(--global-text-color) 60%, var(--global-bg-color));
+    background-color: var(--global-bg-color);
+    box-shadow: -1em 0 0 var(--global-bg-color), 1em 0 0 var(--global-bg-color);
+  }
+}

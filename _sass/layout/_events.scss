@@ -77,11 +77,19 @@
     padding-right: 230px;
   }
 
+  /* the column spans the full height of #main so its contents can stick while scrolling */
   .right-column {
     position: absolute;
     top: 0;
+    bottom: 0;
     right: 1em;
     width: 200px;
+  }
+
+  .right-column__inner {
+    position: -webkit-sticky;
+    position: sticky;
+    top: calc(#{$masthead-height} + 1em); /* lowered by _layouts/single.html when taller than the window */
   }
 
   .events-sidebar,

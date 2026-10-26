@@ -399,3 +399,29 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Sticky headings (front matter: sticky_headings: true): while scrolling,
+   the current h2 stays below the masthead and the current h3 below that.
+   --sticky-top and --sticky-h2 are measured in _layouts/single.html
+   ========================================================================== */
+
+.page--sticky-headings .page__content {
+  h2,
+  h3 {
+    position: -webkit-sticky;
+    position: sticky;
+    z-index: 5;
+    background-color: var(--global-bg-color);
+  }
+
+  h2 {
+    top: var(--sticky-top, #{$masthead-height});
+  }
+
+  h3 {
+    top: calc(var(--sticky-top, #{$masthead-height}) + var(--sticky-h2, 0px));
+    padding: 0.4em 0;
+  }
+}

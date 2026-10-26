@@ -6,6 +6,7 @@ author_profile: false
 events_sidebar: true
 recent_sidebar: true
 citations_sidebar: true
+sticky_headings: true
 hero:
   kicker: "Migration · Integration · Quantitative Methods · Computational Social Science"
   title: "Christian S. Czymara"

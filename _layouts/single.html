@@ -21,7 +21,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <article class="page{% if page.events_sidebar or page.recent_sidebar %} page--events{% endif %}{% if page.hero %} page--hero{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="page{% if page.events_sidebar or page.recent_sidebar %} page--events{% endif %}{% if page.hero %} page--hero{% endif %}{% if page.sticky_headings %} page--sticky-headings{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
@@ -97,8 +97,23 @@ layout: default
     {% endif %}
   </article>
 
+  {% if page.sticky_headings %}
+  <script>
+  /* sticky headings sit right below the masthead, and h3s below the h2 */
+  (function () {
+    var root = document.documentElement, masthead = document.querySelector(".masthead"), h2 = document.querySelector(".page__content h2");
+    function fit() {
+      root.style.setProperty("--sticky-top", (masthead ? Math.floor(masthead.getBoundingClientRect().height) : 0) + "px");
+      root.style.setProperty("--sticky-h2", (h2 ? h2.offsetHeight : 0) + "px");
+    }
+    fit(); window.addEventListener("load", fit); window.addEventListener("resize", fit);
+  })();
+  </script>
+  {% endif %}
+
   {% if page.events_sidebar or page.recent_sidebar %}
   <div class="right-column">
+    <div class="right-column__inner">
     {% if page.events_sidebar %}{% include events-sidebar.html %}{% endif %}
     {% if page.recent_sidebar %}{% include recent-sidebar.html %}{% endif %}
     {% if page.citations_sidebar %}
@@ -107,12 +122,20 @@ layout: default
       {% include scholar-chart.html %}
     </div>
     {% endif %}
+    </div>
   </div>
   <script>
-  /* on wide screens the right column is taken out of the flow, so keep the footer below it */
+  /* on wide screens the right column is taken out of the flow, so keep the footer below it;
+     a column taller than the window sticks by its bottom edge so all of it can be scrolled into view */
   (function () {
-    var col = document.querySelector(".right-column"), main = document.getElementById("main");
-    function fit() { main.style.minHeight = getComputedStyle(col).position === "absolute" ? (col.offsetHeight + 32) + "px" : ""; }
+    var col = document.querySelector(".right-column__inner"), main = document.getElementById("main");
+    function fit() {
+      var wide = getComputedStyle(col.parentNode).position === "absolute";
+      main.style.minHeight = wide ? (col.offsetHeight + 32) + "px" : "";
+      col.style.top = "";
+      var top = parseFloat(getComputedStyle(col).top);
+      col.style.top = wide && col.offsetHeight + top + 16 > window.innerHeight ? (window.innerHeight - col.offsetHeight - 16) + "px" : "";
+    }
     fit(); window.addEventListener("load", fit); window.addEventListener("resize", fit);
   })();
   </script>

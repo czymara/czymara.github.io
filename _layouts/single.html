@@ -101,6 +101,29 @@ layout: default
   <script>
   /* sticky headings sit right below the masthead: the page title first, then the h2, then the h3 */
   (function () {
+    /* wrap each h2 (and each h3) with the content that follows it, so a heading only sticks within its own section
+       and an earlier section's h3 does not stay stuck under a later h2 */
+    function wrap(parent, tag, stops) {
+      var el = parent.firstElementChild, section = null;
+      while (el) {
+        var next = el.nextElementSibling;
+        if (el.tagName === tag) {
+          section = document.createElement("div");
+          section.className = "sticky-section";
+          parent.insertBefore(section, el);
+        } else if (stops.indexOf(el.tagName) !== -1 || el.classList.contains("sticky-section")) {
+          section = null;
+        }
+        if (section) section.appendChild(el);
+        el = next;
+      }
+    }
+    var content = document.querySelector(".page__content");
+    if (content) {
+      wrap(content, "H2", []);
+      [content].concat([].slice.call(content.querySelectorAll(":scope > .sticky-section"))).forEach(function (s) { wrap(s, "H3", ["H2"]); });
+    }
+
     var root = document.documentElement, masthead = document.querySelector(".masthead"), h1 = document.querySelector(".page__inner-wrap > header"), h2 = document.querySelector(".page__content h2");
     function fit() {
       root.style.setProperty("--sticky-top", (masthead ? Math.floor(masthead.getBoundingClientRect().height) : 0) + "px");

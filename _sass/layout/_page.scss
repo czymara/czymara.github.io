@@ -404,7 +404,7 @@
 /*
    Sticky headings (front matter: sticky_headings, on for all pages in _config.yml): while scrolling,
    the page title stays below the masthead, the current h2 below the title and the current h3 below that.
-   --sticky-top, --sticky-h1 and --sticky-h2 are measured in _layouts/single.html
+   --sticky-top, --sticky-h1 and (per section) --sticky-h2 are measured in _layouts/single.html
    ========================================================================== */
 
 .page--sticky-headings .page__inner-wrap > header {

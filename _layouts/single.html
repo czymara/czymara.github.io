@@ -124,14 +124,20 @@ layout: default
       [content].concat([].slice.call(content.querySelectorAll(":scope > .sticky-section"))).forEach(function (s) { wrap(s, "H3", ["H2"]); });
     }
 
-    var root = document.documentElement, masthead = document.querySelector(".masthead"), h1 = document.querySelector(".page__inner-wrap > header"), h2 = document.querySelector(".page__content h2");
+    var root = document.documentElement, masthead = document.querySelector(".masthead"), h1 = document.querySelector(".page__inner-wrap > header"),
+        sections = content ? [].slice.call(content.querySelectorAll(":scope > .sticky-section")) : [];
     function fit() {
       root.style.setProperty("--sticky-top", (masthead ? Math.floor(masthead.getBoundingClientRect().height) : 0) + "px");
       root.style.setProperty("--sticky-h1", (h1 ? h1.offsetHeight : 0) + "px");
-      root.style.setProperty("--sticky-h2", (h2 ? h2.offsetHeight : 0) + "px");
+      /* each section gets its own h2 height, since headings can wrap onto a different number of lines */
+      sections.forEach(function (s) { s.style.setProperty("--sticky-h2", s.firstElementChild.offsetHeight + "px"); });
     }
     fit(); window.addEventListener("load", fit); window.addEventListener("resize", fit);
-    if (window.ResizeObserver && h1) { new ResizeObserver(fit).observe(h1); }
+    if (window.ResizeObserver) {
+      var ro = new ResizeObserver(fit);
+      if (h1) ro.observe(h1);
+      sections.forEach(function (s) { ro.observe(s.firstElementChild); });
+    }
   })();
   </script>
   {% endif %}

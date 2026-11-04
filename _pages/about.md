@@ -31,7 +31,7 @@ I study how people view [immigrants and refugees](https://doi.org/10.1093/esr/jc
 
 ### Relations among minority groups
 
-Intergroup attitudes are usually studied as something majorities hold about minorities. I study how minority groups view one another, for example [how people with a migration background view immigration](https://nidi.nl/demos/hoe-nederlanders-met-en-zonder-migratieachtergrond-naar-immigranten-kijken/) or [attitudes toward Jews among Muslims](https://doi.org/10.1093/esr/jcaf017), and which factors shape these views, such as [religion](https://doi.org/10.3389/fsoc.2020.538926), identities, and social networks. I am also interested in how minorities relate to the host society, for example in their [trust in institutions](https://doi.org/10.1080/01419870.2022.2060711).
+Intergroup attitudes are usually studied as something majorities hold about minorities. I study how minority groups view one another, for example [how people with a migration background view immigration](https://nidi.nl/demos/hoe-nederlanders-met-en-zonder-migratieachtergrond-naar-immigranten-kijken/) or [attitudes toward Jews among Muslims](https://doi.org/10.1093/esr/jcaf017), and how these views relate to [social identifications](https://doi.org/10.1007/s11577-026-01100-w) and to peer networks. I am also interested in how minorities relate to the host society, for example in their [trust in institutions](https://doi.org/10.1080/01419870.2022.2060711) and their [values](https://doi.org/10.3389/fsoc.2020.538926).
 
 ### Computational social science
 

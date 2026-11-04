@@ -46,19 +46,24 @@ permalink: /publications/
 
 ## Peer-reviewed Journal Articles
 
-<div class="pub-entry" data-year="forthcoming">
+<div class="pub-entry" data-year="2026">
   <div class="pub-grid">
-    <div class="pub-cover"><img src="/images/covers/kzfss.jpg" alt="Kölner Zeitschrift für Soziologie und Sozialpsychologie cover" loading="lazy"></div>
+    <div class="pub-cover"><a href="https://doi.org/10.1007/s11577-026-01100-w" target="_blank" rel="noopener" tabindex="-1"><img src="/images/covers/kzfss.jpg" alt="Kölner Zeitschrift für Soziologie und Sozialpsychologie cover" loading="lazy"></a></div>
     <div class="pub-text">
-      <div class="pub-title">Attitudes toward Jews Among Muslim Youth in Germany: The Diverging Roles of German, Origin, and Religious Identification</div>
+      <div class="pub-title">Attitudes Toward Jews Among Muslim Youths in Germany: The Diverging Roles of German, Origin, and Religious Identification</div>
       <div class="pub-authors"><u>Czymara</u>, C. S., &amp; Leszczensky, L.</div>
       <div class="pub-venue"><em>Kölner Zeitschrift für Soziologie und Sozialpsychologie</em></div>
     </div>
-    <div class="pub-badge"></div>
+    <div class="pub-badge"><div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11577-026-01100-w" data-hide-no-mentions="true" data-badge-popover="left"></div></div>
   </div>
   <div class="pub-links">
+    <a href="#" class="abstract-toggle">▼ Abstract</a>
+    <a href="https://doi.org/10.1007/s11577-026-01100-w" target="_blank" rel="noopener"><i class="fas fa-arrow-up-right-from-square"></i> View</a>
+    <a href="/files/Czymara_2026_Attitudes%20Toward%20Jews%20Among%20Muslim%20Youths%20in%20Germany.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> PDF</a>
     <a href="https://osf.io/zdcga/" target="_blank" rel="noopener"><i class="ai ai-osf"></i> Materials</a>
   </div>
+
+  <div class="pub-abstract">Hostilities toward Jews threaten Jewish life and social cohesion in Germany and beyond. Because antisemitic worldviews are difficult to change once established, it is essential to study the correlates of anti-Jewish attitudes during adolescence, when education can still counteract them. Muslim youths in Germany are a particularly relevant group to study, as their attitudes are shaped by contexts with varying antisemitism norms, namely their religion, their origin, and the German host society. Using survey data collected in 2013–2017 from 1600 students in ten ethnoreligiously diverse German schools, we examine how social identifications relate to Muslim youths’ attitudes toward Jews. Results show that Muslim youths hold significantly more negative attitudes than their Christian and nonreligious peers, partly explained by origin effects. Yet about half of the difference remains unexplained by demographic, socioeconomic, or cultural capital factors. Further, we demonstrate that different types of identification play diverging roles among Muslim youths: While identification with Germany relates to more positive attitudes toward Jews, identification with their country of origin or with Islam is associated with more negative attitudes. Religious practice is also associated with more negative attitudes. When all identifications are modeled simultaneously, however, only German and religious identifications are statistically significant. These findings suggest that social identifications may shape attitudes in different ways: National identification can buffer against antisemitism where societal norms condemn it, and identification with contexts without such norms can reinforce it. </div>
 </div>
 
 <div class="pub-entry" data-year="2026">

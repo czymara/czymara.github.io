@@ -30,21 +30,16 @@ start = source.find("## Peer-reviewed Journal Articles")
 end = source.find("\n## ", start + 1)
 section = source[start:end if end != -1 else len(source)]
 
-entries = re.findall(r'<div class="pub-entry">(.*?)\n</div>', section, re.S)
+entries = re.findall(r'<div class="pub-entry" data-year="([^"]*)">(.*?)\n</div>', section, re.S)
 
 items = []
-for entry in entries:
+for year, entry in entries:
     if len(items) == N:
         break
 
-    text = re.search(r'<div class="pub-text">(.*?)</div>', entry, re.S)
-    if not text:
-        continue
-    raw = text.group(1)
-
     # Only published work belongs here. Accepted-but-unpublished entries carry
-    # "(forthcoming)" instead of a year.
-    if "(forthcoming)" in raw:
+    # data-year="forthcoming" instead of a year.
+    if not re.fullmatch(r"\d{4}", year):
         continue
 
     # use whatever the "View" button points to (DOI or other publisher page)
@@ -53,23 +48,11 @@ for entry in entries:
         continue
     link = link.group(1)
 
-    # citation text without the leading number and without markup
-    citation = re.sub(r'<span class="pub-num">.*?</span>', "", raw)
-    citation = re.sub(r"<[^>]+>", "", citation)
-    citation = html.unescape(" ".join(citation.split()))
+    def field(name):
+        m = re.search(r'<div class="%s">(.*?)</div>' % name, entry, re.S)
+        return html.unescape(" ".join(re.sub(r"<[^>]+>", "", m.group(1)).split())) if m else ""
 
-    # journal name sits in <em><strong>...</strong></em>
-    venue = re.search(r"<em><strong>(.*?)</strong></em>", raw, re.S)
-    venue = html.unescape(re.sub(r"<[^>]+>", "", venue.group(1)).strip()) if venue else ""
-
-    # title: between the year in parentheses and the venue
-    title = re.search(r"\((?:\d{4}[a-z]?|forthcoming)\)\.\s*(.*?)\.\s*$", citation.split(venue)[0].strip())
-    title = title.group(1).strip() if title else ""
-
-    year = re.search(r"\((\d{4}|forthcoming)[a-z]?\)", citation)
-    year = year.group(1) if year else ""
-
-    items.append({"title": title, "venue": venue, "year": year, "url": link})
+    items.append({"title": field("pub-title"), "venue": field("pub-venue"), "year": year, "url": link})
 
 
 def q(value):
